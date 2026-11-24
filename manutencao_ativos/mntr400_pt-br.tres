@@ -1,0 +1,25 @@
+0001#STR0001#ALL#O relatório apresentará as Multas por Responsabilidade
+0002#STR0002#ALL#Multas por Responsabilidade
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#De Ano             ?
+0006#STR0006#ALL#Ate Ano            ?
+0007#STR0007#ALL#De Infração        ?
+0008#STR0008#ALL#Até Infração       ?
+0009#STR0009#ALL#Filial             ?
+0010#STR0010#ALL#Grupo de Filiais   ?
+0011#STR0011#ALL#Processando Registros...
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Processando Arquivo...
+0014#STR0014#ALL#Aguarde
+0015#STR0015#ALL#Tipos de Infrações de Trânsito        Qtde.Motorista   Valor Infração      %   Qtde.Empresa   Valor Infração      %
+0016#STR0016#ALL#Total
+0017#STR0017#ALL#Não existem dados para montar o relatório!
+0018#STR0018#ALL#ATENÇÃO
+0019#STR0019#ALL#Responsabilidade                    |   Motorista             |   Empresa               |   Pessoa Fisica         |   P.Juridica e fisica   |   Seguradora            |   Transportador         |   Expedidor
+0020#STR0020#ALL#Tipos de Infrações de Trânsito      |Qtd.  Val.Infração     % |Qtd.  Val.Infração     % |Qtd.  Val.Infração     % |Qtd.  Val.Infração     % |Qtd.  Val.Infração     % |Qtd.  Val.Infração     % |Qtd.  Val.Infração     %
+0021#STR0021#ALL#Grupo de Filiais : 
+0022#STR0022#ALL#Filial.: 
+0023#STR0023#ALL#Ano informado não poderá ser maior que 
+0024#STR0024#ALL#Parâmetro Até Ano não pode ser menor que De Ano!
+0025#STR0025#ALL#O Ano informado deverá conter 4 dígitos!

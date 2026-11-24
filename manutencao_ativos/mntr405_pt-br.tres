@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Relatório de Infrações de Trânsito por Filial e Grupo de Filial - Recurso.
+0004#STR0004#ALL#Apresentará as infrações de trânsito ocorridas em um determinado 
+0005#STR0005#ALL#período, classificando por Grupo de Filial e por Filial. Emitindo 
+0006#STR0006#ALL# resumo no final de quantidade de multas recebidas por Status.
+0007#STR0007#ALL#De  Ano ?
+0008#STR0008#ALL#Ate Ano ?
+0009#STR0009#ALL#De  Infracao ?
+0010#STR0010#ALL#Ate Infracao ?
+0011#STR0011#ALL#De  Grupo Filial ?
+0012#STR0012#ALL#Ate Grupo Filial ?
+0013#STR0013#ALL#De  Filial ?
+0014#STR0014#ALL#Ate Filial ?
+0015#STR0015#ALL#Aguarde...
+0016#STR0016#ALL#Processando Registros...
+0017#STR0017#ALL#Selecionando Registros...
+0018#STR0018#ALL#Processando Arquivo...
+0019#STR0019#ALL#Filial
+0020#STR0020#ALL#QUANTIDADE
+0021#STR0021#ALL#PENDENTE
+0022#STR0022#ALL#REC.DEFER.
+0023#STR0023#ALL#REC.INDEF.
+0024#STR0024#ALL#TOTAL
+0025#STR0025#ALL#Não existem dados para montar o relatório!
+0026#STR0026#ALL#ATENÇÃO
+0027#STR0027#ALL#De Motorista       ?
+0028#STR0028#ALL#Até Motorista      ?
+0029#STR0029#ALL#TOTAL DE MULTAS POR STATUS:
+0030#STR0030#ALL#Registrada(s): 
+0031#STR0031#ALL#Em Andamento : 
+0032#STR0032#ALL#Concluída(s) : 
+0033#STR0033#ALL#TOTAL DE MULTAS POR MOTORISTA:
+0034#STR0034#ALL#Ano informado não poderá ser maior que 
+0035#STR0035#ALL#TOTAL DO GRUPO DE FILIAL
+0036#STR0036#ALL#SEM RECURSO
+0037#STR0037#ALL#O Ano informado deverá conter 4 dígitos!

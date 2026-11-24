@@ -1,0 +1,75 @@
+0001#STR0001#ALL#Grupo                  ?
+0002#STR0002#ALL#Medida
+0003#STR0003#ALL#Modelo
+0004#STR0004#ALL#Fabricante
+0005#STR0005#ALL#Tipo Rel.              ?
+0006#STR0006#ALL#Analítico
+0007#STR0007#ALL#Sintético
+0008#STR0008#ALL#De Filial              ?
+0009#STR0009#ALL#Até Filial             ?
+0010#STR0010#ALL#De Centro de Custo     ?
+0011#STR0011#ALL#Até Centro de Custo    ?
+0012#STR0012#ALL#De Centro de Trabalho  ?
+0013#STR0013#ALL#Até Centro de Trabalho ?
+0014#STR0014#ALL#De Família             ?
+0015#STR0015#ALL#Até Família            ?
+0016#STR0016#ALL#De Modelo              ?
+0017#STR0017#ALL#Até Modelo             ?
+0018#STR0018#ALL#De Medida              ?
+0019#STR0019#ALL#Até Medida             ?
+0020#STR0020#ALL#De Fabricante          ?
+0021#STR0021#ALL#Até Fabricante         ?
+0022#STR0022#ALL#Banda                  ?
+0023#STR0023#ALL#De Status              ?
+0024#STR0024#ALL#Até Status             ?
+0025#STR0025#ALL#Relatório por Pneus
+0026#STR0026#ALL#INATIVO
+0027#STR0027#ALL#Pneu...: 
+0028#STR0028#ALL#Modelo: 
+0029#STR0029#ALL#Fabricante: 
+0030#STR0030#ALL#Medida: 
+0031#STR0031#ALL#Dot: 
+0032#STR0032#ALL# - Vencido
+0033#STR0033#ALL# - A Vencer
+0034#STR0034#ALL#Serie..:
+0035#STR0035#ALL#Km Total: 
+0036#STR0036#ALL#Banda: 
+0037#STR0037#ALL#Sulco(mm): 
+0038#STR0038#ALL#Medição: 
+0039#STR0039#ALL#Status: 
+0040#STR0040#ALL#Veículo: 
+0041#STR0041#ALL#Posição: 
+0042#STR0042#ALL#Eixo: 
+0043#STR0043#ALL#Tipo Eixo: 
+0044#STR0044#ALL#Relatorio Analitico ou Sintetico dos Pneus por Veiculo.
+0045#STR0045#ALL#Permite agrupar os pneus por medida, modelo, fabricante, totalizando
+0046#STR0046#ALL#a quantidade de pneus por esses grupos
+0047#STR0047#ALL#Zebrado
+0048#STR0048#ALL#Administracao
+0049#STR0049#ALL#Aguarde...
+0050#STR0050#ALL#Processando Registros...
+0051#STR0051#ALL#Pneu        Modelo                Medida                Situação  Status                          Banda    Km OR    Km R1    Km R2    Km R3   Km R4   Km Total    Sulco   Dt Medição
+0052#STR0052#ALL#Pneu        Modelo               Fabricante     Dot             Série          Km Total  Banda  Sulco   Medição     Status                     Veículo     Posição  Eixo Tipo Eixo     Motivo       Km Percorrido Km Veiculo
+0053#STR0053#ALL#Pneu        Modelo               Medida         Dot             Série          Km Total  Banda  Sulco   Medição     Status                     Veículo     Posição  Eixo Tipo Eixo     Motivo       Km Percorrido Km Veiculo
+0054#STR0054#ALL#CANCELADO PELO OPERADOR
+0055#STR0055#ALL#Total de pneus listados: 
+0056#STR0056#ALL#Operação: 
+0057#STR0057#ALL#Medida - 
+0058#STR0058#ALL#   - Total de Pneus: 
+0059#STR0059#ALL#Filial: 
+0060#STR0060#ALL#Modelo - 
+0061#STR0061#ALL#Fabricante - 
+0062#STR0062#ALL#ATIVO
+0063#STR0063#ALL#OR
+0064#STR0064#ALL#R1
+0065#STR0065#ALL#R2
+0066#STR0066#ALL#R3
+0067#STR0067#ALL#R4
+0068#STR0068#ALL#Livre
+0069#STR0069#ALL#Tração
+0070#STR0070#ALL#Direção
+0071#STR0071#ALL#Dir/Traç
+0072#STR0072#ALL#Não existem dados para montar o relatório.
+0073#STR0073#ALL#ATENÇÃO
+0074#STR0074#ALL#Operação não informada no Centro de Custo do Pneu
+0075#STR0075#ALL#Pergunta

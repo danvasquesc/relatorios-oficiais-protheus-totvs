@@ -1,0 +1,30 @@
+0001#STR0001#ALL#Relatorio de resumo das ordens de servico separando preventivas
+0002#STR0002#ALL#e corretivas, classificado por familia e bem
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Resumo de Ordens de Servico Preventivas x Corretivas
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Familia....:
+0008#STR0008#ALL#-----------------------Corretivas------------------------     -----------------------Preventivas-----------------------
+0009#STR0009#ALL#Bem               Servico  Ordem   Dt. Aber.   Dt. Fech.      Bem               Servico  Ordem   Dt. Aber.   Dt. Fech.
+0010#STR0010#ALL#Total do Bem.....:
+0011#STR0011#ALL#Total da Familia.:
+0012#STR0012#ALL#Ordens de Servico Por Familia e Bem
+0013#STR0013#ALL#Periodo de:
+0014#STR0014#ALL#ate
+0015#STR0015#ALL#Localização
+0016#STR0016#ALL#Imprimir Localização ?
+0017#STR0017#ALL#Sim
+0018#STR0018#ALL#Não
+0019#STR0019#ALL#Informe se deve imprimir a localização:
+0020#STR0020#ALL#1-Sim
+0021#STR0021#ALL#2-Não
+0022#STR0022#ALL#De Centro Custo ?
+0023#STR0023#ALL#Até Centro Custo ?
+0024#STR0024#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0025#STR0025#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.
+0026#STR0026#ALL#Localizações
+0027#STR0027#ALL#Localização       Servico  Ordem   Dt. Aber.   Dt. Fech.
+0028#STR0028#ALL#Total da Loc. ...:
+0029#STR0029#ALL#Não há dados para impressão!
+0030#STR0030#ALL#Aviso

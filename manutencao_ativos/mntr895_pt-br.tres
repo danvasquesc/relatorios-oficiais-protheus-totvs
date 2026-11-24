@@ -1,0 +1,19 @@
+0001#STR0001#ALL#O relatorio apresentará as manutenções atrasadas.
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Relatório de Manutenções em Atraso
+0005#STR0005#ALL#Até Data         ?
+0006#STR0006#ALL#De Familia       ?
+0007#STR0007#ALL#Até Familia      ?
+0008#STR0008#ALL#De Bem           ?
+0009#STR0009#ALL#Até Bem          ?
+0010#STR0010#ALL#Classificação    ?
+0011#STR0011#ALL#Bem/Dias Venc.
+0012#STR0012#ALL#Dias Venc./Bem
+0013#STR0013#ALL#Aguarde...
+0014#STR0014#ALL#Processando Registros...
+0015#STR0015#ALL#Bem               Nome                                      Serv.   Descrição                                 Seq.  Acompanhamento     Ult.Man.  Próx.Man. Venc.(D) Acumulado Atual      Cont.Manut. Incremento     Vencido
+0016#STR0016#ALL#CANCELADO PELO OPERADOR
+0017#STR0017#ALL#Não existem dados para montar o Relatório!
+0018#STR0018#ALL#Atenção!
+0019#STR0019#ALL#Obs.: Quando a manutenção possuir data menor que a data do último acompanhamento, ou seja, a manutenção estiver atrasada e for regressiva, a mesma não aparecerá no relatório.

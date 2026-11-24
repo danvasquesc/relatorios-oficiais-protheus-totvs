@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Relatorio de apresentacao das Ordens de Servico de manutencao pendentes.
+0002#STR0002#ALL#Atraves dos parametros o usuario podera efetuar a selecao desejada.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Equipamentos Sujeitos a Manutenção Preventiva
+0006#STR0006#ALL#De Período         ?
+0007#STR0007#ALL#Ate Período        ?
+0008#STR0008#ALL#De Filial          ?
+0009#STR0009#ALL#Ate Filial         ?
+0010#STR0010#ALL#De Centro de Custo ?
+0011#STR0011#ALL#Ate Centro de Custo?
+0012#STR0012#ALL#De Modelo          ?
+0013#STR0013#ALL#Ate Modelo         ?
+0014#STR0014#ALL#Bem               C.Custo               Fabricante/Modelo                          Familia  Unid.  Cont.Acumulado   Prox.Man.   Antecedência  Situação  Manutenção                           Increm.  Nr. O.S.  Data O.S.
+0015#STR0015#ALL#CANCELADO PELO OPERADOR
+0016#STR0016#ALL#Data final não pode ser inferior à data inicial!
+0017#STR0017#ALL#De Familia         ?
+0018#STR0018#ALL#Ate Familia        ?
+0019#STR0019#ALL#De Centro de Trabalho   ?
+0020#STR0020#ALL#Até Centro de Trabalho  ?
+0021#STR0021#ALL#Localização
+0022#STR0022#ALL#Imprimir Localização ?
+0023#STR0023#ALL#Sim
+0024#STR0024#ALL#Não
+0025#STR0025#ALL#Informe se deve imprimir a localização:
+0026#STR0026#ALL#1-Sim
+0027#STR0027#ALL#2-Não
+0028#STR0028#ALL#ATENÇÃO
+0029#STR0029#ALL#Não existem dados para montar o relatório.

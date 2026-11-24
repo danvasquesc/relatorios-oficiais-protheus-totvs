@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relatório de Abastecimentos c/ Custos e Consumo
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#De Filial              ?
+0005#STR0005#ALL#Ate Filial             ?
+0006#STR0006#ALL#De Familia             ?
+0007#STR0007#ALL#Ate Familia            ?
+0008#STR0008#ALL#De Modelo              ?
+0009#STR0009#ALL#Ate Modelo             ?
+0010#STR0010#ALL#De Frota               ?
+0011#STR0011#ALL#Ate Frota              ?
+0012#STR0012#ALL#De Data                ?
+0013#STR0013#ALL#Ate Data               ?
+0014#STR0014#ALL#Tipo Relatório         ?
+0015#STR0015#ALL#Analít./Família
+0016#STR0016#ALL#Analít./Modelo
+0017#STR0017#ALL#Sintét./Família
+0018#STR0018#ALL#Sintét./Modelo
+0019#STR0019#ALL#Aguarde...
+0020#STR0020#ALL#Processando Registros...
+0021#STR0021#ALL#Frota             Família Desc.Família         Modelo     Desc.Modelo              Média Km/L   Custo Médio/L    Tot.Consumo/L           Tot.Custo
+0022#STR0022#ALL#Família    Desc.Família                     Qtd.Frotas  Média Km/L   Custo Médio/L    Tot.Consumo/L           Tot.Custo
+0023#STR0023#ALL#Modelo     Desc.Família                     Qtd.Frotas  Média Km/L   Custo Médio/L    Tot.Consumo/L           Tot.Custo
+0024#STR0024#ALL#Não existem dados para montar o relatório.
+0025#STR0025#ALL#ATENÇÃO
+0026#STR0026#ALL#     Família: 
+0027#STR0027#ALL#     Modelo : 
+0028#STR0028#ALL#Filial
+0029#STR0029#ALL#Totais 
+0030#STR0030#ALL#Data final não pode ser inferior à data inicial!
+0031#STR0031#ALL#Tot.Km
+0032#STR0032#ALL#Custo/Km
+0033#STR0033#ALL#Média Km/L

@@ -1,0 +1,22 @@
+0001#STR0001#ALL#De Filial Orig.             ?
+0002#STR0002#ALL#Até Filial Orig.            ?
+0003#STR0003#ALL#De Filial Dest.             ?
+0004#STR0004#ALL#Até Filial Dest.            ?
+0005#STR0005#ALL#De Família               	?
+0006#STR0006#ALL#Até Família            		?
+0007#STR0007#ALL#De Status              		?
+0008#STR0008#ALL#Até Status             		?
+0009#STR0009#ALL#De Dt. Trans.               ?
+0010#STR0010#ALL#Até Dt. Trans.            	?
+0011#STR0011#ALL#Aguarde...
+0012#STR0012#ALL#Processando Registros...
+0013#STR0013#ALL#O relatorio apresentará os bens que foram transferidos entre as filiais.
+0014#STR0014#ALL#Permite selecionar por família de bens, por status, Filial origem, 
+0015#STR0015#ALL#Filial destino e data transferido
+0016#STR0016#ALL#Zebrado
+0017#STR0017#ALL#Administracao
+0018#STR0018#ALL#Relatório de Bens transferidos entre filiais
+0019#STR0019#ALL#Data        Hora   Bem                   Nome                                     Medida                Família                                   Tipo Modelo           Status                Filial Destino
+0020#STR0020#ALL#CANCELADO PELO OPERADOR
+0021#STR0021#ALL#Filial de Origem: 
+0022#STR0022#ALL#Data final não pode ser inferior à data inicial!

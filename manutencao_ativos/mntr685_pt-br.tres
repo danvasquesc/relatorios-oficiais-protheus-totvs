@@ -1,0 +1,44 @@
+0001#STR0001#ALL#Relatorio de apresentacao de consumo previsto por tipo de insumo do
+0002#STR0002#ALL#plano de Manutencao. O usuario podera selecionar qual o tipo de insumo
+0003#STR0003#ALL#deseja analisar, bem como estabelecer um filtro das Ordens de  Servico
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Projecao de Consumo Por Insumo
+0007#STR0007#ALL#Produto
+0008#STR0008#ALL#Funcionario
+0009#STR0009#ALL#Ferramenta
+0010#STR0010#ALL#Terceiros
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Codigo..:
+0013#STR0013#ALL#Prior. Ordem  Bem              Nome                                                     Serv.  Nome                                      Tarefa  Data Inicio Hr.Ini. Data Fim   Hr.Fim   Quant.    Consumo Unid. Bloq. Dest.
+0014#STR0014#ALL#Especialidade
+0015#STR0015#ALL#Total do consumo do produto
+0016#STR0016#ALL#Sim
+0017#STR0017#ALL#Não
+0018#STR0018#ALL#Troca
+0019#STR0019#ALL#Apoio
+0020#STR0020#ALL#Substituição
+0021#STR0021#ALL#Insumo
+0022#STR0022#ALL#Código
+0023#STR0023#ALL#Descrição
+0024#STR0024#ALL#Detalhes
+0025#STR0025#ALL#Prior.
+0026#STR0026#ALL#Ordem
+0027#STR0027#ALL#Bem
+0028#STR0028#ALL#Nome
+0029#STR0029#ALL#Serv.
+0030#STR0030#ALL#Tarefa
+0031#STR0031#ALL#Data Inicio
+0032#STR0032#ALL#Hr.Ini.
+0033#STR0033#ALL#Data Fim
+0034#STR0034#ALL#Hr.Fim
+0035#STR0035#ALL#Quant.
+0036#STR0036#ALL#Consumo
+0037#STR0037#ALL#Unid.
+0038#STR0038#ALL#Bloq.
+0039#STR0039#ALL#Dest.
+0040#STR0040#ALL#Informe o Plano de Manutenção que deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar um Plano de Manutenção.
+0041#STR0041#ALL#De Centro Custo ?
+0042#STR0042#ALL#Até Centro Custo ?
+0043#STR0043#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0044#STR0044#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.

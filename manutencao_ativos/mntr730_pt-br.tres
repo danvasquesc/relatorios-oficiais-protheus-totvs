@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Paradas dos Bens nas Manutenções.
+0002#STR0002#ALL#Usar os Parâmetros para Selecionar o C.Custo, o Bem, o 
+0003#STR0003#ALL#Serviço e o Período de Paradas que Deseja Imprimir.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Paradas de Equipamentos para Manutenções
+0007#STR0007#ALL#   Bem              Descrição                                             Manutenção                                                                                     Hr.Par.  Hr.Esp.   Hr.Man.  Hr.h
+0008#STR0008#ALL#Total do Bem:
+0009#STR0009#ALL#Hr.Dis:
+0010#STR0010#ALL#Per:
+0011#STR0011#ALL#Centro de Custo:  
+0012#STR0012#ALL#Paradas:
+0013#STR0013#ALL#Total do C.Custo:
+0014#STR0014#ALL#Total Geral:
+0015#STR0015#ALL#Total da Manut: 
+0016#STR0016#ALL#Processando Arquivo...
+0017#STR0017#ALL#Normais
+0018#STR0018#ALL#Histórico
+0019#STR0019#ALL#*Média:  HP x HD:
+0020#STR0020#ALL#Bem
+0021#STR0021#ALL#do
+0022#STR0022#ALL#não cadastrado
+0023#STR0023#ALL#no
+0024#STR0024#ALL#ATENCÃO
+0025#STR0025#ALL#Calendário
+0026#STR0026#ALL#Selecionando Registros...
+0027#STR0027#ALL#Analítico
+0028#STR0028#ALL#Sintético
+0029#STR0029#ALL#   Bem              Descrição                 Ordem   Manutenção                Desc. Serviço               Contador   Dt.Par.Ini.  Hr.Par.Ini. Dt.Par.Fim  Hr.Par.Fim   Hr.Par.  Hr.Esp.   Hr.Man.  Hr.h
+0030#STR0030#ALL#Descrição
+0031#STR0031#ALL#CCusto
+0032#STR0032#ALL#Paradas
+0033#STR0033#ALL#Hr. Par
+0034#STR0034#ALL#Hr. Esp
+0035#STR0035#ALL#Hr. Man
+0036#STR0036#ALL#Hr. Hom
+0037#STR0037#ALL#Bem
+0038#STR0038#ALL#Nome
+0039#STR0039#ALL#Desc. Serviço
+0040#STR0040#ALL#Hr.Disp
+0041#STR0041#ALL#Percent
+0042#STR0042#ALL#Ordem
+0043#STR0043#ALL#Manutenção
+0044#STR0044#ALL#Contador
+0045#STR0045#ALL#Dt. Par. Inic.
+0046#STR0046#ALL#Hr. Par. Inic.
+0047#STR0047#ALL#Dt. Par. Final
+0048#STR0048#ALL#Hr. Par. Final
+0049#STR0049#ALL#Obs

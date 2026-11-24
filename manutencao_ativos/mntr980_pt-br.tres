@@ -1,0 +1,25 @@
+0001#STR0001#ALL#O relatório permitirá filtrar por documento, filial, período e UF. Totalizará os valores 
+0002#STR0002#ALL#pagos
+0003#STR0003#ALL#Relatório de Documentos Pagos no Período
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatório de Conciliação
+0007#STR0007#ALL#De Data            ?
+0008#STR0008#ALL#Ate Data           ?
+0009#STR0009#ALL#De Filial          ?
+0010#STR0010#ALL#Ate Filial         ?
+0011#STR0011#ALL#UF                 ?
+0012#STR0012#ALL#De Documento       ?
+0013#STR0013#ALL#Até Documento      ?
+0014#STR0014#ALL#Processando Registros...
+0015#STR0015#ALL#Selecionando Registros...
+0016#STR0016#ALL#Processando Arquivo...
+0017#STR0017#ALL#Aguarde
+0018#STR0018#ALL#    Docto.  Dt.Emissão  Placa     Bem               Nome                            UF  Parc.  Dt.Pgto.    Dt.Venc.    NF           Valor
+0019#STR0019#ALL#Total Geral
+0020#STR0020#ALL#Não existem dados para montar o Relatório!
+0021#STR0021#ALL#Atenção!
+0022#STR0022#ALL#Filial:
+0023#STR0023#ALL#Fornecedor:
+0024#STR0024#ALL#Loja:
+0025#STR0025#ALL#Serviço:

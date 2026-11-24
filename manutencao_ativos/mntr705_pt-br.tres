@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Relatorio do Roteiro de Lubrificacao. Roteiro a ser seguido com os bens e
+0002#STR0002#ALL#seus respectivos pontos de lubrificacao.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Roteiro
+0006#STR0006#ALL#Dt.Exec.        Bem               Nome do Bem                               Ponto                                     C.Custo               Nome C.Custo               Status
+0007#STR0007#ALL#Roteiro..:
+0008#STR0008#ALL#Processando Arquivo...
+0009#STR0009#ALL#Selecionando Registros...
+0010#STR0010#ALL#Dt.Exec.
+0011#STR0011#ALL#Bem
+0012#STR0012#ALL#Nome do Bem
+0013#STR0013#ALL#Ponto
+0014#STR0014#ALL#C.Custo
+0015#STR0015#ALL#Nome C.Custo
+0016#STR0016#ALL#Status
+0017#STR0017#ALL#Roteiro
+0018#STR0018#ALL#Descrição
+0019#STR0019#ALL#Bens
+0020#STR0020#ALL#Insumo                           Nome do Insumo             Quantidade  Uni

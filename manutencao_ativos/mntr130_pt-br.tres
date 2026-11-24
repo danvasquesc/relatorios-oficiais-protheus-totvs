@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Solicitacoes de servicos pendentes. As solicitacoes de servicos
+0002#STR0002#ALL#pendentes poderao ser selecionadas atraves da opcao de parametros
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Solicitacao de Servico Pendente
+0006#STR0006#ALL#Solic. Tipo        Bem/Localizacao  Descricao                 C.Custo   Descricao            C.Trab. Descricao            Dt.Abertura Hr.Abertura Solicitante                    Ramal
+0007#STR0007#ALL#BEM
+0008#STR0008#ALL#LOCALIZACAO
+0009#STR0009#ALL#Servico..: 
+0010#STR0010#ALL#Codigo da localizacao invalido.
+0011#STR0011#ALL#ATENCAO
+0012#STR0012#ALL#Codigo da localizacao invalido
+0013#STR0013#ALL#Solic.
+0014#STR0014#ALL#Tipo
+0015#STR0015#ALL#Bem/Localizacao
+0016#STR0016#ALL#Descricao
+0017#STR0017#ALL#C.Custo
+0018#STR0018#ALL#Centro Trab.
+0019#STR0019#ALL#Dt.Abertura
+0020#STR0020#ALL#Hr.Abertura
+0021#STR0021#ALL#Solicitante
+0022#STR0022#ALL#Ramal
+0023#STR0023#ALL#Servico
+0024#STR0024#ALL#Solicitacao de Servico

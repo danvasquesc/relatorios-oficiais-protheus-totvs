@@ -1,0 +1,17 @@
+0001#STR0001#ALL#Este programa irá emitir um relatório com as informacões referentes
+0002#STR0002#ALL#as Ordens de Serviço de Acompanhamento, para a obtencão da posição
+0003#STR0003#ALL#atualizada do contador dos Bens do plano.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#O.S. de Acompanhamento
+0007#STR0007#ALL#Bem              Descrição               Ult.Cont.  Ult.Leit.  Dt.Prev.    Situação  O.S.    Dt.Leitura   Contador 1  Contador 2
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Centro de Trabalho
+0010#STR0010#ALL#Pendente
+0011#STR0011#ALL#Liberada
+0012#STR0012#ALL#Pai.:
+0013#STR0013#ALL#Centro de Custo
+0014#STR0014#ALL#Cancelada
+0015#STR0015#ALL#Processando Arquivo...
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL# Bem              Descrição               Ult.Cont.  Ult.Leit.    Ult.Cont.2  Ult.Leit.2   Dt.Real.    Situacao  O.S.    Dt.Leitura   Contador 1  Contador 2

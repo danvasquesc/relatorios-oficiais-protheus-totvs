@@ -1,0 +1,27 @@
+0001#STR0001#ALL#Historico da Localizacao
+0002#STR0002#ALL#Bem                ?
+0003#STR0003#ALL#Posicao            ?
+0004#STR0004#ALL#Data Inicio        ?
+0005#STR0005#ALL#Data Fim           ?
+0006#STR0006#ALL#Bem..:
+0007#STR0007#ALL#Local:
+0008#STR0008#ALL#Dt.Inicio   Hora Inicio   Dt.Fim      Hora Fim   Cont.1 Inicio   Cont.1 Fim   Dif. Cont.1  Cont.2 Inicio  Cont.2 Fim   Dif. Cont.2   Componente          Nome
+0009#STR0009#ALL#Bem
+0010#STR0010#ALL#Descrição
+0011#STR0011#ALL#Local
+0012#STR0012#ALL#Dt.Inicio
+0013#STR0013#ALL#Dt.Fim
+0014#STR0014#ALL#Cont.1 Inicio
+0015#STR0015#ALL#Cont.1 Fim
+0016#STR0016#ALL#Cont.2 Inicio
+0017#STR0017#ALL#Cont.2 Fim
+0018#STR0018#ALL#Componente
+0019#STR0019#ALL#Nome
+0020#STR0020#ALL#Hora Inicio
+0021#STR0021#ALL#Hora Fim
+0022#STR0022#ALL#Dif. Cont.1
+0023#STR0023#ALL#Dif. Cont.2
+0024#STR0024#ALL#Zebrado
+0025#STR0025#ALL#Administracao
+0026#STR0026#ALL#Bem pai
+0027#STR0027#ALL#Movimentacoes

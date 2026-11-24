@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Relatório de Análise de Pneus Sucateados
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#                                                                    Data                KM      -------Original-------  ----------R1----------  ----------R2----------  ----------R3----------  --------->R4----------
+0005#STR0005#ALL#Motivo Sucateamento           Modelo       Desenho     Nº Fogo     Compra            Acumulado  KM          Desenho     KM          Desenho     KM          Desenho     KM          Desenho     KM          Desenho     DOT
+0006#STR0006#ALL#Processando Arquivo...
+0007#STR0007#ALL#Não existem dados para imprimir no relatório.
+0008#STR0008#ALL#Informe a partir de qual Data deseja visualizar os pneus sucateados.
+0009#STR0009#ALL#Informe até qual Data deseja visualizar os pneus sucateados.
+0010#STR0010#ALL#Informe a partir de qual Modelo de Pneu deseja o relatório. Pressione a tecla [F3] para selecionar um Modelo
+0011#STR0011#ALL#Informe até qual Modelo de Pneu deseja o relatório. Pressione a tecla [F3] para selecionar um Modelo, ou digite
+0012#STR0012#ALL#ZZZZZZZZZZ neste campo e o campo acima em branco para considerar todos os Modelos.
+0013#STR0013#ALL#Informe a partir de qual Medida de Pneu deseja o relatório. Pressione a tecla [F3] para selecionar uma Medida.
+0014#STR0014#ALL#Informe até qual Medida de Pneu deseja o relatório. Pressione a tecla [F3] para selecionar uma Medida, ou digite ZZZZZZ 
+0015#STR0015#ALL#neste campo e o campo acima em branco para considerar todas as Medidas.
+0016#STR0016#ALL#Informe a partir de qual Motivo do Sucateamento do pneu deseja o relatório. Pressione a tecla [F3] para selecionar um Motivo.
+0017#STR0017#ALL#Informe até qual Motivo do Sucateamento do pneu deseja o relatório. Pressione a tecla [F3] para selecionar um Motivo, ou digite ZZZZZZ 
+0018#STR0018#ALL#neste campo e o campo acima em branco para considerar todas os Motivos.

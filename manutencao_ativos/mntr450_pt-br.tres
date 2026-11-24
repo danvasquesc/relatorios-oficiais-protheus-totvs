@@ -1,0 +1,34 @@
+0001#STR0001#ALL#Duraçao de Bens por Tipo de Utilizaçao
+0002#STR0002#ALL#A utilizaçao e indicada no reporte de produçao.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administraçao
+0005#STR0005#ALL#Bem               Evento      Descrição                            Data Ini.   Data Fim     Cont.Inic.     Cont.Fim           Custo  Vida Útil
+0006#STR0006#ALL#CANCELADO PELO OPERADOR
+0007#STR0007#ALL#Familia -
+0008#STR0008#ALL#Total do Bem -
+0009#STR0009#ALL#Compra
+0010#STR0010#ALL#Rodizio
+0011#STR0011#ALL#Preventiva
+0012#STR0012#ALL#Corretiva
+0013#STR0013#ALL#Producao
+0014#STR0014#ALL#Inativo
+0015#STR0015#ALL#Processando Arquivo...
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL#Bem
+0018#STR0018#ALL#Evento
+0019#STR0019#ALL#Descricao
+0020#STR0020#ALL#Data Ini.
+0021#STR0021#ALL#Data Fim
+0022#STR0022#ALL#Cont.Inic.
+0023#STR0023#ALL#Cont.Fim
+0024#STR0024#ALL#Custo
+0025#STR0025#ALL#Vida Util
+0026#STR0026#ALL#Familia
+0027#STR0027#ALL#Informe se deve considerar Transferências: Não; Sim.
+0028#STR0028#ALL#Informe Tipo de Custo: Medio; Standard.
+0029#STR0029#ALL#Transfer.
+0030#STR0030#ALL#da Filial 
+0031#STR0031#ALL#para Filial 
+0032#STR0032#ALL#da Empresa/Filial 
+0033#STR0033#ALL#para Empresa/Filial 
+0034#STR0034#ALL#Não existem dados para montar o relatório.

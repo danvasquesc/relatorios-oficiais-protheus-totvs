@@ -1,0 +1,38 @@
+0001#STR0001#ALL#O relatório apresentará a quantidade de eventos de trânsito 
+0002#STR0002#ALL#por operação. 
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relatório de Quantidade de Eventos de Trânsito por Operação
+0006#STR0006#ALL#Ano               ?
+0007#STR0007#ALL#Aguarde...
+0008#STR0008#ALL#Processando Registros...
+0009#STR0009#ALL#Não existem dados para montar o relatório!
+0010#STR0010#ALL#ATENÇÃO
+0011#STR0011#ALL#Operação
+0012#STR0012#ALL#JAN
+0013#STR0013#ALL#FEV
+0014#STR0014#ALL#MAR
+0015#STR0015#ALL#ABR
+0016#STR0016#ALL#MAI
+0017#STR0017#ALL#JUN
+0018#STR0018#ALL#JUL
+0019#STR0019#ALL#AGO
+0020#STR0020#ALL#SET
+0021#STR0021#ALL#OUT
+0022#STR0022#ALL#NOV
+0023#STR0023#ALL#DEZ
+0024#STR0024#ALL#TOTAL
+0025#STR0025#ALL#C.MNT
+0026#STR0026#ALL#C.CARGA
+0027#STR0027#ALL#C.TER
+0028#STR0028#ALL#PREJUÍZOS
+0029#STR0029#ALL#Evento          ?
+0030#STR0030#ALL#Acidente
+0031#STR0031#ALL#Roubo
+0032#STR0032#ALL#Incidente
+0033#STR0033#ALL#De Tipo Evento  ?
+0034#STR0034#ALL#Até Tipo Evento ?
+0035#STR0035#ALL#O relatório não poderá ser gerado pois o mesmo está vinculado ao cadastramento das operações da empresa. Dessa forma verifique o conteúdo do parâmetro MV_NGOPER e/ou se o campo 
+0036#STR0036#ALL# existe no dicionário e na base de dados!
+0037#STR0037#ALL#O Ano informado deverá conter 4 dígitos!
+0038#STR0038#ALL#Ano informado não poderá ser maior que 

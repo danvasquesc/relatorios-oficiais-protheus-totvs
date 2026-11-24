@@ -1,0 +1,47 @@
+0001#STR0001#ALL#De Filial Orig.             ?
+0002#STR0002#ALL#Até Filial Orig.            ?
+0003#STR0003#ALL#De Filial Dest.             ?
+0004#STR0004#ALL#Até Filial Dest.            ?
+0005#STR0005#ALL#De Família               	?
+0006#STR0006#ALL#Até Família            		?
+0007#STR0007#ALL#De Status              		?
+0008#STR0008#ALL#Até Status             		?
+0009#STR0009#ALL#De Dt. Trans.               ?
+0010#STR0010#ALL#Até Dt. Trans.            	?
+0011#STR0011#ALL#Aguarde...
+0012#STR0012#ALL#Processando Registros...
+0013#STR0013#ALL#O relatorio apresentará toda a vida do pneu com suas 
+0014#STR0014#ALL#movimentações, entrada/saída da estrutura, etc. 
+0015#STR0015#ALL#Zebrado
+0016#STR0016#ALL#Administracao
+0017#STR0017#ALL#Relatório de Rastreamento de Pneus
+0018#STR0018#ALL#De Período       ?
+0019#STR0019#ALL#Até Período      ?
+0020#STR0020#ALL#De Filial        ?
+0021#STR0021#ALL#Até Filial       ?
+0022#STR0022#ALL#De Medida        ?
+0023#STR0023#ALL#Até Medida       ?
+0024#STR0024#ALL#De Bem           ?
+0025#STR0025#ALL#Até Bem          ?
+0026#STR0026#ALL#Selecionando Registros...
+0027#STR0027#ALL#   Data       Hora  Centro Custo         Filial     Desenho    Banda Sulco      Km Veic.   Serviço        Fornecedor                Frota            Posição Destino             Motivo
+0028#STR0028#ALL#Entrada
+0029#STR0029#ALL#Saída
+0030#STR0030#ALL#Rec. de Pneus
+0031#STR0031#ALL#Análise Técnica
+0032#STR0032#ALL#CANCELADO PELO OPERADOR
+0033#STR0033#ALL#Ressolar            
+0034#STR0034#ALL#Consertar           
+0035#STR0035#ALL#Estoque Usado       
+0036#STR0036#ALL#Estoque Reformado   
+0037#STR0037#ALL#Análise Fornecedor  
+0038#STR0038#ALL#Removido de Serviço 
+0039#STR0039#ALL#Estoque Novo        
+0040#STR0040#ALL#De Período não pode ser inferior à Até Período!
+0041#STR0041#ALL#De Status Bem    ?
+0042#STR0042#ALL#Até Status Bem   ?
+0043#STR0043#ALL#O Status digitado não é um status de pneu!
+0044#STR0044#ALL#Não existem dados para montar o relatório.
+0045#STR0045#ALL#ATENÇÃO
+0046#STR0046#ALL#Filial:
+0047#STR0047#ALL#Pneu              Descrição                                           Medida      Descrição

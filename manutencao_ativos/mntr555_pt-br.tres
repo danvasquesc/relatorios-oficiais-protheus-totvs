@@ -1,0 +1,60 @@
+0001#STR0001#ALL#De Filial.:         ?
+0002#STR0002#ALL#Ate Filial.:        ?
+0003#STR0003#ALL#De Família.:        ?
+0004#STR0004#ALL#Ate Família.:       ?
+0005#STR0005#ALL#De Veículo.:        ?
+0006#STR0006#ALL#Ate Veículo.:       ?
+0007#STR0007#ALL#Veículo.:           ?
+0008#STR0008#ALL#Banda Dif. OR Eixo Direcional
+0009#STR0009#ALL#Pneus Novos Eixo Traseiro
+0010#STR0010#ALL#Com mais de uma medida
+0011#STR0011#ALL#Todos
+0012#STR0012#ALL#Processando Registros...
+0013#STR0013#ALL#Relatorio de Pneus por Veículo
+0014#STR0014#ALL#permitindo classificacao por familia
+0015#STR0015#ALL#e por modelo
+0016#STR0016#ALL#Zebrado
+0017#STR0017#ALL#Administracao
+0018#STR0018#ALL#Relatorio de Pneus por Veículo
+0019#STR0019#ALL#Eixo        Tipo Eixo               Posição   Pneu               Tipo Modelo        Medida                 Banda       Sulco(mm)         KM Total
+0020#STR0020#ALL#Posição   Pneu               Tipo Modelo        Medida                 Banda       Sulco(mm)         KM Total
+0021#STR0021#ALL#Aguarde...
+0022#STR0022#ALL#Filial
+0023#STR0023#ALL#Veículo
+0024#STR0024#ALL#Operação
+0025#STR0025#ALL#Tipo Modelo
+0026#STR0026#ALL#Primeiro
+0027#STR0027#ALL#Segundo
+0028#STR0028#ALL#Terceiro
+0029#STR0029#ALL#Quarto
+0030#STR0030#ALL#Quinto
+0031#STR0031#ALL#Sexto
+0032#STR0032#ALL#Sétimo
+0033#STR0033#ALL#Oitavo
+0034#STR0034#ALL#Nono
+0035#STR0035#ALL#Reserva
+0036#STR0036#ALL#Livre
+0037#STR0037#ALL#Tracionador
+0038#STR0038#ALL#Direcional
+0039#STR0039#ALL#Direcional/Tracionador
+0040#STR0040#ALL#OR
+0041#STR0041#ALL#R1
+0042#STR0042#ALL#R2
+0043#STR0043#ALL#R3
+0044#STR0044#ALL#R4
+0045#STR0045#ALL#Não existem dados para montar o relatório.
+0046#STR0046#ALL#ATENÇÃO
+0047#STR0047#ALL#Selecionar 'So Aplicados' para visualizar os pneus dos veículos ou 'Estrutura sem pneus' para relacionar também as estruturas sem pneus.
+0048#STR0048#ALL#Sem Pneu
+0049#STR0049#ALL#Décimo
+0050#STR0050#ALL#Nome veículo
+0051#STR0051#ALL#Eixo
+0052#STR0052#ALL#Tipo Eixo
+0053#STR0053#ALL#Pneu
+0054#STR0054#ALL#Posição
+0055#STR0055#ALL#Medida
+0056#STR0056#ALL#Banda
+0057#STR0057#ALL#Sulco(mm)
+0058#STR0058#ALL#KM Total
+0059#STR0059#ALL#Desenho
+0060#STR0060#ALL#DOT

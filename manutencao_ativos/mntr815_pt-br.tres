@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Bens por Irregularidades
+0002#STR0002#ALL#Relatorio de Bens por Irregularidades.
+0003#STR0003#ALL#Destina-se a imprimir as ocorrencias de Irregularidades dos Bens
+0004#STR0004#ALL#nas Ordem de Serviço Corretivas.
+0005#STR0005#ALL#C.Custo
+0006#STR0006#ALL#Descrição
+0007#STR0007#ALL#C. Trab.
+0008#STR0008#ALL#Familia
+0009#STR0009#ALL#Bem
+0010#STR0010#ALL#Cod
+0011#STR0011#ALL#Irregularidade
+0012#STR0012#ALL#Quant. Ocorr.
+0013#STR0013#ALL#Processando Arquivo...
+0014#STR0014#ALL#Selecionando Registros...
+0015#STR0015#ALL#de
+0016#STR0016#ALL#ate
+0017#STR0017#ALL#Relatorio disponivel na versao Release 4 e posteriores.
+0018#STR0018#ALL#Ordem de Servico
+0019#STR0019#ALL#               Bem              Descrição                                Irregularidade Descrição                      Quant. Ocorr.
+0020#STR0020#ALL#ATENÇÃO
+0021#STR0021#ALL#Não existem dados para montar o relatório.

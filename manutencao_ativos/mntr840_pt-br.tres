@@ -1,0 +1,137 @@
+0001#STR0001#ALL#Relatório de Custos do Bem 
+0002#STR0002#ALL#Este programa seleciona por default OS finalizadas e as
+0003#STR0003#ALL#em aberto conforme parâmetro selecionado.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Custos do Bem
+0007#STR0007#ALL#De Bem             ?
+0008#STR0008#ALL#Até Bem            ?
+0009#STR0009#ALL#De Data Manutencao ?
+0010#STR0010#ALL#Ate Data Manutencao?
+0011#STR0011#ALL#De Servico         ?
+0012#STR0012#ALL#Ate Servico        ?
+0013#STR0013#ALL#Considerar Produto ?
+0014#STR0014#ALL#Sim
+0015#STR0015#ALL#Não
+0016#STR0016#ALL#Considerar Ferramen?
+0017#STR0017#ALL#Considerar Mão-Obra?
+0018#STR0018#ALL#Considerar Terceiro?
+0019#STR0019#ALL#Tipo de Custo      ?
+0020#STR0020#ALL#Medio
+0021#STR0021#ALL#Standart
+0022#STR0022#ALL#Custo Maq. Parada  ?
+0023#STR0023#ALL#Aglutina M.D.O     ?
+0024#STR0024#ALL#Tipo Código Insumo   Nome Insumo                       ........Previsto.........    ........Realizado........
+0025#STR0025#ALL#CANCELADO PELO OPERADOR
+0026#STR0026#ALL#Ordem.: 
+0027#STR0027#ALL#Serviço.: 
+0028#STR0028#ALL#Data.: 
+0029#STR0029#ALL#Descrição da OS....: 
+0030#STR0030#ALL#Custo Hora Parada do Bem 
+0031#STR0031#ALL#*** Total da O.S. 
+0032#STR0032#ALL#*** Total do Bem  
+0033#STR0033#ALL#*** Total Geral 
+0034#STR0034#ALL#BEM.........: 
+0035#STR0035#ALL#O.S. Aberto        ?
+0036#STR0036#ALL#                                                                        Quantidade Un.                Custo            Quantidade Un.                Custo            Diferença                   Var. %
+0037#STR0037#ALL#Bem              Descrição                                       Custo Previsto      Custo Realizado            Diferença                  Var. %
+0038#STR0038#ALL#*** Total do Pai
+0039#STR0039#ALL#BEM FILHO....: 
+0040#STR0040#ALL#*** Total do Filho 
+0041#STR0041#ALL#BEM PAI......:
+0042#STR0042#ALL#BENS FILHOS..:
+0043#STR0043#ALL#*** Total Geral do Bem Pai 
+0044#STR0044#ALL#Selecionando Registros...
+0045#STR0045#ALL#Considera Data ?
+0046#STR0046#ALL#Da OS
+0047#STR0047#ALL#Do Insumo
+0048#STR0048#ALL#Considera OS   ?
+0049#STR0049#ALL#Liberada
+0050#STR0050#ALL#Pendente
+0051#STR0051#ALL#Ambas
+0052#STR0052#ALL#Nenhuma
+0053#STR0053#ALL#Bem Pai
+0054#STR0054#ALL#O.S. Bem Pai
+0055#STR0055#ALL#Insumos Bem Pai
+0056#STR0056#ALL#Custo Hora Parada Bem
+0057#STR0057#ALL#Bem Filho
+0058#STR0058#ALL#O.S. Bem Filho
+0059#STR0059#ALL#Insumos Bem Filho
+0060#STR0060#ALL#Total Geral do Bem Pai
+0061#STR0061#ALL#Total Geral
+0062#STR0062#ALL#Total da O.S. do Bem Pai
+0063#STR0063#ALL#Total do Bem Pai
+0064#STR0064#ALL#Total da O.S. do Bem Filho
+0065#STR0065#ALL#Total do Bem Filho
+0066#STR0066#ALL#Nome
+0067#STR0067#ALL#Ordem
+0068#STR0068#ALL#Serviço
+0069#STR0069#ALL#Data
+0070#STR0070#ALL#Obs
+0071#STR0071#ALL#Tipo
+0072#STR0072#ALL#Código Insumo
+0073#STR0073#ALL#Nome Insumo
+0074#STR0074#ALL#Qtde. Prev.
+0075#STR0075#ALL#Unidade
+0076#STR0076#ALL#Custo Prev.
+0077#STR0077#ALL#Custo Real.
+0078#STR0078#ALL#Diferença
+0079#STR0079#ALL#Qtde. Real.
+0080#STR0080#ALL#Bem
+0081#STR0081#ALL#Total da O.S.
+0082#STR0082#ALL#Total do Bem
+0083#STR0083#ALL#Ordem de Servico
+0084#STR0084#ALL#Insumos
+0085#STR0085#ALL#Considera Abast. ?
+0086#STR0086#ALL#Define se o relatório irá considerar os abastecimentos realizados.
+0087#STR0087#ALL#1 - Sim
+0088#STR0088#ALL#2 - Não
+0089#STR0089#ALL#Processando Abastecimentos...
+0090#STR0090#ALL#Abastecimentos
+0091#STR0091#ALL#Hora
+0092#STR0092#ALL#Combustível
+0093#STR0093#ALL#Quantidade
+0094#STR0094#ALL#Valor Total
+0095#STR0095#ALL#Total Abastecimentos
+0096#STR0096#ALL#Descrição
+0097#STR0097#ALL#Var. %
+0098#STR0098#ALL#    Data         Hora     Combustível                      Quantidade        Valor Total      Km Rodado              Média       Valor Km
+0099#STR0099#ALL#Tipo Código Insumo   
+0100#STR0100#ALL#Nome Insumo                                        ..............Previsto.............            .............Realizado.............
+0101#STR0101#ALL#Informe se considera Ordem de Serviço:
+0102#STR0102#ALL#Liberada
+0103#STR0103#ALL#Pendente
+0104#STR0104#ALL#Aberta
+0105#STR0105#ALL#Finalizada
+0106#STR0106#ALL#Todas
+0107#STR0107#ALL#Informe o período data que deseja filtrar os custos.
+0108#STR0108#ALL#Segundo parametrização, não há dados para montar o relatório.
+0109#STR0109#ALL#ATENÇÃO
+0110#STR0110#ALL#Infirme se considera data:
+0111#STR0111#ALL#Fará o filtro pela data da O.S.
+0112#STR0112#ALL#Fará o filtro pela data início do insumo.
+0113#STR0113#ALL#Km Rodado
+0114#STR0114#ALL#Média
+0115#STR0115#ALL#Valor Km
+0116#STR0116#ALL#Apresentação ?
+0117#STR0117#ALL#Nível Insumo
+0118#STR0118#ALL#Nível Bem
+0119#STR0119#ALL#Nível OS
+0120#STR0120#ALL#                                                                                    Custo Prev.          Custo Real.            Diferença                  Var. %
+0121#STR0121#ALL#Informe a Apresentação do Relatório:
+0122#STR0122#ALL#*** Subtotal Geral
+0123#STR0123#ALL#Devolução
+0124#STR0124#ALL#Total Geral
+0125#STR0125#ALL#*** Subtotal geral do Pai
+0126#STR0126#ALL#*** Subtotal geral do Filho
+0127#STR0127#ALL#*** Subtotal do Pai
+0128#STR0128#ALL#*** Subtotal do Filho
+0129#STR0129#ALL#Total O.S.
+0130#STR0130#ALL#Total do Bem
+0131#STR0131#ALL#*** Subtotal da O.S
+0132#STR0132#ALL#*** Subtotal do Bem
+0133#STR0133#ALL#Considera Devolução?
+0134#STR0134#ALL#Deseja considerar devolução?
+0135#STR0135#ALL#S-Sim
+0136#STR0136#ALL#N-Não
+0137#STR0137#ALL#              Bem              Descrição

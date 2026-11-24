@@ -1,0 +1,72 @@
+0001#STR0000#ALL#Relatorio dos bens cadastrados para o servico de manutencao. Para cada
+0002#STR0001#ALL#servico considerado, serao mostrados os bens com o servico planejado. 
+0003#STR0002#ALL#A selecao podera ser feita por Centro de Custo e Centro de Trabalho.
+0004#STR0003#ALL#Zebrado
+0005#STR0004#ALL#Administracao
+0006#STR0005#ALL#Bens do Servico
+0007#STR0006#ALL#CANCELADO PELO OPERADOR
+0008#STR0007#ALL#Bem...:
+0009#STR0008#ALL#Familia...:
+0010#STR0009#ALL#Pai...:
+0011#STR0010#ALL#C.Custo...:
+0012#STR0011#ALL#C.Trab..:
+0013#STR0012#ALL#Calend:
+0014#STR0013#ALL#Prior.:
+0015#STR0014#ALL#Contador:
+0016#STR0015#ALL#Dt.Acomp.:
+0017#STR0016#ALL#Var/Dia...:
+0018#STR0017#ALL#Limite Cont:
+0019#STR0018#ALL#Sit.Bem:
+0020#STR0019#ALL#Ativ
+0021#STR0020#ALL#Inat
+0022#STR0021#ALL#Sit.Manut:
+0023#STR0022#ALL#Dt.Ult.Manut.:
+0024#STR0023#ALL#Parada:
+0025#STR0024#ALL#SIM
+0026#STR0025#ALL#NAO
+0027#STR0026#ALL#Parada Antes:
+0028#STR0027#ALL#Depois:
+0029#STR0028#ALL#Dia N.Util:
+0030#STR0029#ALL#Tipo Acompan.:
+0031#STR0030#ALL#TEMPO
+0032#STR0031#ALL#Tempo Entre Manut:
+0033#STR0032#ALL#Calendario:
+0034#STR0033#ALL#CONTADOR
+0035#STR0034#ALL#Cont.Ult.Man.:
+0036#STR0035#ALL#Incremento Entre Manut:
+0037#STR0036#ALL#Periodo Acomp.:
+0038#STR0037#ALL#Cont.Bem.....:
+0039#STR0038#ALL#CON FIXO
+0040#STR0039#ALL#AMBOS
+0041#STR0040#ALL#--------------------------------------------------TAREFAS-----------------------------------------------
+0042#STR0041#ALL#SEM ESPECIFICACAO DE TAREFA
+0043#STR0042#ALL#Dependencias:
+0044#STR0043#ALL#-----------------------------------------ETAPAS----------------------------------------------------
+0045#STR0044#ALL#----------------------------OPCOES--------------------------------
+0046#STR0045#ALL#Opcao      Tipo Res. Con. Informacao Tp. Manut. Bem              Serv.  Seq.
+0047#STR0046#ALL#Informada
+0048#STR0047#ALL#Marcada
+0049#STR0048#ALL#Nao Gera
+0050#STR0049#ALL#Corretiva
+0051#STR0050#ALL#Preventiva
+0052#STR0051#ALL#Outras
+0053#STR0052#ALL#--------------------------------------------INSUMOS------------------------------------------------
+0054#STR0053#ALL#Nome......... Codigo.........
+0055#STR0054#ALL#ESPECIALIDADE
+0056#STR0055#ALL#PRODUTO
+0057#STR0056#ALL#FUNCIONARIO
+0058#STR0057#ALL#FERRAMENTA
+0059#STR0058#ALL#TERCEIRO
+0060#STR0059#ALL#Apoio
+0061#STR0060#ALL#Substit
+0062#STR0061#ALL#Troca
+0063#STR0062#ALL#Servico.:
+0064#STR0063#ALL#Seq.:
+0065#STR0064#ALL#Nome Manut:
+0066#STR0065#ALL#Area...:
+0067#STR0066#ALL#Tipo.:
+0068#STR0067#ALL#PRODUCAO
+0069#STR0068#ALL#SEGUNDO CONTADOR
+0070#STR0069#ALL# Descricao.............................  Qtd Consumo.. Uni Res Destino
+0071#STR0070#ALL#Tran
+0072#STR0071#ALL#Prioridade:

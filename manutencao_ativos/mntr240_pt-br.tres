@@ -1,0 +1,16 @@
+0001#STR0001#ALL#Apropriação de Horas por Centro de Custo.
+0002#STR0002#ALL#O usuário pode informar parametros de seleção para a impressão
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Tipo ?
+0006#STR0006#ALL#Sintetico
+0007#STR0007#ALL#Analitico
+0008#STR0008#ALL#Centro de Custo (MDO)                                Centro de Custo (MAQ)                                           Bem                                              O.S      Mão-de-Obra                       Horas
+0009#STR0009#ALL#Centro de Custo (MDO)                                Centro de Custo (MAQ)                                             Total Horas
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#ALL#Processando Itens das O.S. Normais...
+0012#STR0012#ALL#Processando Itens das O.S. Histórico...
+0013#STR0013#ALL#Total do C.Custo:
+0014#STR0014#ALL#Total Geral.....:
+0015#STR0015#ALL#Apropriação de Horas por Centro de Custo - de 
+0016#STR0016#ALL# até 

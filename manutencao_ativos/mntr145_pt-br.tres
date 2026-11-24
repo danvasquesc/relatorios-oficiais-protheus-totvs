@@ -1,0 +1,32 @@
+0001#STR0001#ALL#O relatorio apresentará pneus por 
+0002#STR0002#ALL#medida, totalizando por Destino 
+0003#STR0003#ALL#ou por motivo
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatório Quantidade de pneus por Destino e Motivo
+0007#STR0007#ALL#Detalhar por:
+0008#STR0008#ALL#1=Motivo
+0009#STR0009#ALL#2=Destino
+0010#STR0010#ALL#De Motivo:
+0011#STR0011#ALL#Até Motivo:
+0012#STR0012#ALL#Destino
+0013#STR0013#ALL#De Data Análise:
+0014#STR0014#ALL#Até Data Análise:
+0015#STR0015#ALL#Aguarde...
+0016#STR0016#ALL#Processando Registros...
+0017#STR0017#ALL#Contagem de NUM. FOGO
+0018#STR0018#ALL#MEDIDA
+0019#STR0019#ALL#MOTIVO
+0020#STR0020#ALL#Total Geral
+0021#STR0021#ALL#Data final não pode ser inferior à data inicial!
+0022#STR0022#ALL#Tipo de Impressão ?
+0023#STR0023#ALL#Tela
+0024#STR0024#ALL#Impressora
+0025#STR0025#ALL#Enviar Email
+0026#STR0026#ALL#Não foi possível gravar o relatório
+0027#STR0027#ALL#AVISO
+0028#STR0028#ALL#Segue em anexo relatório de 
+0029#STR0029#ALL#Email enviado com sucesso
+0030#STR0030#ALL#Não foi possível enviar o Email.
+0031#STR0031#ALL#Erro na conexão com o SMTP Server.
+0032#STR0032#ALL#Deseja visualizar o relatório?

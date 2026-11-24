@@ -1,0 +1,105 @@
+0001#STR0001#ALL#O relatório apresentará informações detalhadas do acidente, 
+0002#STR0002#ALL#em formulário do tipo ficha.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relatório de Acidente por Veículo - RAV
+0006#STR0006#ALL#Sinistro ?
+0007#STR0007#ALL#Aguarde...
+0008#STR0008#ALL#Processando Registros...
+0009#STR0009#ALL#Não existem dados para montar o relatório!
+0010#STR0010#ALL#ATENÇÃO
+0011#STR0011#ALL#Veículo
+0012#STR0012#ALL#Operação: 
+0013#STR0013#ALL#Frota: 
+0014#STR0014#ALL#Carreta: 
+0015#STR0015#ALL#Placa: 
+0016#STR0016#ALL#Motorista
+0017#STR0017#ALL#Sim
+0018#STR0018#ALL#Não
+0019#STR0019#ALL#Próprio
+0020#STR0020#ALL#Terceiro
+0021#STR0021#ALL#Agregado
+0022#STR0022#ALL#Nome: 
+0023#STR0023#ALL#Matrícula: 
+0024#STR0024#ALL#Código: 
+0025#STR0025#ALL#Tp. Motorista: 
+0026#STR0026#ALL#Dados do Acidente
+0027#STR0027#ALL#Data: 
+0028#STR0028#ALL#Hora: 
+0029#STR0029#ALL#Local: 
+0030#STR0030#ALL#Veloc.: 
+0031#STR0031#ALL#Origem: 
+0032#STR0032#ALL#Destino: 
+0033#STR0033#ALL#Interrupção Viagem? 
+0034#STR0034#ALL#Substituição Veículo: 
+0035#STR0035#ALL#Nº Veículo:
+0036#STR0036#ALL#Danos do Veículo: 
+0037#STR0037#ALL#Tipo de Evento: 
+0038#STR0038#ALL#Reta
+0039#STR0039#ALL#Curva
+0040#STR0040#ALL#Cruzamento
+0041#STR0041#ALL#Tipo de Via: 
+0042#STR0042#ALL#Única
+0043#STR0043#ALL#Dupla
+0044#STR0044#ALL#Tipo de Mão: 
+0045#STR0045#ALL#Dia
+0046#STR0046#ALL#Noite
+0047#STR0047#ALL#Período: 
+0048#STR0048#ALL#Vítimas: Sim
+0049#STR0049#ALL#Sequência: 
+0050#STR0050#ALL#Endereço: 
+0051#STR0051#ALL#Cidade: 
+0052#STR0052#ALL#UF: 
+0053#STR0053#ALL#Telefone: 
+0054#STR0054#ALL#Lesões: 
+0055#STR0055#ALL#Vítimas: Não
+0056#STR0056#ALL#Carga Transportada
+0057#STR0057#ALL#Carga: 
+0058#STR0058#ALL#Carregado
+0059#STR0059#ALL#Nº Viagem: 
+0060#STR0060#ALL#Nº Carga: 
+0061#STR0061#ALL#Val. Carga(Roubo/Avaria): R$ 
+0062#STR0062#ALL#Tipo Mercadoria: 
+0063#STR0063#ALL#Vazio
+0064#STR0064#ALL#Veículo Terceiro
+0065#STR0065#ALL#Evadiu-se Local: 
+0066#STR0066#ALL#Desc. Veículo: 
+0067#STR0067#ALL#Veic. Seg.: 
+0068#STR0068#ALL#Corretora/Seguradora: 
+0069#STR0069#ALL#Nº Apólice: 
+0070#STR0070#ALL#Proprietário: 
+0071#STR0071#ALL#Tel.: 
+0072#STR0072#ALL#End. Prop.: 
+0073#STR0073#ALL#Motorista: 
+0074#STR0074#ALL#CNH: 
+0075#STR0075#ALL#End. Mot.: 
+0076#STR0076#ALL#RG: 
+0077#STR0077#ALL#SSP: 
+0078#STR0078#ALL#CPF: 
+0079#STR0079#ALL#Descrição Danos Sofridos: 
+0080#STR0080#ALL#Atropelamento de Animais
+0081#STR0081#ALL#Tipo Animal: 
+0082#STR0082#ALL#Qtde. Animais: 
+0083#STR0083#ALL#Ocorrências
+0084#STR0084#ALL#Ocorrência Policial: 
+0085#STR0085#ALL#Nº Boletim Ocorrência: 
+0086#STR0086#ALL#Laudo Pericial? 
+0087#STR0087#ALL#Testemunhas
+0088#STR0088#ALL#RG
+0089#STR0089#ALL#CPF
+0090#STR0090#ALL#Certidão de Nascimento
+0091#STR0091#ALL#Tp.Doc.: 
+0092#STR0092#ALL#RG/CPF: 
+0093#STR0093#ALL#Descrição dos Fatos
+0094#STR0094#ALL#Causa Preliminar do Acidente: 
+0095#STR0095#ALL#Como poderia ser evitado: 
+0096#STR0096#ALL#Responsável Pela Abertura do RAV / Atendimento do Acidente
+0097#STR0097#ALL#Cargo: 
+0098#STR0098#ALL#Data Abertura: 
+0099#STR0099#ALL#Compareceu ao Local? 
+0100#STR0100#ALL#Visto:
+0101#STR0101#ALL#Anexo I - Pareceres
+0102#STR0102#ALL#Manutenção: 
+0103#STR0103#ALL#Assinatura: 
+0104#STR0104#ALL#Gerência: 
+0105#STR0105#ALL#SINISTRO: 

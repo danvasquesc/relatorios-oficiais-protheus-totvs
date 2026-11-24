@@ -1,0 +1,47 @@
+0001#STR0001#ALL#Solicitacao de Servico
+0002#STR0002#ALL#Solicitação de Serviço: 
+0003#STR0003#ALL#Emissão............:
+0004#STR0004#ALL#Data Abertura S.S..: 
+0005#STR0005#ALL#Hora Abertura S.S..: 
+0006#STR0006#ALL#Solicitante
+0007#STR0007#ALL#Nome..: 
+0008#STR0008#ALL#Ramal..: 
+0009#STR0009#ALL#Bem / Localização
+0010#STR0010#ALL#Ident...: 
+0011#STR0011#ALL#Tipo....: Bem
+0012#STR0012#ALL#Tipo....: Localização
+0013#STR0013#ALL#C.Custo.: 
+0014#STR0014#ALL#C.Trab..: 
+0015#STR0015#ALL#Familia.: 
+0016#STR0016#ALL#Descrição do Serviço Solicitado
+0017#STR0017#ALL#Descrição da Solução da S.S
+0018#STR0018#ALL#Supervisor..........: _____________________________________________________________
+0019#STR0019#ALL#Data de Encerramento: ___/___/___           Hora de Encerramento: ___:___
+0020#STR0020#ALL#Tempo da S.S........: ___:___
+0021#STR0021#ALL#Codigo da localização invalido.
+0022#STR0022#ALL#ATENÇÃO
+0023#STR0023#ALL#Listar ?
+0024#STR0024#ALL#Abertas
+0025#STR0025#ALL#Encerradas
+0026#STR0026#ALL#Todas
+0027#STR0027#ALL#Listar Localização Completa ?
+0028#STR0028#ALL#Sim
+0029#STR0029#ALL#Não
+0030#STR0030#ALL#Supervisor..........: 
+0031#STR0031#ALL#Data de Encerramento: 
+0032#STR0032#ALL#          Hora de Encerramento: 
+0033#STR0033#ALL#Tempo da S.S........: 
+0034#STR0034#ALL#Executante
+0035#STR0035#ALL#Funcionário(s)
+0036#STR0036#ALL#Terceiro(s)
+0037#STR0037#ALL#Atendente(s)
+0038#STR0038#ALL#Código
+0039#STR0039#ALL#Filial
+0040#STR0040#ALL#Hr.Reliz.
+0041#STR0041#ALL#Loja
+0042#STR0042#ALL#Recurso
+0043#STR0043#ALL#Funcionário
+0044#STR0044#ALL#Terceiro
+0045#STR0045#ALL#Total de Horas dos Funcionários:
+0046#STR0046#ALL#Campo 'Até Data' não pode ser vazio
+0047#STR0047#ALL#O campo 'Até Data' não pode ser menor que o campo 'De Data'

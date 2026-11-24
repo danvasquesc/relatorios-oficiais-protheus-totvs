@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Relatorio de Roteiro de Plano. Roteiro a ser seguido com os bens e
+0002#STR0002#ALL#sua sequencia de manutencao no roteiro.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Roteiro do Plano
+0006#STR0006#ALL#Bem              Nome                           Servico Descricao                      Seq.  O.s.    Plano   Dt.Pr.Ini.  C.Custo              Descricao
+0007#STR0007#ALL#Processando Arquivo...
+0008#STR0008#ALL#Roteiro......: 
+0009#STR0009#ALL#Selecionando Registros...
+0010#STR0010#ALL#Roteiro
+0011#STR0011#ALL#Descrição
+0012#STR0012#ALL#Bem
+0013#STR0013#ALL#Nome
+0014#STR0014#ALL#Serviço
+0015#STR0015#ALL#Seq.
+0016#STR0016#ALL#O.S.
+0017#STR0017#ALL#Plano
+0018#STR0018#ALL#Dt.Pr.Ini.
+0019#STR0019#ALL#C.Custo
+0020#STR0020#ALL#Bens
+0021#STR0021#ALL#De Centro Custo ?
+0022#STR0022#ALL#Até Centro Custo ?
+0023#STR0023#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0024#STR0024#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.

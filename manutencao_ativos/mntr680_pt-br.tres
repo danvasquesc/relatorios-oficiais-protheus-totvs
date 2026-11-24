@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Relatório de apresentação de consumo previsto para as Ordens de Serviço de Manutenção
+0002#STR0002#ALL#O usuário poderá selecionar qual o tipo de insumo deseja analisar, bem como estabelecer
+0003#STR0003#ALL#um filtro das Ordens de Serviço que deseja que seja apresentadas no relatório.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Projeção de Consumo Por O.S.
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Sim
+0009#STR0009#ALL#Não
+0010#STR0010#ALL#Troca
+0011#STR0011#ALL#Apoio
+0012#STR0012#ALL#Subst.
+0013#STR0013#ALL#Ordem..:
+0014#STR0014#ALL# Prior..:
+0015#STR0015#ALL#Bem..:
+0016#STR0016#ALL#Serviço..:
+0017#STR0017#ALL#Tarefa Tipo Código
+0018#STR0018#ALL#Nome                               Qtde   Consumo  Unidade Dt.Início  Hr.Início  Dt.Fim    Hr.Fim  Bloq. Destino
+0019#STR0019#ALL#Considera Estrutura ?
+0020#STR0020#ALL#Loc..:
+0021#STR0021#ALL#Considera Estrutura:
+0022#STR0022#ALL#Sim - se houver estrutura organizacional, todos os níveis serão impressos, até o bem/localização.
+0023#STR0023#ALL#Não - independente se há ou não estrutura organizacional, será impresso somento o bem/localização, ignorando os níveis da estrutura.
+0024#STR0024#ALL#Local: 
+0025#STR0025#ALL#Localização: 
+0026#STR0026#ALL#Imprimir Localização ?
+0027#STR0027#ALL#Sim
+0028#STR0028#ALL#Não
+0029#STR0029#ALL#Informe se deve imprimir a localização:
+0030#STR0030#ALL#1-Sim
+0031#STR0031#ALL#2-Não
+0032#STR0032#ALL#Plano...:
+0033#STR0033#ALL#De Centro Custo ?
+0034#STR0034#ALL#Até Centro Custo ?
+0035#STR0035#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0036#STR0036#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.

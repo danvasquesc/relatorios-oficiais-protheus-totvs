@@ -1,0 +1,56 @@
+0001#STR0001#ALL#Relatório dos Bens cadastrados no sistema com opção de apresentar
+0002#STR0002#ALL#detalhes de cadastramento. O usuário poderá utilizar a opção 
+0003#STR0003#ALL#'Parâmetros' para a obtenção dos Bens de seu interesse.
+0004#STR0004#ALL# Por Centro de Custo
+0005#STR0005#ALL# Por Centro Trabalho
+0006#STR0006#ALL# Por Familia
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#Cadastro de Bens
+0010#STR0010#ALL#CANCELADO PELO OPERADOR
+0011#STR0011#ALL#Bem.......:
+0012#STR0012#ALL#Calend:
+0013#STR0013#ALL#Bem Padrão:
+0014#STR0014#ALL#SIM
+0015#STR0015#ALL#NÃO
+0016#STR0016#ALL#Pai.......:
+0017#STR0017#ALL#Fornecedor:
+0018#STR0018#ALL#Fabricante:
+0019#STR0019#ALL#Modelo....:
+0020#STR0020#ALL#Série..:
+0021#STR0021#ALL#Dt.Compra.:
+0022#STR0022#ALL#Cod.Imob:
+0023#STR0023#ALL#Prazo Gar.:
+0024#STR0024#ALL#Dt.Garant.:
+0025#STR0025#ALL#Prior..:
+0026#STR0026#ALL#Cod.Estoq.:
+0027#STR0027#ALL#Tem Estr:
+0028#STR0028#ALL#Contador..:
+0029#STR0029#ALL#Dt Acomp..:
+0030#STR0030#ALL#Var/Dia:
+0031#STR0031#ALL#Limite Con:
+0032#STR0032#ALL#Sit.Bem.:
+0033#STR0033#ALL#Sit.Manut.:
+0034#STR0034#ALL#Custo Hora:
+0035#STR0035#ALL#Local.:
+0036#STR0036#ALL#Tipo(PCP).:
+0037#STR0037#ALL#Recur/Ferr:
+0038#STR0038#ALL#Chapa:
+0039#STR0039#ALL#Vida Util.:
+0040#STR0040#ALL#Valor Vida Ut.:
+0041#STR0041#ALL#Unid.Vida Util.:
+0042#STR0042#ALL#Valor Compra:
+0043#STR0043#ALL#Cliente...:
+0044#STR0044#ALL#Nome.:
+0045#STR0045#ALL#Data Instalacao:
+0046#STR0046#ALL#Ponderação:  Jan  Fev  Mar  Abr  Mai  Jun  Jul  Ago  Set  Out  Nov  Dez
+0047#STR0047#ALL#Caracter..:
+0048#STR0048#ALL#Descrição.: 
+0049#STR0049#ALL#Manutenção:
+0050#STR0050#ALL#Sequência:
+0051#STR0051#ALL#C.Custo.: 
+0052#STR0052#ALL#C.Trabalho.: 
+0053#STR0053#ALL#Família.: 
+0054#STR0054#ALL#Pec. de Reposição:
+0055#STR0055#ALL#Quantidade:
+0056#STR0056#ALL#Unidade:

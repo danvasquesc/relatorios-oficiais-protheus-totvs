@@ -1,0 +1,26 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Relatorio de Sinistralidade
+0004#STR0004#ALL#O relatório apresentará a despesa total com sinistralidade. 
+0005#STR0005#ALL#(Acidentes e Roubos) 
+0006#STR0006#ALL#Ano  ?
+0007#STR0007#ALL#Ano informado não poderá ser maior que 
+0008#STR0008#ALL#De Grupo Filial   ?
+0009#STR0009#ALL#Ate Grupo Filial  ?
+0010#STR0010#ALL#De Filial   ?
+0011#STR0011#ALL#Ate Filial  ?
+0012#STR0012#ALL#Aguarde...
+0013#STR0013#ALL#Processando Registros...
+0014#STR0014#ALL#Selecionando Registros...
+0015#STR0015#ALL#Processando Arquivo...
+0016#STR0016#ALL#Filial
+0017#STR0017#ALL#PREJ.ROUBOS
+0018#STR0018#ALL#PREJ.ACIDENTES
+0019#STR0019#ALL#PREJUIZOS
+0020#STR0020#ALL#%AC
+0021#STR0021#ALL#TOTAL
+0022#STR0022#ALL#De Grupo de Filial não pode ser maior que Até Grupo de Filial!
+0023#STR0023#ALL#Atenção
+0024#STR0024#ALL#De Filial não pode ser maior que Até Filial!
+0025#STR0025#ALL#Não existem dados para montar o relatório!
+0026#STR0026#ALL#O Ano informado deverá conter 4 dígitos!

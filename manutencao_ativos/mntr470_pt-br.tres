@@ -1,0 +1,51 @@
+0001#STR0001#ALL#Relatorio de Custos dos Ordem de Servico de Reforma.
+0002#STR0002#ALL#E permitido selecionar tipo de informacao a ser
+0003#STR0003#ALL#apresentada, atraves dos parametros do relatorio.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatorio de Custos Das Ordem de Servico de Reforma
+0007#STR0007#ALL#De Ordem de Reforma?
+0008#STR0008#ALL#Ate Ordem de Reforma?
+0009#STR0009#ALL#Tipo de Custo
+0010#STR0010#ALL#Standard
+0011#STR0011#ALL#Medio
+0012#STR0012#ALL#Tipo de Relatorio
+0013#STR0013#ALL#Resumido
+0014#STR0014#ALL#Detalhado
+0015#STR0015#ALL#O.S. Pai Ordem  Bem              Nome do Bem                    Servivo Nome Servico
+0016#STR0016#ALL#Custo Previsto  Custo Realizado
+0017#STR0017#ALL#--------------------------------------------------------------------- I N S U M O S -------------------------------------------------------------------
+0018#STR0018#ALL#Tipo Insumo          Nome Insumo                    Rec Quantidade Und Dt.Inic. H.In. Dt. Fim  H.Fim  Custo Previsto  Custo Realizado
+0019#STR0019#ALL#Total da O.S. de Reforma 
+0020#STR0020#ALL#Total da O.S. de Reforma Pai 
+0021#STR0021#ALL#Total da Geral
+0022#STR0022#ALL#Para Utilizar o Relatorio de Custo das O.S. de Reforma e Necessario
+0023#STR0023#ALL#Criar Via Configurador o Campo Com as Caracteristicas :
+0024#STR0024#ALL#Campo.........:
+0025#STR0025#ALL#Tipo.............: 
+0026#STR0026#ALL#Tamanho.....: 
+0027#STR0027#ALL#Decimal.......: 
+0028#STR0028#ALL#Formato.......: 
+0029#STR0029#ALL#Cabecalho...: 
+0030#STR0030#ALL#Custo Hora
+0031#STR0031#ALL#Descricao....: 
+0032#STR0032#ALL#Custo Hora Trabalhada
+0033#STR0033#ALL#Nivel............: 
+0034#STR0034#ALL#Propreidade.: 
+0035#STR0035#ALL#Alterar
+0036#STR0036#ALL#OBSERVACAO:
+0037#STR0037#ALL#Informar No Cadastro de Fornecedor o Valor do Custa Hora Trabalhada..
+0038#STR0038#ALL#Pois Este Valor Sera Usado No Calculo do Custo dos Insumos  (O.S.)
+0039#STR0039#ALL#NAO CONFORMIDADE NO SX3.. + GetDBExtension ( )
+0040#STR0040#ALL#Selecionando Registros...
+0041#STR0041#ALL# ( RESUMIDO )
+0042#STR0042#ALL# ( DETALHADO )
+0043#STR0043#ALL#Tipo Insumo          
+0044#STR0044#ALL#Nome Insumo          Qntd. Recurso Quantidade  Unidade  Dt.Inicio  Hora Inicio   Dt. Fim   Hora Fim  Custo Previsto  
+0045#STR0045#ALL#Custo Realizado
+0046#STR0046#ALL#Custo Realizado
+0047#STR0047#ALL#Nome Insumo          Qntd. Recurso Quantidade  Unidade  Dt.Inicio  Hora Inicio   Dt. Fim   Hora Fim  Custo Previsto  Custo Realizado
+0048#STR0048#ALL#De Centro Custo ?
+0049#STR0049#ALL#Até Centro Custo ?
+0050#STR0050#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0051#STR0051#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.

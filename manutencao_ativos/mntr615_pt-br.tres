@@ -1,0 +1,17 @@
+0001#STR0001#ALL#O objetivo deste relatório é apresentar a estrutura dos Bens selecio- 
+0002#STR0002#ALL#dos. O asterisco (*) apos o codigo do componente, indica que existem  
+0003#STR0003#ALL#componentes nao apresentados na forma de estrutura por problema de espaco.
+0004#STR0004#ALL# Por Centro de Custo
+0005#STR0005#ALL# Por Centro Trabalho
+0006#STR0006#ALL# Por Familia
+0007#STR0007#ALL#Zebrado
+0008#STR0008#ALL#Administracao
+0009#STR0009#ALL#Estruturas de Bens
+0010#STR0010#ALL#Nivel                       Nome                                     Dt.Entrada  Local   Nome Localizacao
+0011#STR0011#ALL#CANCELADO PELO OPERADOR
+0012#STR0012#ALL#Bem..:
+0013#STR0013#ALL#Centro De Custo.....:
+0014#STR0014#ALL#Centro De Trabalho..:
+0015#STR0015#ALL#Familia.............:
+0016#STR0016#ALL#ATENÇÃO
+0017#STR0017#ALL#Não existem dados para montar o relatório.

@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Duracao de Bens por Tipo de Servico.
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Bem               Evento      Descrição                            Data Ini.   Data Fim     Cont.Inic.     Cont.Fim           Custo  Vida Útil
+0005#STR0005#ALL#CANCELADO PELO OPERADOR
+0006#STR0006#ALL#Familia -
+0007#STR0007#ALL#Servico -
+0008#STR0008#ALL#Total do Bem -
+0009#STR0009#ALL#Sequencia          ?
+0010#STR0010#ALL#De Familia de Bem  ?
+0011#STR0011#ALL#Ate Familia de Bem ?
+0012#STR0012#ALL#De Bem             ?
+0013#STR0013#ALL#Ate Bem            ?
+0014#STR0014#ALL#Servico            ?
+0015#STR0015#ALL#De  Data           ?
+0016#STR0016#ALL#Ate Data           ?
+0017#STR0017#ALL#Considera Inativo  ?
+0018#STR0018#ALL#Sim
+0019#STR0019#ALL#Nao
+0020#STR0020#ALL#Devido a alteracao no dicionario e necessario reinicializar o sistema
+0021#STR0021#ALL#ATENCAO
+0022#STR0022#ALL#Reinicialize o sistema
+0023#STR0023#ALL#Compra
+0024#STR0024#ALL#Rodizio
+0025#STR0025#ALL#Preventiva
+0026#STR0026#ALL#Corretiva
+0027#STR0027#ALL#Producao
+0028#STR0028#ALL#Inativo
+0029#STR0029#ALL#Processando Arquivo...
+0030#STR0030#ALL#Selecionando Registros...
+0031#STR0031#ALL#Bem
+0032#STR0032#ALL#Evento
+0033#STR0033#ALL#Descricao
+0034#STR0034#ALL#Data Ini.
+0035#STR0035#ALL#Data Fim
+0036#STR0036#ALL#Cont.Inic.
+0037#STR0037#ALL#Cont.Fim
+0038#STR0038#ALL#Custo
+0039#STR0039#ALL#Vida Util
+0040#STR0040#ALL#Familia
+0041#STR0041#ALL#Servico
+0042#STR0042#ALL#Informe se deve considerar Transferências: Não; Sim.
+0043#STR0043#ALL#Informe Tipo de Custo: Medio; Standard.
+0044#STR0044#ALL#Transfer.
+0045#STR0045#ALL#da Filial 
+0046#STR0046#ALL#para Filial 
+0047#STR0047#ALL#da Empresa/Filial 
+0048#STR0048#ALL#para Empresa/Filial 
+0049#STR0049#ALL#Não existem dados para montar o relatório.

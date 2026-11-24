@@ -1,0 +1,58 @@
+0001#STR0001#ALL#Pesquisar
+0002#STR0002#ALL#Visualizar
+0003#STR0003#ALL#Parametros
+0004#STR0004#ALL#Imprimir
+0005#STR0005#ALL#Relatorio de abastecimento por Filial
+0006#STR0006#ALL#De Data            ?
+0007#STR0007#ALL#Ate Data           ?
+0008#STR0008#ALL#De Filial          ?
+0009#STR0009#ALL#Ate Filial         ?
+0010#STR0010#ALL#Aguarde...
+0011#STR0011#ALL#Processando Registros...
+0012#STR0012#ALL#Filial
+0013#STR0013#ALL#Operação
+0014#STR0014#ALL#Usuario
+0015#STR0015#ALL#Veículo
+0016#STR0016#ALL#Placa
+0017#STR0017#ALL#Motorista
+0018#STR0018#ALL#Dat.Abst
+0019#STR0019#ALL#Contador
+0020#STR0020#ALL#Quantidade
+0021#STR0021#ALL#Vlr.Unit
+0022#STR0022#ALL#Vlr.Abast
+0023#STR0023#ALL#Qtd.Cont.Trab.
+0024#STR0024#ALL#Posto
+0025#STR0025#ALL#Media
+0026#STR0026#ALL#Med.Esperada
+0027#STR0027#ALL#Cidade
+0028#STR0028#ALL#Não existe dados para montar a tela de consulta.
+0029#STR0029#ALL#ATENÇÃO
+0030#STR0030#ALL#Aguarde ..Processando Arquivo de Filiais
+0031#STR0031#ALL#O usuario podera utilizar a opcao Parametros para
+0032#STR0032#ALL#a obtencao da selecao desejada.
+0033#STR0033#ALL#Administracao
+0034#STR0034#ALL#Zebrado
+0035#STR0035#ALL#Relatório de Abastecimento por Filial
+0036#STR0036#ALL#Nao exite dados para imprimir o relatório.
+0037#STR0037#ALL#Veiculo          Data       Posto                     Motorista                         Contador  Qtd.Abast. Val.Unit.   Vlr.Abst.  Cont.Trab. Média Km/l  Média Esp. Usuario         Cidade           C.Custo
+0038#STR0038#ALL#CANCELADO PELO OPERADOR
+0039#STR0039#ALL#Operação:
+0040#STR0040#ALL#Filial:
+0041#STR0041#ALL#Total Geral:
+0042#STR0042#ALL#Data final não pode ser inferior à data inicial!
+0043#STR0043#ALL#Total Operação: 
+0044#STR0044#ALL#De Bem?
+0045#STR0045#ALL#Até Bem?
+0046#STR0046#ALL#Classificar por data?
+0047#STR0047#ALL#Crescente
+0048#STR0048#ALL#Decrescente
+0049#STR0049#ALL#Calcula Km Percor.do 1º Abast?
+0050#STR0050#ALL#Sim
+0051#STR0051#ALL#Não
+0052#STR0052#ALL#Combustível:
+0053#STR0053#ALL#* Primeiro abastecimento do veículo, portanto a média de Km percorrido não é calculada.
+0054#STR0054#ALL#Total: 
+0055#STR0055#ALL#Cod. Filial
+0056#STR0056#ALL#CNPJ
+0057#STR0057#ALL#Ordena
+0058#STR0058#ALL#Cod. Combustível

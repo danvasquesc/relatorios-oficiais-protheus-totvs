@@ -1,0 +1,19 @@
+0001#STR0001#ALL#O relatório apresentará a situação dos 
+0002#STR0002#ALL#veículos inspecionados 
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Situacao de Inspecao de Pneus
+0006#STR0006#ALL#De Filial
+0007#STR0007#ALL#Até Filial
+0008#STR0008#ALL#Data Início Inspeção
+0009#STR0009#ALL#Aguarde...
+0010#STR0010#ALL#Processando Registros...
+0011#STR0011#ALL#Veiculo           Descricao                                 Situacao  Status do Bem              Qtde Pneus  Status Inspecao
+0012#STR0012#ALL#Ativo
+0013#STR0013#ALL#Inativo
+0014#STR0014#ALL#Iniciado
+0015#STR0015#ALL#Inconsistente
+0016#STR0016#ALL#Pendente de Atualização
+0017#STR0017#ALL#Finalizado
+0018#STR0018#ALL#Veiculo           Descricao                                 O.S.Insp  Status do Bem              Qtde Pneus  Status Inspecao
+0019#STR0019#ALL#Não Iniciado

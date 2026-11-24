@@ -1,0 +1,18 @@
+0001#STR0001#ALL#Relatorio de apresentacao dos desvios de consumo de insumos na execucao do Plano de
+0002#STR0002#ALL#de Manutencao. O usuario podera selecionar qual o tipo de insumo deseja analisar, 
+0003#STR0003#ALL#bem como estabelecer um filtro das Ordens de Servico do Plano.
+0004#STR0004#ALL#DESVIOS DO PLANO
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administracao
+0007#STR0007#ALL#Desvios do Plano  
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Total do Plano de Manutencao
+0010#STR0010#ALL#Ordem..:
+0011#STR0011#ALL#*Tipo - Código     - Unid.  ..........Previsto.......... ...........Real........... .........Variacao.........
+0012#STR0012#ALL#Nome do Insumo              Quant.    Consumo      Preco Quant.  Consumo      Preco Quant.  Consumo      Preco    % Cons.   % Valor
+0013#STR0013#ALL#Total da Ordem de Servico
+0014#STR0014#ALL#.........Previsto........ ...........Real.........  .........Variacao.......                 *
+0015#STR0015#ALL#De Centro Custo ?
+0016#STR0016#ALL#Até Centro Custo ?
+0017#STR0017#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0018#STR0018#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.

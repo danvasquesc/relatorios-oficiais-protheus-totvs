@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Custo da Mao-de-Obra de Terceiros
+0002#STR0002#ALL#.
+0003#STR0003#ALL#De Centro de Custo ?
+0004#STR0004#ALL#Ate Centro de Custo ?
+0005#STR0005#ALL#De Funcionario ?
+0006#STR0006#ALL#Ate Funcionario ?
+0007#STR0007#ALL#De Dt. Fecham. OS ?
+0008#STR0008#ALL#Ate Dt. Fecham. OS ?
+0009#STR0009#ALL#Ate Dt. Fecham. OS?
+0010#STR0010#ALL#Centro de Custo
+0011#STR0011#ALL#Ordens de Servico
+0012#STR0012#ALL#Matricula
+0013#STR0013#ALL#Nome
+0014#STR0014#ALL#Bem
+0015#STR0015#ALL#O.S.
+0016#STR0016#ALL#Qtde Horas
+0017#STR0017#ALL#Valor
+0018#STR0018#ALL#Dt. Apont.
+0019#STR0019#ALL#Total do Centro de Custo
+0020#STR0020#ALL#Total do Funcionario
+0021#STR0021#ALL#Relatório de Custo da Mão-de-Obra de Terceiros.
+0022#STR0022#ALL#Zebrado
+0023#STR0023#ALL#Administracao
+0024#STR0024#ALL#Processando as Ordens de Servico...
+0025#STR0025#ALL#Centro de Custo: 
+0026#STR0026#ALL# - 
+0027#STR0027#ALL#Matricula    Nome                                   Bem                  O.S.        Qtde Horas              Valor        Dt.Apont.
+0028#STR0028#ALL#Total do Funcionario
+0029#STR0029#ALL#Total Geral
+0030#STR0030#ALL#Localização do Bem: 
+0031#STR0031#ALL#Não está relacionado a uma Estrutura.
+0032#STR0032#ALL#Imprimir Localização ?
+0033#STR0033#ALL#Sim
+0034#STR0034#ALL#Não
+0035#STR0035#ALL#Informe se deve imprimir a localização:
+0036#STR0036#ALL#1-Sim
+0037#STR0037#ALL#2-Não

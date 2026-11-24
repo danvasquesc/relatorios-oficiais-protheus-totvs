@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Resumo do Plano de Manutencao
+0002#STR0002#ALL#Sera apresentado as quantidades de Ordens de Servicos abertos, finalizados, cancelados, etc.
+0003#STR0003#ALL#Relatorio de Resumo do Plano de Manutencao       
+0004#STR0004#ALL#Sera apresentado as quantidades de Ordens de Ser-
+0005#STR0005#ALL#vicos abertos, finalizados, cancelados, etc.     
+0006#STR0006#ALL#Zebrado
+0007#STR0007#ALL#Administracao
+0008#STR0008#ALL#Plano   Nome Plano                                Dt. Plano  Dt.Inicio  Dt. Fim    OS Abertas  Finalizadas  Canceladas  Pendentes
+0009#STR0009#ALL#Selecionando Registros...
+0010#STR0010#ALL#Plano
+0011#STR0011#ALL#Nome Plano
+0012#STR0012#ALL#Dt. Plano
+0013#STR0013#ALL#Dt. Inic.
+0014#STR0014#ALL#Dt. Fim
+0015#STR0015#ALL#OS Abertas
+0016#STR0016#ALL#OS Finalizadas
+0017#STR0017#ALL#OS Canceladas
+0018#STR0018#ALL#OS Pendentes
+0019#STR0019#ALL#Resumo
+0020#STR0020#ALL#De Centro Custo ?
+0021#STR0021#ALL#Até Centro Custo ?
+0022#STR0022#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0023#STR0023#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.

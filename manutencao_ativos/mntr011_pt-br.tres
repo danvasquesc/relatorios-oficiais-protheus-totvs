@@ -1,0 +1,61 @@
+0001#STR0001#ALL#Relatório de manutenções a vencer dentro do período selecionado
+0002#STR0002#ALL#nos parâmetros.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Preventivas a Vencer
+0006#STR0006#ALL#Execute o update UPDMNT41 para utilizar esta rotina
+0007#STR0007#ALL#ATENÇÃO
+0008#STR0008#ALL#Tolerância mínima      ?
+0009#STR0009#ALL#Tolerância máxima      ?
+0010#STR0010#ALL#Tipo Acomp.            ?
+0011#STR0011#ALL#Tipos de Acompanhamento
+0012#STR0012#ALL#Preventivas a Vencer de 
+0013#STR0013#ALL# a 
+0014#STR0014#ALL# horas
+0015#STR0015#ALL#Contador Bem              Descrição                      Serviço  Sequencia        Contador Atual   Tolerância Tempo    Tolerância Cont.  Prox. Manutenção   Dt. Prox. Man.
+0016#STR0016#ALL#Contador Bem              Descrição                      Serviço  Sequencia        Contador Atual   Tolerância Tempo  Prox. Manutenção   Dt. Prox. Man.
+0017#STR0017#ALL#Contador Bem              Descrição                      Serviço  Sequencia        Contador Atual   Tolerância Cont.  Prox. Manutenção   Dt. Prox. Man.
+0018#STR0018#ALL#Centro de Custo: 
+0019#STR0019#ALL#Centro de Trabalho: 
+0020#STR0020#ALL#Família: 
+0021#STR0021#ALL#Total da Família
+0022#STR0022#ALL#Selecionando Registros...
+0023#STR0023#ALL#Código
+0024#STR0024#ALL#Descrição
+0025#STR0025#ALL#&Pesquisar
+0026#STR0026#ALL#Não existem dados para montar o relatório.
+0027#STR0027#ALL#Total C.C.
+0028#STR0028#ALL#Total C.T.
+0029#STR0029#ALL#Contador Bem              Descrição                      Serviço  Sequencia        Contador Atual    Tolerância/Dias  Prox. Manutenção   Dt. Prox. Man.
+0030#STR0030#ALL#De Centro de Custo     ?
+0031#STR0031#ALL#Ate Centro de Custo    ?
+0032#STR0032#ALL#De Centro de Trabalho  ?
+0033#STR0033#ALL#Até Centro de Trabalho ?
+0034#STR0034#ALL#De Familia             ?
+0035#STR0035#ALL#Até Familia            ?
+0036#STR0036#ALL#De Bem                 ?
+0037#STR0037#ALL#Ate Bem                ?
+0038#STR0038#ALL#De Serviço             ?
+0039#STR0039#ALL#Ate Serviço            ?
+0040#STR0040#ALL#Informe um valor para a tolerância mínima.
+0041#STR0041#ALL#Informe um valor para a tolerância máxima.
+0042#STR0042#ALL#Informe o Tipo de Acompanhamento. Pressione as teclas [Enter]+[F3] para selecionar o Tipo desejado
+0043#STR0043#ALL#A = Tempo/Contador
+0044#STR0044#ALL#C = Contador
+0045#STR0045#ALL#F = Contador Fixo
+0046#STR0046#ALL#P = Produção
+0047#STR0047#ALL#S = Segundo Contador
+0048#STR0048#ALL#T = Tempo
+0049#STR0049#ALL#Z = Todos
+0050#STR0050#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0051#STR0051#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.
+0052#STR0052#ALL#Informe a partir de qual Centro de trabalho deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Trabalho.
+0053#STR0053#ALL#Informe até qual Centro trabalho deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Trabalho.
+0054#STR0054#ALL#Informe a partir de qual Família de Bem deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar uma Família de Bem.
+0055#STR0055#ALL#Informe até qual Família de Bem deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar a Família de Bem desejada ou digite ZZZZZZ neste campo e o acima em branco para considerar todas as Famílias de Bem.
+0056#STR0056#ALL#Informe a partir de qual Bem deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Bem.
+0057#STR0057#ALL#Informe até qual Bem deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Bem desejado ou digite ZZZZZZZZZZZZZZZZ neste campo e o acima em branco para considerar todos os Bens.
+0058#STR0058#ALL#Informe a partir de qual Serviço deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Serviço.
+0059#STR0059#ALL#Informe até qual Serviço deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Serviço desejado ou digite ZZZZZZ neste campo e o acima em branco para considerar todos os Serviços.
+0060#STR0060#ALL#O campo 'Tipo Acompanhamento' foi preenchido com um valor inválido.
+0061#STR0061#ALL#Favor verificar o valor digitado para o campo 'Tipo Acompanhamento'.

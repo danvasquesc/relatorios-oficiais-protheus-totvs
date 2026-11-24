@@ -1,0 +1,24 @@
+0001#STR0001#ALL#Resumo Custo Mensal.
+0002#STR0002#ALL#O usuario pode selecionar quais os campos que deverao ser mostrados,
+0003#STR0003#ALL#bem como informar parametros de selecao para a impressao.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#     Bem              Descricao              Janeiro    	      Fevereiro     		           Março       	        Abril              Maio                Junho
+0007#STR0007#ALL#                                               Julho             Agosto              Setembro             Outubro           Novembro             Dezembro             Total
+0008#STR0008#ALL#CANCELADO PELO OPERADOR
+0009#STR0009#ALL#Centro de Custo..:
+0010#STR0010#ALL#Centro de Trabalho..:
+0011#STR0011#ALL#Familia..:
+0012#STR0012#ALL#TOTAL DA FAMILIA..:
+0013#STR0013#ALL#TOTAL DO CENTRO DE CUSTO..:
+0014#STR0014#ALL#TOTAL DO CENTRO DE TRABALHO..:
+0015#STR0015#ALL#TOTAL GERAL..:
+0016#STR0016#ALL#Selecionando Registros...
+0017#STR0017#ALL#Localização.: 
+0018#STR0018#ALL#Não está relacionado a uma Estrutura.
+0019#STR0019#ALL#Imprimir Localização ?
+0020#STR0020#ALL#Sim
+0021#STR0021#ALL#Não
+0022#STR0022#ALL#Informe se deve imprimir a localização:
+0023#STR0023#ALL#1-Sim
+0024#STR0024#ALL#2-Não

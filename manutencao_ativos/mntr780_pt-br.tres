@@ -1,0 +1,94 @@
+0001#STR0001#ALL#Apresentacao do historico dos bens selecionados.
+0002#STR0002#ALL#E permitido selecionar o tipo de informacao a ser
+0003#STR0003#ALL#apresentada, atraves dos parametros do relatorio.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Historico de Bens
+0007#STR0007#ALL#Lista O.S. Observa.?
+0008#STR0008#ALL#Sim
+0009#STR0009#ALL#Nao
+0010#STR0010#ALL#Lista Ins. Observa.
+0011#STR0011#ALL#BENS DO CENTRO DE CUSTO = 
+0012#STR0012#ALL#CENTRO DE TRABALHO = 
+0013#STR0014#ALL#Bem........:
+0014#STR0015#ALL#Familia...:
+0015#STR0016#ALL#Pai........:
+0016#STR0017#ALL#Fornecedor.:
+0017#STR0018#ALL#Fabricante:
+0018#STR0019#ALL#Cal.:
+0019#STR0020#ALL#Modelo.....:
+0020#STR0021#ALL#Serie..:
+0021#STR0022#ALL#Dt.Compra.:
+0022#STR0023#ALL#Cod.Imob.:
+0023#STR0024#ALL#Prazo Gar.:
+0024#STR0025#ALL#Dt.Garantia:
+0025#STR0026#ALL#Prior..:
+0026#STR0027#ALL#Cod.Estoq.:
+0027#STR0028#ALL#Tem Estr.:
+0028#STR0029#ALL#Contador..:
+0029#STR0030#ALL#Dt.Acomp.:
+0030#STR0031#ALL#Var/Dia:
+0031#STR0032#ALL#Limite:
+0032#STR0033#ALL#Sit.Bem..:
+0033#STR0034#ALL#Sit.Manut.:
+0034#STR0035#ALL#Ponderacao.: Jan  Fev  Mar  Abr  Mai  Jun  Jul  Ago  Set  Out  Nov  Dez
+0035#STR0036#ALL#Caracter...:
+0036#STR0037#ALL#Descricao..: 
+0037#STR0038#ALL#Observacao.:
+0038#STR0039#ALL#Problema da O.S..:
+0039#STR0040#ALL#Tarefa..:
+0040#STR0041#ALL#SEM ESPECIFICACAO DE TAREFA
+0041#STR0042#ALL#Problema da Tarefa.:
+0042#STR0043#ALL#Etapa..:
+0043#STR0044#ALL#O.S.   Plano  Serv.  Seq. Nome Servico                Contado 1  Contador 2 Evento P/R  .....Inicio..... ......Fim.......   DD-HH-MM
+0044#STR0045#ALL#Parada  P
+0045#STR0046#ALL#Parada  R
+0046#STR0047#ALL#Exec.   P
+0047#STR0048#ALL#Exec.   R
+0048#STR0049#ALL#Bem
+0049#STR0050#ALL#Espec.
+0050#STR0051#ALL#Ocorr:
+0051#STR0052#ALL#Causa:
+0052#STR0053#ALL#Soluc:
+0053#STR0054#ALL#Opcao..:
+0054#STR0055#ALL#Informou....:
+0055#STR0056#ALL#Marcou......:
+0056#STR0057#ALL#Motivo do Atraso da  O.S..:  Motivo Descricao                                   .....Inicio..... ......Fim.......
+0057#STR0058#ALL#Contador 2:
+0058#STR0059#ALL#Ins..:
+0059#STR0060#ALL#Seq..:
+0060#STR0061#ALL#Quant. Rec.:
+0061#STR0062#ALL#Quant.:
+0062#STR0063#ALL#Unid.:
+0063#STR0064#ALL#Dest.:
+0064#STR0065#ALL#Exec.
+0065#STR0066#ALL#Prod
+0066#STR0067#ALL#Func
+0067#STR0068#ALL#Ferr
+0068#STR0069#ALL#Terc
+0069#STR0070#ALL#OS..:
+0070#STR0071#ALL#Desc.Cont1.:
+0071#STR0072#ALL#Acum.:
+0072#STR0073#ALL#Desc.Cont2.:
+0073#STR0074#ALL#Selecionando Registros...
+0074#STR0075#ALL#Exec.   R. 
+0075#STR0076#ALL#TEMPO DE EXECUÇÃO DA O.S.
+0076#STR0077#ALL#DURAÇÃO DA O.S.
+0077#STR0078#ALL#Imprimir Localização ?
+0078#STR0079#ALL#Sim
+0079#STR0080#ALL#Não
+0080#STR0081#ALL#Informe se deve imprimir a localização:
+0081#STR0082#ALL#1-Sim
+0082#STR0083#ALL#2-Não
+0083#STR0084#ALL#Localização:
+0084#STR0085#ALL#Terceiro..:
+0085#STR0086#ALL#Considerar OS de ?
+0086#STR0087#ALL#Próprio
+0087#STR0088#ALL#Terceiros
+0088#STR0089#ALL#Ambos
+0089#STR0090#ALL#De Data OS
+0090#STR0091#ALL#Ate Data OS
+0091#STR0092#ALL#Informe um determinado período de data inicio da Ordem de Serviço.
+0092#STR0093#ALL#Informe um determinado período de data fim da Ordem de Serviço.
+0093#STR0094#ALL#ATENÇÃO
+0094#STR0095#ALL#Não existem dados para montar o relatório.

@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Relatorio de acompanhamento de garantia de insumos utilizados.
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Acompanhamento de Garantia
+0005#STR0005#ALL#Da  Data           ?
+0006#STR0006#ALL#Ate Data           ?
+0007#STR0007#ALL#Tipo de Insumo     ?
+0008#STR0008#ALL#Mao de Obra
+0009#STR0009#ALL#Terceiro
+0010#STR0010#ALL#Produto
+0011#STR0011#ALL#Todos
+0012#STR0012#ALL#Tipo Insumo  Código           Descrição       Bem              O.S.   Local   ------Garantia------  Dt.Aplic  Validade   Situação
+0013#STR0013#ALL#Violada
+0014#STR0014#ALL#Em Garantia
+0015#STR0015#ALL#Vencida
+0016#STR0016#ALL#Dias
+0017#STR0017#ALL#Dia
+0018#STR0018#ALL#Semanas
+0019#STR0019#ALL#Semana
+0020#STR0020#ALL#Meses
+0021#STR0021#ALL#Mes
+0022#STR0022#ALL#Contador1
+0023#STR0023#ALL#Contador2
+0024#STR0024#ALL#Selecionando Registros...
+0025#STR0025#ALL#De Filial?
+0026#STR0026#ALL#Até Filial?
+0027#STR0027#ALL#De Modelo?
+0028#STR0028#ALL#Até Modelo?
+0029#STR0029#ALL#Serviço
+0030#STR0030#ALL#Tipo Insumo  Código                               Descrição                               Bem                    O.S.       Local   ------Garantia------  Inicio       Validade     Situação
+0031#STR0031#ALL#Tipo Insumo
+0032#STR0032#ALL#Código
+0033#STR0033#ALL#Descrição
+0034#STR0034#ALL#Bem
+0035#STR0035#ALL#O.S.
+0036#STR0036#ALL#Local	
+0037#STR0037#ALL#----Garantia------
+0038#STR0038#ALL#--Garantia Tempo--
+0039#STR0039#ALL#Dt.Aplic.
+0040#STR0040#ALL#Inicio
+0041#STR0041#ALL#Validade
+0042#STR0042#ALL#Situação
+0043#STR0043#ALL#--Garantia Cont.--
+0044#STR0044#ALL#Detalhes
+0045#STR0045#ALL#Ferramenta

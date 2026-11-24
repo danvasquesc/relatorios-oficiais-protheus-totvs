@@ -1,0 +1,31 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Relatório de pagtos para terceiros apurados pelo jurídico.
+0004#STR0004#ALL#O relatório apresentará os valores pagos a terceiros por 
+0005#STR0005#ALL#acordo, totalizando por Filial ou Operação.
+0006#STR0006#ALL#Ano ?
+0007#STR0007#ALL#De  Grupo Filial ?
+0008#STR0008#ALL#Ate Grupo Filial ?
+0009#STR0009#ALL#De  Filial ?
+0010#STR0010#ALL#Ate Filial ?
+0011#STR0011#ALL#Aguarde...
+0012#STR0012#ALL#Processando Registros...
+0013#STR0013#ALL#Selecionando Registros...
+0014#STR0014#ALL#Processando Arquivo...
+0015#STR0015#ALL#OPERACAO
+0016#STR0016#ALL#PREJ.ANIMAIS
+0017#STR0017#ALL#%AC
+0018#STR0018#ALL#PREJ.IMOVEIS
+0019#STR0019#ALL#PREJ.VEICULOS
+0020#STR0020#ALL#PREJ.GUINCHO
+0021#STR0021#ALL#PREJ.VITIMAS
+0022#STR0022#ALL#REST.TERCEIROS
+0023#STR0023#ALL#PREJ.TOTAL
+0024#STR0024#ALL#TOTAL
+0025#STR0025#ALL#De Grupo de Filial não pode ser maior que Até Grupo de Filial!
+0026#STR0026#ALL#Atenção
+0027#STR0027#ALL#De Filial não pode ser maior que Até Filial!
+0028#STR0028#ALL#Não existem dados para montar o relatório!
+0029#STR0029#ALL#Ano informado não poderá ser maior que 
+0030#STR0030#ALL#FILIAL
+0031#STR0031#ALL#O Ano informado deverá conter 4 dígitos!

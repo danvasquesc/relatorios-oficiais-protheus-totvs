@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Rendimento de pneus recapados
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#De Familia             ?
+0005#STR0005#ALL#Ate Familia            ?
+0006#STR0006#ALL#De Modelo              ?
+0007#STR0007#ALL#Ate Modelo             ?
+0008#STR0008#ALL#De Medida              ?
+0009#STR0009#ALL#Ate Medida             ?
+0010#STR0010#ALL#De Filial              ?
+0011#STR0011#ALL#Ate Filial             ?
+0012#STR0012#ALL#Aguarde....
+0013#STR0013#ALL#Processando Registros...
+0014#STR0014#ALL#Nao existem dados para montar o relatorio.
+0015#STR0015#ALL#ATENCAO
+0016#STR0016#ALL#Filial
+0017#STR0017#ALL#-----------------Rendimento Real-----------------     -----------------Rendimento Previsto-------------
+0018#STR0018#ALL#Familia  Medida   Modelo       Cod. Pneu          Num. Fogo    DOT    Vida  Sulco  Status                       OR        R1        R2        R3        R4            OR        R1        R2        R3        R4
+0019#STR0019#ALL#De Status              ?
+0020#STR0020#ALL#Ate Status             ?
+0021#STR0021#ALL#O Status digitado não é um status de pneu!
+0022#STR0022#ALL#Operação:
+0023#STR0023#ALL#O Bem digitado não é um Pneu!
+0024#STR0024#ALL#De Pneu                ?
+0025#STR0025#ALL#Ate Pneu               ?

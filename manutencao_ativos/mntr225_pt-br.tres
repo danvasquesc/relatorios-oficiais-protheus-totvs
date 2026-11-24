@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatório de Satisfação referente ao Atendimendo de Check-List
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#Relatírio de Satisfação referente ao Atendimendo de Check-List
+0005#STR0005#ALL#De Data         ?
+0006#STR0006#ALL#Ate Data        ?
+0007#STR0007#ALL#De Familia      ?
+0008#STR0008#ALL#Ate Familia     ?
+0009#STR0009#ALL#De Bem          ?
+0010#STR0010#ALL#Ate Bem         ?
+0011#STR0011#ALL#Emissao 
+0012#STR0012#ALL#Check List  Data        O.S     Bem                Nome                                      Serviço                  Atend. Prazo     Atend. Necessidade 
+0013#STR0013#ALL#Atendimento no Prazo.......: 
+0014#STR0014#ALL# ; Bom = 
+0015#STR0015#ALL# ; Satisfatório = 
+0016#STR0016#ALL# ; Ruim = 
+0017#STR0017#ALL#Ótimo = 
+0018#STR0018#ALL#Atendimento as Necessidades: 
+0019#STR0019#ALL#                                                                                           Avaliação

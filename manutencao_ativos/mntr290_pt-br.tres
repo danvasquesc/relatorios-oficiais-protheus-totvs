@@ -1,0 +1,32 @@
+0001#STR0001#ALL#Consumo Médio Diário Por Abastecimento.
+0002#STR0002#ALL#Relatório de acompanhamento e análise da média de consumo dos veículos da frota.
+0003#STR0003#ALL#O usuário poderá selecionar os bens de um determinado Centro de Custo, e Família,
+0004#STR0004#ALL#de um período de tempo, bem como o serviço e o produto.
+0005#STR0005#ALL#Zebrado
+0006#STR0006#ALL#Administração	
+0007#STR0007#ALL#Veiculo           Descricao                  Familia  Dt.Inic.    Hr.Inic.     Consumo  Un.  1º Contador        Acumulado        Total        Media    2º Contador        Acumulado        Total        Media
+0008#STR0008#ALL#TOTAL DE CONSUMO..:
+0009#STR0009#ALL#TOTAL GERAL.......:
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#ALL#Veículo
+0012#STR0012#ALL#Descrição
+0013#STR0013#ALL#Família
+0014#STR0014#ALL#Descrição
+0015#STR0015#ALL#Dt.Iníc.
+0016#STR0016#ALL#Hr.Iníc.
+0017#STR0017#ALL#Consumo
+0018#STR0018#ALL#Un.
+0019#STR0019#ALL#Contador 1
+0020#STR0020#ALL#Acumulado
+0021#STR0021#ALL#Total
+0022#STR0022#ALL#Média
+0023#STR0023#ALL#Contador 2
+0024#STR0024#ALL#Acumulado
+0025#STR0025#ALL#Total
+0026#STR0026#ALL#Média
+0027#STR0027#ALL#Total de Consumo
+0028#STR0028#ALL#Consumo Diário
+0029#STR0029#ALL#Não existem dados para montar o relatório.
+0030#STR0030#ALL#Atenção
+0031#STR0031#ALL#Tratamento Media ?
+0032#STR0032#ALL#Serviço ?

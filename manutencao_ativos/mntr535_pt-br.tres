@@ -1,0 +1,30 @@
+0001#STR0001#ALL#O relatório apresentará o resumo de pneus
+0002#STR0002#ALL#sucateados prematuramente por HUB e Filial 
+0003#STR0003#ALL#totalizando por Motivo,Fabricante,Medida,Modelo e Geral.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatório de Sucateamento Prematuro de Pneus
+0007#STR0007#ALL#De Data Análise  ?
+0008#STR0008#ALL#Até Data Análise ?
+0009#STR0009#ALL#Totalizar Por    ?
+0010#STR0010#ALL#Geral
+0011#STR0011#ALL#Motivo
+0012#STR0012#ALL#Medida
+0013#STR0013#ALL#Fabricante
+0014#STR0014#ALL#Modelo
+0015#STR0015#ALL#Relatório de Sucateamento Prematuro de Pneus - Geral
+0016#STR0016#ALL#Relatório de Sucateamento Prematuro de Pneus por Motivo
+0017#STR0017#ALL#Relatório de Sucateamento Prematuro de Pneus por Medida
+0018#STR0018#ALL#Relatório de Sucateamento Prematuro de Pneus por Fabricante
+0019#STR0019#ALL#Relatório de Sucateamento Prematuro de Pneus por Modelo
+0020#STR0020#ALL#Aguarde...
+0021#STR0021#ALL#Processando Registros...
+0022#STR0022#ALL#Não existe dados para montar a tela de consulta.
+0023#STR0023#ALL#ATENÇÃO
+0024#STR0024#ALL#HUB              Filial                Pneu                    OR    R1    R2  Prematur.   Total  Vida OR.  Vida R1  Vida R2  Premat.
+0025#STR0025#ALL#HUB              Filial                Motivo                  OR    R1    R2  Prematur.   Total  Vida OR.  Vida R1  Vida R2  Premat.
+0026#STR0026#ALL#HUB              Filial                Medida                  OR    R1    R2  Prematur.   Total  Vida OR.  Vida R1  Vida R2  Premat.
+0027#STR0027#ALL#HUB              Filial                Fabricante              OR    R1    R2  Prematur.   Total  Vida OR.  Vida R1  Vida R2  Premat.
+0028#STR0028#ALL#HUB              Filial                Modelo                  OR    R1    R2  Prematur.   Total  Vida OR.  Vida R1  Vida R2  Premat.
+0029#STR0029#ALL#CANCELADO PELO OPERADOR
+0030#STR0030#ALL#Data final não pode ser inferior à data inicial!

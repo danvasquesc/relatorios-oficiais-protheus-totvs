@@ -1,0 +1,22 @@
+0001#STR0001#ALL#O objetivo deste relatório é exibir detalhadamente todas as Ordens de 
+0002#STR0002#ALL#Servico geradas pelo plano de manutencao, conforme os parametros esta-
+0003#STR0003#ALL#belecidos pelo usuario.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Ordens de Servico Manutencao
+0007#STR0007#ALL#Prior. O.S.   Bem              Nome                                     Servico Descricao                                Seq.  Manutencao                                C.Trab.  Area
+0008#STR0008#ALL#Manutenção    Pai              Nome                                     ......Inicio......   ........Fim.......      Ult.Man.       Contador Prod. Func. Ferr. Bem
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#Sim
+0011#STR0011#ALL#Nao
+0012#STR0012#ALL#Problemas..:
+0013#STR0013#ALL#ESPECIAL.
+0014#STR0014#ALL#PRODUTO
+0015#STR0015#ALL#FUNCIONARIO
+0016#STR0016#ALL#FERRAMENTA
+0017#STR0017#ALL#BEM
+0018#STR0018#ALL#Bens do Plano.: 
+0019#STR0019#ALL#Centro de Custo.: 
+0020#STR0020#ALL#Total de Ordens de Servico...............: 
+0021#STR0021#ALL#Ordens  Aglutinadas                                              ......Inicio......   .......Fim........      Ult.Man.       Contador Prod. Func. Ferr. Bem
+0022#STR0022#ALL#Total de Ordens de Servico Aglutinadas...: 

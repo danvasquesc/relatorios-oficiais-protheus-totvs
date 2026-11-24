@@ -1,0 +1,41 @@
+0001#STR0001#ALL#O relatório apresentará a quantidade de eventos para cada 
+0002#STR0002#ALL#mês do ano escolhido pelo usuário. 
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relatório de Acidentes por Tipo de Evento
+0006#STR0006#ALL#Ano             ?
+0007#STR0007#ALL#De Tipo Evento  ?
+0008#STR0008#ALL#Até Tipo Evento ?
+0009#STR0009#ALL#Aguarde...
+0010#STR0010#ALL#Processando Registros...
+0011#STR0011#ALL#Não existem dados para montar o relatório!
+0012#STR0012#ALL#ATENÇÃO
+0013#STR0013#ALL#Tipo Evento
+0014#STR0014#ALL#JAN
+0015#STR0015#ALL#FEV
+0016#STR0016#ALL#MAR
+0017#STR0017#ALL#ABR
+0018#STR0018#ALL#MAI
+0019#STR0019#ALL#JUN
+0020#STR0020#ALL#JUL
+0021#STR0021#ALL#AGO
+0022#STR0022#ALL#SET
+0023#STR0023#ALL#OUT
+0024#STR0024#ALL#NOV
+0025#STR0025#ALL#DEZ
+0026#STR0026#ALL#TOTAL
+0027#STR0027#ALL#PREJ.CARGA
+0028#STR0028#ALL#%AC.
+0029#STR0029#ALL#PREJ. MNT
+0030#STR0030#ALL#PREJ. TOTAL
+0031#STR0031#ALL#De Tipo Acidente não pode ser maior que Até Tipo Acidente!
+0032#STR0032#ALL#De Gravidade    ?
+0033#STR0033#ALL#Até Gravidade   ?
+0034#STR0034#ALL#Leve
+0035#STR0035#ALL#Médio
+0036#STR0036#ALL#Grave
+0037#STR0037#ALL#Gravíssimo
+0038#STR0038#ALL#De Gravidade não pode ser maior que Até Gravidade!
+0039#STR0039#ALL#Ano informado não poderá ser maior que 
+0040#STR0040#ALL#PREJ.OUTROS
+0041#STR0041#ALL#O Ano informado deverá conter 4 dígitos!

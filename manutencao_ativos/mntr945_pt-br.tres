@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Relatorio de Postos de combustiveis, com informacoes da negociacao e dos
+0002#STR0002#ALL#respectivos precos negociados por tipo de combustivel. Classificado por
+0003#STR0003#ALL#status(ativo S/N),convenio  e tipo de posto.
+0004#STR0004#ALL#Relatório de Postos de Combustíveis
+0005#STR0005#ALL#De Posto
+0006#STR0006#ALL#Ate Posto
+0007#STR0007#ALL#Ativo S/N
+0008#STR0008#ALL#Sim
+0009#STR0009#ALL#Não
+0010#STR0010#ALL#Convenio
+0011#STR0011#ALL#Repom
+0012#STR0012#ALL#CTF
+0013#STR0013#ALL#EssoCard
+0014#STR0014#ALL#Tipo Posto
+0015#STR0015#ALL#Conveniado
+0016#STR0016#ALL#Posto Interno
+0017#STR0017#ALL#Não Conveniado
+0018#STR0018#ALL#Combustível
+0019#STR0019#ALL#Aguarde...
+0020#STR0020#ALL#Ativo
+0021#STR0021#ALL#Inativo
+0022#STR0022#ALL#Zebrado
+0023#STR0023#ALL#Administracao
+0024#STR0024#ALL#Loja
+0025#STR0025#ALL#Cod.     Nome                   Pr.Bomba    Pr.Neg.     Dias Fat.  Prz.Pg.  Endereco              Cidade              Est.  Bairro           CNPJ                Fone             Fax              Contato        Funcao
+0026#STR0026#ALL#Processando Registros...
+0027#STR0027#ALL#Tipo posto:
+0028#STR0028#ALL#Posto Comum
+0029#STR0029#ALL#Total de Postos Conveniados: 
+0030#STR0030#ALL#Todos
+0031#STR0031#ALL#Total de Postos Internos: 
+0032#STR0032#ALL#Total de Postos Não Conveniados: 
+0033#STR0033#ALL#Não existem dados para imprimir...
+0034#STR0034#ALL#Informe o Codigo do Posto
+0035#STR0035#ALL#Informe o Codigo da Loja
+0036#STR0036#ALL#ATENÇÃO
+0037#STR0037#ALL#Código final não pode ser vazio.
+0038#STR0038#ALL#Código final informado inválido.
+0039#STR0039#ALL#Codigo DE não pode ser maior que código ATÉ.
+0040#STR0040#ALL#Informe um código DE menor que o código ATÉ.
+0041#STR0041#ALL#Não foi informado o posto relacionado a loja: 
+0042#STR0042#ALL#Informe um posto.
+0043#STR0043#ALL#Codigo ATÉ não pode ser vazio.
+0044#STR0044#ALL#Informe um código de ATÉ.
+0045#STR0045#ALL#Codigo ATÉ não pode ser menor que código DE.
+0046#STR0046#ALL#Informe um código ATÉ maior que o código DE.
+0047#STR0047#ALL#Código Até não pode ser vazio.
+0048#STR0048#ALL#Informe um código para o posto.
+0049#STR0049#ALL#Parâmetros

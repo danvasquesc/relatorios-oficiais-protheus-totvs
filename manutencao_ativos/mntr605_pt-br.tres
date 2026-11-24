@@ -1,0 +1,84 @@
+0001#STR0001#ALL#Relatorio das manutencoes cadastradas para o Bem. Atraves da utilizacao
+0002#STR0002#ALL#dos Parametros o usuario podera selecionar aquelas manutencoes que
+0003#STR0003#ALL#deseja analisar.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Manutencoes do Bem
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Bem...:
+0009#STR0009#ALL#Familia...:
+0010#STR0010#ALL#Pai...:
+0011#STR0011#ALL#Calendario:
+0012#STR0012#ALL#Prior.:
+0013#STR0013#ALL#Contador:
+0014#STR0014#ALL#Dt.Acomp.:
+0015#STR0015#ALL#Var/Dia...:
+0016#STR0016#ALL#Limite Contador:
+0017#STR0017#ALL#Sit.Bem:
+0018#STR0018#ALL#Ativo
+0019#STR0019#ALL#Inativo
+0020#STR0020#ALL#Sit.Manut:
+0021#STR0021#ALL#Servico:
+0022#STR0022#ALL#Sequencia:
+0023#STR0023#ALL#Nome Manut:
+0024#STR0024#ALL#Tipo:
+0025#STR0025#ALL#Prior:
+0026#STR0026#ALL#Descricao....:
+0027#STR0027#ALL#Periodo......:
+0028#STR0028#ALL#REPETITIVO
+0029#STR0029#ALL#UNICO
+0030#STR0030#ALL#Area:
+0031#STR0031#ALL#Dt.Ult.Manut.:
+0032#STR0032#ALL#Parada:
+0033#STR0033#ALL#Sim
+0034#STR0034#ALL#Nao
+0035#STR0035#ALL#Parada Antes:
+0036#STR0036#ALL#Depois:
+0037#STR0037#ALL#N Util.:
+0038#STR0038#ALL#Tipo Acompan.:
+0039#STR0039#ALL#TEMPO
+0040#STR0040#ALL#Tempo Entre Manut:
+0041#STR0041#ALL#Calendario:
+0042#STR0042#ALL#CONTADOR
+0043#STR0043#ALL#Cont.Ult.Man.:
+0044#STR0044#ALL#Incremento Entre Manut:
+0045#STR0045#ALL#Periodo Acomp.:
+0046#STR0046#ALL#Cont.Bem.....:
+0047#STR0047#ALL#CON FIXO
+0048#STR0048#ALL#AMBOS   
+0049#STR0049#ALL#-----------------------------------------------------------------------------------------------TAREFAS--------------------------------------------------------------------------------------------
+0050#STR0050#ALL#SEM ESPECIFICACAO DE TAREFA
+0051#STR0051#ALL#Dependencias:
+0052#STR0052#ALL#---------------------------------------------------------------------------ETAPAS---------------------------------------------------------------------------------
+0053#STR0053#ALL#---------------------------------------------------------------OPCOES-------------------------------------------------------------------
+0054#STR0054#ALL#Opcao.......... Tipo Resposta... Operador.. Informacao da Condição....... Tipo Manutencao..... Bem................ Serviço.... Sequencia
+0055#STR0055#ALL#Informada
+0056#STR0056#ALL#Marcada
+0057#STR0057#ALL#Nao Gera
+0058#STR0058#ALL#Corretiva
+0059#STR0059#ALL#Preventiva
+0060#STR0060#ALL#Outras
+0061#STR0061#ALL#---------------------------------------------------------------INSUMOS----------------------------------------------------------------------
+0062#STR0062#ALL#Nome.............. Codigo............... Descricao............................. Quantidade....... Consumo... Unidades... Reserva.... Destino
+0063#STR0063#ALL#ESPECIALIDADE
+0064#STR0064#ALL#PRODUTO
+0065#STR0065#ALL#FUNCIONARIO
+0066#STR0066#ALL#FERRAMENTA
+0067#STR0067#ALL#TERCEIRO
+0068#STR0068#ALL#Apoio
+0069#STR0069#ALL#Substit
+0070#STR0070#ALL#Troca
+0071#STR0071#ALL#BENS DO CENTRO DE CUSTO = 
+0072#STR0072#ALL#CENTRO DE TRABALHO = 
+0073#STR0073#ALL#FAMILIA = 
+0074#STR0074#ALL#SEGUNDO CONTADOR
+0075#STR0075#ALL#PRODUCAO
+0076#STR0076#ALL#Transferido
+0077#STR0077#ALL#EVENTUAL
+0078#STR0078#ALL#Manutenções ?
+0079#STR0079#ALL#Ambas
+0080#STR0080#ALL#Ativas
+0081#STR0081#ALL#Inativas
+0082#STR0082#ALL#Manut. Ativa:
+0083#STR0083#ALL#ATENÇÃO
+0084#STR0084#ALL#Não existem dados para montar o relatório.

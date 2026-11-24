@@ -1,0 +1,113 @@
+0001#STR0001#ALL#Relatorio de Custos do Plano de Manutencao
+0002#STR0002#ALL#Este programa seleciona por default OS finalizadas e as
+0003#STR0003#ALL#em aberto conforme parametro selecionado.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Custos do Plano
+0007#STR0007#ALL#De  Plano          ?
+0008#STR0008#ALL#Ate Plano          ?
+0009#STR0009#ALL#De  Data Manutencao?
+0010#STR0010#ALL#Ate Data Manutencao?
+0011#STR0011#ALL#De  Servico        ?
+0012#STR0012#ALL#Ate Servico        ?
+0013#STR0013#ALL#Considerar Produto ?
+0014#STR0014#ALL#Sim
+0015#STR0015#ALL#Nao
+0016#STR0016#ALL#Considerar Ferramen?
+0017#STR0017#ALL#Considerar Mao-Obra?
+0018#STR0018#ALL#Considerar Terceiro?
+0019#STR0019#ALL#Ordem              ?
+0020#STR0020#ALL#Bem
+0021#STR0021#ALL#Servico
+0022#STR0022#ALL#Tipo de Custo      ?
+0023#STR0023#ALL#Medio
+0024#STR0024#ALL#Standard
+0025#STR0025#ALL#Custo Maq. Parada  ?
+0026#STR0026#ALL#Aglutina M.D.O     ?
+0027#STR0027#ALL#Tipo
+0028#STR0028#ALL#CANCELADO PELO OPERADOR
+0029#STR0029#ALL#*** Total do Bem
+0030#STR0030#ALL#*** Total do Servico
+0031#STR0031#ALL#Bem..: 
+0032#STR0032#ALL#Serv.: 
+0033#STR0033#ALL#Ordem: 
+0034#STR0034#ALL#Bem..: 
+0035#STR0035#ALL#Data..: 
+0036#STR0036#ALL#Descricao da OS.: 
+0037#STR0037#ALL#Custo Hora Parada do Bem 
+0038#STR0038#ALL#*** Total da O.S. 
+0039#STR0039#ALL#*** Total do Plano
+0040#STR0040#ALL#Plano.......: 
+0041#STR0041#ALL#Data Plano..: 
+0042#STR0042#ALL#De.: 
+0043#STR0043#ALL#Ate.: 
+0044#STR0044#ALL#Quantid.
+0045#STR0045#ALL#*** Total Geral
+0046#STR0046#ALL#Selecionando Registros...
+0047#STR0047#ALL#Considera OS   ?
+0048#STR0048#ALL#Liberada
+0049#STR0049#ALL#Pendente
+0050#STR0050#ALL#Ambas
+0051#STR0051#ALL#Nenhuma
+0052#STR0052#ALL#Informe a partir de qual Localização deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar uma Localização.
+0053#STR0053#ALL#Informe até qual Localização deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar a Localização desejada ou digite ZZZZZZ neste campo e o acima em branco para considerar todas as Localizações.
+0054#STR0054#ALL#Local: 
+0055#STR0055#ALL#Imprimir Localização ?
+0056#STR0056#ALL#Sim
+0057#STR0057#ALL#Não
+0058#STR0058#ALL#Informe se deve imprimir a localização:
+0059#STR0059#ALL#1-Sim
+0060#STR0060#ALL#2-Não
+0061#STR0061#ALL#De Centro Custo ?
+0062#STR0062#ALL#Até Centro Custo ?
+0063#STR0063#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0064#STR0064#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.
+0065#STR0065#ALL#Filial......: 
+0066#STR0066#ALL#Considera Data ?
+0067#STR0067#ALL#Considera Especialidade ?
+0068#STR0068#ALL#De Localização ?
+0069#STR0069#ALL#Até Localização ?
+0070#STR0070#ALL#Aberta
+0071#STR0071#ALL#Finalizada
+0072#STR0072#ALL#De Família de Bens 
+0073#STR0073#ALL#Até Família de Bens 
+0074#STR0074#ALL#Da O.S
+0075#STR0075#ALL#Do Insumo
+0076#STR0076#ALL#Informe a partir de qual Filial deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar uma Filial.
+0077#STR0077#ALL#Informe até qual Filial deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar a Filial desejada ou digite ZZZZZZ neste campo e o acima em branco para considerar todos as Filiais.
+0078#STR0078#ALL#Informe a partir de qual Plano de Manutenção deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar um Plano de Manutenção.
+0079#STR0079#ALL#Informe até qual Plano de Manutenção deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar o Plano de Manutenção desejado ou digite ZZZZZZ neste campo e o acima em branco para considerar todos os Planos de Manutenção.
+0080#STR0080#ALL#Informe um determinado período de data inicio da Manutenção.
+0081#STR0081#ALL#Informe um determinado período de data fim da Manutenção.
+0082#STR0082#ALL#Informe a partir de qual Família de Bem deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar uma Família de Bem.
+0083#STR0083#ALL#Informe até qual Família de Bem deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar a Família de Bem desejada ou digite ZZZZZZ neste campo e o acima em branco para considerar todas as Famílias de Bem.
+0084#STR0084#ALL#Informe a partir de qual Serviço deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar um Serviço.
+0085#STR0085#ALL#Informe até qual Serviço deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar o Serviço desejado ou digite ZZZZZZ neste campo e o acima em branco para considerar todos os Serviços.
+0086#STR0086#ALL#Informe se deve listar o Produto: 
+0087#STR0087#ALL#Informe se deve listar o Ferramentas:
+0088#STR0088#ALL#Informe se deve listar Mão de Obra: 
+0089#STR0089#ALL#Informe se deve listar Terceiro: 
+0090#STR0090#ALL#Informe qual tipo de custo deve listar no relatório: 
+0091#STR0091#ALL#Informe como deve listar a Ordem do relatório: 
+0092#STR0092#ALL#Informe se deve listar o Custo da Máquina:
+0093#STR0093#ALL#Informe se Aglutina Mão-de-Obra: 
+0094#STR0094#ALL#Informe o tipo do relatório a ser impresso: 
+0095#STR0095#ALL#Informe se Considera Data:
+0096#STR0096#ALL#Da Ordem de Serviço
+0097#STR0097#ALL#Do Insumo
+0098#STR0098#ALL#Informe se Considera Ordem De Serviço: 
+0099#STR0099#ALL#Informe se deve listar Especialidade: 
+0100#STR0100#ALL#De Filial 
+0101#STR0101#ALL#Até Filial 
+0102#STR0102#ALL#Informe o tipo de relatório: 
+0103#STR0103#ALL#Detalhado
+0104#STR0104#ALL#Resumido
+0105#STR0105#ALL#Detalhado ou Resumido
+0106#STR0106#ALL#Codigo Insumo
+0107#STR0107#ALL#Nome Insumo
+0108#STR0108#ALL#...................Previsto...................
+0109#STR0109#ALL#................Realizado................
+0110#STR0110#ALL#Custo
+0111#STR0111#ALL#Unid.
+0112#STR0112#ALL#Diferenca
+0113#STR0113#ALL#Var.%

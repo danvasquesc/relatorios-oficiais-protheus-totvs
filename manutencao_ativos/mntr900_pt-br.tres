@@ -1,0 +1,80 @@
+0001#STR0001#ALL#Pesquisar
+0002#STR0002#ALL#Visualizar
+0003#STR0003#ALL#Parametros
+0004#STR0004#ALL#Imprimir
+0005#STR0005#ALL#Relatorio de Abastecimento por Veículo
+0006#STR0006#ALL#De Data            ?
+0007#STR0007#ALL#Ate Data           ?
+0008#STR0008#ALL#De Veículo         ?
+0009#STR0009#ALL#Ate Veículo        ?
+0010#STR0010#ALL#Aguarde...
+0011#STR0011#ALL#Processando Registros...
+0012#STR0012#ALL#Filial
+0013#STR0013#ALL#Veículo
+0014#STR0014#ALL#Placa
+0015#STR0015#ALL#Motorista
+0016#STR0016#ALL#Dat.Abst
+0017#STR0017#ALL#Qtd.Abst.
+0018#STR0018#ALL#Combustível
+0019#STR0019#ALL#Vlr.Unit
+0020#STR0020#ALL#Vlr.Abast
+0021#STR0021#ALL#Qtd.Contador Trab.
+0022#STR0022#ALL#Posto
+0023#STR0023#ALL#Média Q.Cont/Q.Abs.
+0024#STR0024#ALL#Med.Esp.
+0025#STR0025#ALL#Usuário
+0026#STR0026#ALL#Não existem dados para montar a tela de consulta.
+0027#STR0027#ALL#ATENÇÃO
+0028#STR0028#ALL#Aguarde ..Processando Arquivo de Filiais
+0029#STR0029#ALL#Relatório de abastecimento por veículo.
+0030#STR0030#ALL#O usuário poderá utilizar a opção Parâmetros para
+0031#STR0031#ALL#a obtenção da seleção desejada.
+0032#STR0032#ALL#Administração
+0033#STR0033#ALL#Zebrado
+0034#STR0034#ALL#Relatório de Abastecimento por Veículo
+0035#STR0035#ALL#Não exitem dados para imprimir o relatório.
+0036#STR0036#ALL#Data             Motorista                                    Contador   Contador 2   Quant. Abast.  Combustível  Valor Uni.         Valor Abast.    Q.Con.Tr.   Q.Con.Tr./Q.Abs.   Méd.Esp.  Q.Abs./Q.Con.Tr.  Usuário
+0037#STR0037#ALL#CANCELADO PELO OPERADOR
+0038#STR0038#ALL#Veículo:
+0039#STR0039#ALL#Data final não pode ser inferior à data inicial!
+0040#STR0040#ALL#Contador
+0041#STR0041#ALL#Total Geral:
+0042#STR0042#ALL#Total Veículo:
+0043#STR0043#ALL#Média Q.Abs./Q.Cont
+0044#STR0044#ALL#                                                                                                                                                                                                                                                          M
+0045#STR0045#ALL#Código Veículo
+0046#STR0046#ALL#Descrição Veículo
+0047#STR0047#ALL#Abastecimentos do veículo
+0048#STR0048#ALL#Data
+0049#STR0049#ALL#Motorista
+0050#STR0050#ALL#Quant. Abast.
+0051#STR0051#ALL#Valor Uni.
+0052#STR0052#ALL#Valor Abast.
+0053#STR0053#ALL#Q.Con.Tr.
+0054#STR0054#ALL#Q.Con.Tr./Q.Abs.
+0055#STR0055#ALL#Média Esp.
+0056#STR0056#ALL#Q.Abs./Q.Con.Tr.
+0057#STR0057#ALL#Total Veículo
+0058#STR0058#ALL#Informe como deseja classificar os registros de abastecimento pela data: Decrescente; Crescente.
+0059#STR0059#ALL#Informe a partir de qual filial deve constar no relatório. Pressione a tecla [F3] para selecionar uma filial.
+0060#STR0060#ALL#Informe até qual filial deve constar no relatório.
+0061#STR0061#ALL#Informe a partir de qual Bem deseja consultar. Pressione a tecla [F3] para selecionar um Bem.
+0062#STR0062#ALL#Informe até qual Bem deseja consultar. Pressione a tecla [F3] para selecionar um Bem, ou digite ZZZZZZZZZZZZZZZZ neste campo e o campo acima em branco para considerar todos os Bens.
+0063#STR0063#ALL#Legenda:
+0064#STR0064#ALL#Q.Con.Tr.: 
+0065#STR0065#ALL#Q.Con.Tr./Q.Abs.: 
+0066#STR0066#ALL#Méd.Esp.:  
+0067#STR0067#ALL#Q.Abs./Q.Con.Tr.: 
+0068#STR0068#ALL#Quantidade Contador Trabalhado
+0069#STR0069#ALL#Quantidade Contador Trabalhado / Quantidade Abastecida
+0070#STR0070#ALL#Média Esperada
+0071#STR0071#ALL#Quantidade Abastecida / Quantidade Contador Trabalhado
+0072#STR0072#ALL#Legenda 
+0073#STR0073#ALL#CNPJ
+0074#STR0074#ALL#Cod. Filial
+0075#STR0075#ALL#Hr. Abast.
+0076#STR0076#ALL#Ordem
+0077#STR0077#ALL#Entrada Manual de Abastecimento
+0078#STR0078#ALL#Segundo Contador
+0079#STR0079#ALL#Cont 1
+0080#STR0080#ALL#Cont 2

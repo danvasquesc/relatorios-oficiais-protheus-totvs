@@ -1,0 +1,29 @@
+0001#STR0001#ALL#Relatório de Laudos Técnicos por Fabricante
+0002#STR0002#ALL#De Fabricante		?
+0003#STR0003#ALL#Até Fabricante	?
+0004#STR0004#ALL#De Medida			?
+0005#STR0005#ALL#Até Medida			?
+0006#STR0006#ALL#De Modelo			?
+0007#STR0007#ALL#Ate Modelo			?
+0008#STR0008#ALL#De Data Análise	?
+0009#STR0009#ALL#Ate Data Análise	?
+0010#STR0010#ALL#Análise Data        Pneu              Cód.Med. Descrição Medida      Cód.Modelo  Tipo Modelo           Destino               Motivo  Descrição Motivo      Laudo      %Credito       Valor
+0011#STR0011#ALL#Aguarde...
+0012#STR0012#ALL#Processando Registros...
+0013#STR0013#ALL#Fabricante:
+0014#STR0014#ALL#Ressolar
+0015#STR0015#ALL#Consertar
+0016#STR0016#ALL#Estoque Usado
+0017#STR0017#ALL#Estoque Reformado
+0018#STR0018#ALL#Análise de fornecedor
+0019#STR0019#ALL#Removido de Serviço
+0020#STR0020#ALL#Total......:
+0021#STR0021#ALL#Data final não pode ser inferior à data inicial!
+0022#STR0022#ALL#Estoque Novo
+0023#STR0023#ALL#De Pneu?
+0024#STR0024#ALL#Até Pneu?
+0025#STR0025#ALL#Informe a partir de qual  Bem deve constar no filtro. Pressione as teclas [F3]+[ENTER] para selecionar o Bem desejado.
+0026#STR0026#ALL#Informe até qual Bem deve constar no relatório. Pressione as teclas [F3]+[ENTER] para selecionar o Bem desejado ou digite ZZZZZZZZZZZZZZZZ neste campo e o acima em branco para considerar todas os Bens.
+0027#STR0027#ALL#Análise Data       Hr. Análise Pneu              Cód.Med. Descrição Medida      Cód.Modelo  Tipo Modelo           Destino               Motivo  Descrição Motivo      Parecer
+0028#STR0028#ALL#Laudo         %Credito       Valor        Cod.For.   Nome Fornecedor            Prof. Sulco
+0029#STR0029#ALL#Não existem dados para imprimir o relatório.

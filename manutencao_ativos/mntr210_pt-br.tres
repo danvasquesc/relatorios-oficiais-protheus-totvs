@@ -1,0 +1,45 @@
+0001#STR0001#ALL#Histórico dos Insumos Aplicados no Bem.
+0002#STR0002#ALL#O usuário pode selecionar quais os campos que deverão ser mostrados,
+0003#STR0003#ALL#bem como informar parametros de seleção para a impressão.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Insumos Aplicados no Período
+0007#STR0007#ALL#  Dt.Aplic.        O.S.   Insumo            Descricao             Localiz.        QTD   Un    Contador 1   Contador 2
+0008#STR0008#ALL#Bem/Localizacao  Descricao
+0009#STR0009#ALL#Processando Itens das O.S. 
+0010#STR0010#ALL# Normais...
+0011#STR0011#ALL# Histórico...
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Bem/Localização
+0014#STR0014#ALL#Descrição
+0015#STR0015#ALL#Dt.Aplic.
+0016#STR0016#ALL#O.S.
+0017#STR0017#ALL#Insumo
+0018#STR0018#ALL#Localiz.
+0019#STR0019#ALL#Quantidade
+0020#STR0020#ALL#Un
+0021#STR0021#ALL#Contador 1
+0022#STR0022#ALL#Contador 2
+0023#STR0023#ALL#Insumos aplicados
+0024#STR0024#ALL#Localização.: 
+0025#STR0025#ALL#Estrutura...: 
+0026#STR0026#ALL#Não está relacionado a uma Estrutura.
+0027#STR0027#ALL#Pai da Estrutura.
+0028#STR0028#ALL#Informe de qual Localização deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar a Localização.
+0029#STR0029#ALL#Informe até qual Localização deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar a Localização.
+0030#STR0030#ALL#De Localizacao ?
+0031#STR0031#ALL#Ate Localizacao ?
+0032#STR0032#ALL#Imprimir Localização ?
+0033#STR0033#ALL#Sim
+0034#STR0034#ALL#Não
+0035#STR0035#ALL#Informe se deve imprimir a localização:
+0036#STR0036#ALL#1-Sim
+0037#STR0037#ALL#2-Não
+0038#STR0038#ALL#Aplicado
+0039#STR0039#ALL#Devolvido
+0040#STR0040#ALL#Considera Devolução?
+0041#STR0041#ALL#TERCEIROS
+0042#STR0042#ALL#MANUTENÇÃO
+0043#STR0043#ALL#  Data     O.S.     Insumo          
+0044#STR0044#ALL#Descrição               Localiz.        QTD   Un    Contador 1   Contador 2   Tipo
+0045#STR0045#ALL#Deseja considerar devolução?

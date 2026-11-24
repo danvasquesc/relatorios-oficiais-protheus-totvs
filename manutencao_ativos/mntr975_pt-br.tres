@@ -1,0 +1,29 @@
+0001#STR0001#ALL#O relatório apresentará os valores das despesas tabulando por serviço, mês e ano
+0002#STR0002#ALL#Relatório de Conciliação
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Relatório de Despesas com Fornecedor
+0006#STR0006#ALL#De Data            ?
+0007#STR0007#ALL#Ate Data           ?
+0008#STR0008#ALL#De Filial          ?
+0009#STR0009#ALL#Ate Filial         ?
+0010#STR0010#ALL#De Modelo          ?
+0011#STR0011#ALL#Ate Modelo         ?
+0012#STR0012#ALL#De Bem             ?
+0013#STR0013#ALL#Ate Bem            ?
+0014#STR0014#ALL#De Fornecedor      ?
+0015#STR0015#ALL#Ate Fornecedor     ?
+0016#STR0016#ALL#De Serviço         ?
+0017#STR0017#ALL#Ate Serviço        ?
+0018#STR0018#ALL#Processando Registros...
+0019#STR0019#ALL#Selecionando Registros...
+0020#STR0020#ALL#Processando Arquivo...
+0021#STR0021#ALL#Aguarde
+0022#STR0022#ALL#Dt.Pgto.    Mês      Ano   Serviço  Nome                            Veículo           Placa     C.Custo               Parcela     Val. Pago
+0023#STR0023#ALL#Total Geral
+0024#STR0024#ALL#Não existem dados para montar o Relatório!
+0025#STR0025#ALL#Atenção!
+0026#STR0026#ALL#Filial: 
+0027#STR0027#ALL#Fornecedor: 
+0028#STR0028#ALL#Total do Fornecedor: 
+0029#STR0029#ALL#Total da Filial: 

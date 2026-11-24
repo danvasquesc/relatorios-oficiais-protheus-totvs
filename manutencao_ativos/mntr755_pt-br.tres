@@ -1,0 +1,43 @@
+0001#STR0001#ALL#O relatório apresentará a quantidade de eventos ocorreidos 
+0002#STR0002#ALL#no ano, demonstrando o valor do prejuízo, o custo com 
+0003#STR0003#ALL#Manutenção e demais custos(guincho, indenizações).
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatorio de Quantidade de Eventos por Filial
+0007#STR0007#ALL#Ano  ?
+0008#STR0008#ALL#Filial de   ?
+0009#STR0009#ALL#Filial ate  ?
+0010#STR0010#ALL#Aguarde...
+0011#STR0011#ALL#Processando Registros...
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Processando Arquivo...
+0014#STR0014#ALL#Filial
+0015#STR0015#ALL#JAN
+0016#STR0016#ALL#FEV
+0017#STR0017#ALL#MAR
+0018#STR0018#ALL#ABR
+0019#STR0019#ALL#MAI
+0020#STR0020#ALL#JUN
+0021#STR0021#ALL#JUL
+0022#STR0022#ALL#AGO
+0023#STR0023#ALL#SET
+0024#STR0024#ALL#OUT
+0025#STR0025#ALL#NOV
+0026#STR0026#ALL#DEZ
+0027#STR0027#ALL#TOTAL
+0028#STR0028#ALL#PREJ.CARGA
+0029#STR0029#ALL#%AC
+0030#STR0030#ALL#PREJ. MNT
+0031#STR0031#ALL#PREJ.TOTAL
+0032#STR0032#ALL#De Filial não pode ser maior que Até Filial!
+0033#STR0033#ALL#Atenção
+0034#STR0034#ALL#Não existem dados para montar o relatório!
+0035#STR0035#ALL#Evento          ?
+0036#STR0036#ALL#Acidente
+0037#STR0037#ALL#Roubo
+0038#STR0038#ALL#Incidente
+0039#STR0039#ALL#De Tipo Evento  ?
+0040#STR0040#ALL#Até Tipo Evento ?
+0041#STR0041#ALL#O Ano informado deverá conter 4 dígitos!
+0042#STR0042#ALL#Ano informado não poderá ser maior que 
+0043#STR0043#ALL#PREJ.OUTROS

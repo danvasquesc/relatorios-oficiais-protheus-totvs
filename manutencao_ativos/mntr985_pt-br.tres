@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relatório de multas a pagar
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administração
+0004#STR0004#ALL#Informe a partir de qual bem deseja visualizar as multas não pagas.
+0005#STR0005#ALL#Informe até qual bem deseja visualizar as multas não pagas.
+0006#STR0006#ALL#Informe a partir de qual placa deseja visualizar as multas não pagas.
+0007#STR0007#ALL#Informe até qual placa deseja visualizar as multas não pagas.
+0008#STR0008#ALL#Informe a partir de qual data de vencimento deseja visualizar as multas não pagas.
+0009#STR0009#ALL#Informe até qual data de vencimento deseja visualizar as multas não pagas.
+0010#STR0010#ALL#Multa               Nro Infração   C. Custo             Bem              Dt. Infr.  Docto Correios Aviso  N. Fiscal  Aut.Inf. Rest. Vencimento  Desconto        Valor a Pagar
+0011#STR0011#ALL#Não existem dados para montar o relatório.
+0012#STR0012#ALL#Atenção
+0013#STR0013#ALL#Observação: 
+0014#STR0014#ALL#Justificativa: 
+0015#STR0015#ALL#TOTAL A PAGAR: 
+0016#STR0016#ALL#'De Data Vencimento' deverá ser menor/igual à 'Até Data Vencimento'!
+0017#STR0017#ALL#'De Placa' deverá ser menor/igual a 'Ate Placa'!
+0018#STR0018#ALL#'Ate Placa' deverá ser digitado!
+0019#STR0019#ALL#Placa digitada é inválida!
+0020#STR0020#ALL#    Motorista                                 Descrição do Artigo                  Responsabilidade
+0021#STR0021#ALL#Não é possível preencher o bem caso a placa esteja preenchida
+0022#STR0022#ALL#Não é possível preencher a placa caso o bem esteja preenchido

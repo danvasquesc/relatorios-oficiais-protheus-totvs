@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Bens Baixados.
+0002#STR0002#ALL#O usuario pode selecionar quais os campos que deverao ser mostrados,
+0003#STR0003#ALL#bem como informar parametros de selecao para a impressao.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Bem               Modelo     Descricao             Fabricante Descrição                                 Data Compra  Data Baixa          Contador             Custo   Custo/Contador  Motivo Descricao
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Familia  Descricao
+0009#STR0009#ALL#Selecionando Registros...
+0010#STR0010#ALL#Familia
+0011#STR0011#ALL#Descrição
+0012#STR0012#ALL#Bem
+0013#STR0013#ALL#Data Compra
+0014#STR0014#ALL#Data Baixa
+0015#STR0015#ALL#Contador
+0016#STR0016#ALL#Custo
+0017#STR0017#ALL#Custo/Contador
+0018#STR0018#ALL#Motivo
+0019#STR0019#ALL#Baixas
+0020#STR0020#ALL#Modelo
+0021#STR0021#ALL#Fabricante
+0022#STR0022#ALL#Nome Fabricante
+0023#STR0023#ALL#Bem               Fabricante   Descrição                                 Data Compra  Data Baixa          Contador             Custo   Custo/Contador  Motivo Descricao

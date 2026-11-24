@@ -1,0 +1,49 @@
+0001#STR0001#ALL#Relatorio de Abastecimentos por Motorista no periodo informado, totalizando a 
+0002#STR0002#ALL#Quantidade de litros no periodo informado nos parametros,Preco Medio e Valor
+0003#STR0003#ALL#Total dos abastecimentos.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatório de Abastecimentos por Motorista
+0007#STR0007#ALL#De Motorista        ?
+0008#STR0008#ALL#Até Motorista       ?
+0009#STR0009#ALL#De Data             ?
+0010#STR0010#ALL#Ate Data            ?
+0011#STR0011#ALL#De Serviço          ?
+0012#STR0012#ALL#Até Serviço         ?
+0013#STR0013#ALL#De Filial           ?
+0014#STR0014#ALL#Ate Filial          ?
+0015#STR0015#ALL#ATENÇÃO
+0016#STR0016#ALL#Motorista final não pode ser vazio.
+0017#STR0017#ALL#Operação final não pode ser vazia.
+0018#STR0018#ALL#Motorista final informado inválido.
+0019#STR0019#ALL#Operação final informada inválida.
+0020#STR0020#ALL#Posto              Nome Comercial                         Loja   Frota                       Km           Km Percorrido   Qtd.Litros        Média         Vlr.Unit.            Vlr.Total      Data
+0021#STR0021#ALL#Selecionando Registros...
+0022#STR0022#ALL#Não existem dados para imprimir o relatório.
+0023#STR0023#ALL#ATENÇAO
+0024#STR0024#ALL#Processando Arquivo...
+0025#STR0025#ALL#Período:
+0026#STR0026#ALL#a
+0027#STR0027#ALL#Operação:
+0028#STR0028#ALL#Motorista:
+0029#STR0029#ALL#Filial Motorista:
+0030#STR0030#ALL#Veículo
+0031#STR0031#ALL#Filial Veíc.
+0032#STR0032#ALL#Modelo
+0033#STR0033#ALL#Média Padrão Km/l
+0034#STR0034#ALL#Total do Veículo:
+0035#STR0035#ALL#Total do Motorista:
+0036#STR0036#ALL#Total do Geral:
+0037#STR0037#ALL#Data final não pode ser inferior à data inicial!
+0038#STR0038#ALL#Calcula Km Percor.do 1º Abast?
+0039#STR0039#ALL#Sim
+0040#STR0040#ALL#Não
+0041#STR0041#ALL#* Primeiro abastecimento do veículo, portanto a média de Km percorrido não é calculada.
+0042#STR0042#ALL#Informe a partir de qual Filial deseja visualizar os Abastecimentos.Pressione a tecla [F3] para selecionar uma Filial.Obs:Filial baseado na tabela de abastecimento(TQN).
+0043#STR0043#ALL#Informe até qual Filial deseja visualizar os Abastecimentos. Pressione a tecla [F3] para selecionar uma Filial,ou digite ZZ neste campo e o campo acima em branco para considerar todas as Filiais.Obs:Filial baseado na tabela de abastecimento(TQN).
+0044#STR0044#ALL#Não existe motorista relacionado ao abastecimento do bem.
+0045#STR0045#ALL#Não existe operação relacionada ao centro de custos do bem.
+0046#STR0046#ALL#Mostrar por ?
+0047#STR0047#ALL#Motorista
+0048#STR0048#ALL#Filial
+0049#STR0049#ALL#Informe qual opção deseja ordenar a impressão do relatório.

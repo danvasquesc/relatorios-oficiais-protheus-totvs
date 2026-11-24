@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Custo Por Familia de Bens.
+0002#STR0002#ALL#Relatorio que exibe custos por familia de bens conforme os parametros selecionado,
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Familia Descricao               Quant.    Mao Obra   Mao Obra   Material   Material   Oleo Lub.    Valor Total     Valor Total
+0006#STR0006#ALL#                                   O.S     Propria   Terceiro    Proprio   Terceiro                R$              R$
+0007#STR0007#ALL#Total da Familia.: 
+0008#STR0008#ALL#bem como seus totais em uma segunda moeda.
+0009#STR0009#ALL#Total Geral.: 
+0010#STR0010#ALL#  Bem       Descricao              O.S     Propria   Terceiro    Proprio   Terceiro                R$              R$
+0011#STR0011#ALL#Selecionando Registros...
+0012#STR0012#ALL#Familia
+0013#STR0013#ALL#Descrição
+0014#STR0014#ALL#Quant. O.S
+0015#STR0015#ALL#M.D.O Propria
+0016#STR0016#ALL#M.D.O Terceiro
+0017#STR0017#ALL#Mat. Proprio
+0018#STR0018#ALL#Mat. Terceiro
+0019#STR0019#ALL#Oleo Lub.
+0020#STR0020#ALL#Vl. Total R$
+0021#STR0021#ALL#VL. Total R$
+0022#STR0022#ALL#Bem
+0023#STR0023#ALL#Total da Familia
+0024#STR0024#ALL#Familias
+0025#STR0025#ALL#Bens

@@ -1,0 +1,25 @@
+0001#STR0001#ALL#Ate Data		?
+0002#STR0002#ALL#De Roteiro		?
+0003#STR0003#ALL#Ate Roteiro	?
+0004#STR0004#ALL#Roteiro de Lubrificação
+0005#STR0005#ALL#Relatorio do Roteiro de Lubrificacao. Roteiro a ser seguido com os bens e
+0006#STR0006#ALL#seus respectivos pontos de lubrificacao.
+0007#STR0007#ALL#Roteiro
+0008#STR0008#ALL#Descrição
+0009#STR0009#ALL#Dt.Prev.
+0010#STR0010#ALL#Bem
+0011#STR0011#ALL#Nome do Bem
+0012#STR0012#ALL#Tarefa
+0013#STR0013#ALL#Etapa
+0014#STR0014#ALL#Produto
+0015#STR0015#ALL#Qtde.Prev.
+0016#STR0016#ALL#Qtde.Real
+0017#STR0017#ALL#Dt. Real
+0018#STR0018#ALL#Status/OBS.
+0019#STR0019#ALL#De Data			?
+0020#STR0020#ALL#Dt.Prev.        Bem               Nome do Bem                Tarefa                     Etapa                           Produto          Nome do Produto            Qtd.Prev.   Qtde.Real     Dt.Real            Status/OBS.
+0021#STR0021#ALL#Processando Arquivo...
+0022#STR0022#ALL#Roteiro......: 
+0023#STR0023#ALL#Bens
+0024#STR0024#ALL#Não existem dados para montar o relatório.
+0025#STR0025#ALL#ATENÇÃO

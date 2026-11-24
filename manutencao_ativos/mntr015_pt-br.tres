@@ -1,0 +1,20 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administração
+0003#STR0003#ALL#Relatório de Análise de Desgaste de Sulco de Pneus
+0004#STR0004#ALL#O relatório mostrará todos os pneus da família, do modelo, medida e
+0005#STR0005#ALL#sulco definidos pelos parâmetros.
+0006#STR0006#ALL#De  Família ?
+0007#STR0007#ALL#Até Família ?
+0008#STR0008#ALL#De  Modelo ?
+0009#STR0009#ALL#Até Modelo ?
+0010#STR0010#ALL#De Medida  ?
+0011#STR0011#ALL#Até Medida ?
+0012#STR0012#ALL#Sulco Inferior a?
+0013#STR0013#ALL#Processando Arquivo...
+0014#STR0014#ALL#                                                                                                                                                                                                Projeção
+0015#STR0015#ALL#Número de Fogo  Família  Descrição da Família                      Modelo     Descrição do Modelo    Medida  Descrição da Medida    Veículo Aplicado   Posição  Sulco   Última Medição  Banda  Sulco Atual
+0016#STR0016#ALL#Pneus com sulco inferior a 
+0017#STR0017#ALL#Não existem dados para montar o relatório!
+0018#STR0018#ALL#ATENÇÃO
+0019#STR0019#ALL#Aguarde...
+0020#STR0020#ALL#Processando Registros...

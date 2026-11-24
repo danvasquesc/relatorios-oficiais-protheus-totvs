@@ -1,0 +1,21 @@
+0001#STR0001#ALL#Emissao de Ordem de Servico Abertas. O Usuario pode selecionar
+0002#STR0002#ALL#parametros de selecao para a impressao.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Ordem De Servico Por Centro de Custo
+0006#STR0006#ALL#Centro de Custo:
+0007#STR0007#ALL#Ordem   Local    Dt. Manut.     Dt. Ult.Man.     Dt. Realiz.             Obs
+0008#STR0008#ALL#Planilha de Ordens de Servico Referente ao Periodo de 
+0009#STR0009#ALL#ate
+0010#STR0010#ALL#Informe de qual Localização deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar a Localização.
+0011#STR0011#ALL#Informe até qual Localização deve constar no relatório. Pressione as teclas [F3]+[Enter] para selecionar a Localização.
+0012#STR0012#ALL#De Localização ?
+0013#STR0013#ALL#Até Localização ?
+0014#STR0014#ALL#Bem.: 
+0015#STR0015#ALL#Localização.: 
+0016#STR0016#ALL#Imprimir Localização ?
+0017#STR0017#ALL#Sim
+0018#STR0018#ALL#Não
+0019#STR0019#ALL#Informe se deve imprimir a localização:
+0020#STR0020#ALL#1-Sim
+0021#STR0021#ALL#2-Não

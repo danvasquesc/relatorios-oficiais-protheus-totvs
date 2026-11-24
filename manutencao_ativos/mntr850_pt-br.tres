@@ -1,0 +1,69 @@
+0001#STR0001#ALL#Relatorio de Custos por Servico 
+0002#STR0002#ALL#Este programa seleciona por defeult OS finalizadas e as
+0003#STR0003#ALL#em aberto conforme parametro selecionado
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Custos por Servico
+0007#STR0007#ALL#De  Servico        ?
+0008#STR0008#ALL#Ate Servico        ?
+0009#STR0009#ALL#De  Data Manutencao?
+0010#STR0010#ALL#Ate Data Manutencao?
+0011#STR0011#ALL#De  Bem            ?
+0012#STR0012#ALL#Ate Bem            ?
+0013#STR0013#ALL#Considerar Produto ?
+0014#STR0014#ALL#Sim
+0015#STR0015#ALL#Nao
+0016#STR0016#ALL#Considerar Ferramen?
+0017#STR0017#ALL#Considerar Mao-Obra?
+0018#STR0018#ALL#Considerar Terceiro?
+0019#STR0019#ALL#Tipo de Custo      ?
+0020#STR0020#ALL#Medio
+0021#STR0021#ALL#Standard
+0022#STR0022#ALL#Custo Maq. Parada  ?
+0023#STR0023#ALL#Aglutina M.D.O     ?
+0024#STR0024#ALL#Tipo Insumo
+0025#STR0025#ALL#CANCELADO PELO OPERADOR
+0026#STR0026#ALL#Ordem.......: 
+0027#STR0027#ALL#Bem.........: 
+0028#STR0028#ALL#Data.: 
+0029#STR0029#ALL#Descricao da OS.: 
+0030#STR0030#ALL#Custo Hora Parada do Bem 
+0031#STR0031#ALL#*** Total da O.S. 
+0032#STR0032#ALL#*** Total do Servico 
+0033#STR0033#ALL#SERVICO.....: 
+0034#STR0034#ALL#                                                          Quantidade Unidade              Custo        Quantidade Unidade             Custo          Diferenca       Var.%
+0035#STR0035#ALL#*** Total da Sequencia 
+0036#STR0036#ALL#De Sequencia       ?
+0037#STR0037#ALL#Ate Sequencia      ?
+0038#STR0038#ALL#Sequencia...:
+0039#STR0039#ALL#*** Total do Bem
+0040#STR0040#ALL#*** Total Geral
+0041#STR0041#ALL#Opcao invalida. Quando o tipo da O.S for(Todas ou Abertas)
+0042#STR0042#ALL#so e permitido a Data do Insumo
+0043#STR0043#ALL#NAO CONFORMIDADE
+0044#STR0044#ALL#Opcao invalida. Quando o tipo da O.S for(Terminada)
+0045#STR0045#ALL#so e permitido a Data do O.S
+0046#STR0046#ALL#Selecionando Registros...
+0047#STR0047#ALL#Bem              Descricao                                      Custo Previsto       Custo Realizado           Diferenca           Var. %
+0048#STR0048#ALL#Considera OS  ?
+0049#STR0049#ALL#Liberada
+0050#STR0050#ALL#Pendente
+0051#STR0051#ALL#Ambas
+0052#STR0052#ALL#Nenhuma
+0053#STR0053#ALL#Informe a partir de qual Sequencia deve constar no relatório. Informe um número ou deixe em branco para considerar desde o início.
+0054#STR0054#ALL#Informe até qual Sequencia deve constar no relatório. Caso informou um número no parâmetro anterior, informe um número maior neste. Caso deixou o parâmetro anterior vazio, informe ZZZ neste.
+0055#STR0055#ALL#O campo 'De Sequência' precisa estar em branco ou com um número.
+0056#STR0056#ALL#Quando o parâmetro 'De Sequência' está vazio, o parâmetro 'Até Sequencia' precisa estar como 'ZZZ'.
+0057#STR0057#ALL#Quando o parâmetro 'De Seqüência' for um número, o parâmetro 'Até Sequência' precisa ser um número também.
+0058#STR0058#ALL#Atencao
+0059#STR0059#ALL#O parâmetro 'Até Sequência' precisa ser
+0060#STR0060#ALL#maior ou igual que o parâmetro 'De Sequência'.
+0061#STR0061#ALL#Imprimir Localização ?
+0062#STR0062#ALL#Sim
+0063#STR0063#ALL#Não
+0064#STR0064#ALL#Informe se deve imprimir a localização:
+0065#STR0065#ALL#1-Sim
+0066#STR0066#ALL#2-Não
+0067#STR0067#ALL#Localização.: 
+0068#STR0068#ALL#           Descrição                      .................Previsto.................       ..............Realizado...............
+0069#STR0069#ALL#Não há dados para impressão no relatório.

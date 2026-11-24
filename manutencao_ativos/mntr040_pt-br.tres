@@ -1,0 +1,72 @@
+0001#STR0001#ALL#Relatorio de apresentacao do Mapa de Consumo Diario de Combustivel.
+0002#STR0002#ALL#Atraves dos parametros o usuario podera efetuar a selecao desejada.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Mapa de Consumo Diario de Combustivel
+0006#STR0006#ALL#De Data Abastecimento ?
+0007#STR0007#ALL#Ate Data Abastecimento?
+0008#STR0008#ALL#De Familia            ?
+0009#STR0009#ALL#Ate Familia           ?
+0010#STR0010#ALL#De Modelo             ?
+0011#STR0011#ALL#Ate Modelo            ?
+0012#STR0012#ALL#De Centro de Custo    ?
+0013#STR0013#ALL#Ate Centro de Custo   ?
+0014#STR0014#ALL#De Bem                ?
+0015#STR0015#ALL#Ate Bem               ?
+0016#STR0016#ALL#Aguarde...
+0017#STR0017#ALL#Processando Registros...
+0018#STR0018#ALL#CANCELADO PELO OPERADOR
+0019#STR0019#ALL#Período: de 
+0020#STR0020#ALL# ate 
+0021#STR0021#ALL#Frota: 
+0022#STR0022#ALL#Placa: 
+0023#STR0023#ALL#Centro de Custo: 
+0024#STR0024#ALL#Parametros de Consumo
+0025#STR0025#ALL#Cap.Tanque: 
+0026#STR0026#ALL#   Media: 
+0027#STR0027#ALL#   Combust: 
+0028#STR0028#ALL#Data
+0029#STR0029#ALL#Hora
+0030#STR0030#ALL#Hod/Hor
+0031#STR0031#ALL#Realizado
+0032#STR0032#ALL#Rodado
+0033#STR0033#ALL#Abastecido
+0034#STR0034#ALL#Media
+0035#STR0035#ALL#Valor
+0036#STR0036#ALL#Cons.
+0037#STR0037#ALL#Data Lcto.
+0038#STR0038#ALL# Acum.
+0039#STR0039#ALL#KM Real
+0040#STR0040#ALL#KM Rod
+0041#STR0041#ALL#Litros
+0042#STR0042#ALL#Cons./Litro
+0043#STR0043#ALL#Litros Acum.
+0044#STR0044#ALL#Total Veiculo: 
+0045#STR0045#ALL#Tanque: 
+0046#STR0046#ALL#Utimo Abast. 
+0047#STR0047#ALL#KM
+0048#STR0048#ALL# Real: 
+0049#STR0049#ALL# em 
+0050#STR0050#ALL#Data final não pode ser inferior à data inicial!
+0051#STR0051#ALL#Contador
+0052#STR0052#ALL#Incremento
+0053#STR0053#ALL#Valor Total
+0054#STR0054#ALL#Vl. Unit.
+0055#STR0055#ALL#Abast. Acum.
+0056#STR0056#ALL#Realizado: 
+0057#STR0057#ALL#Lista:                 
+0058#STR0058#ALL#1=Combustível
+0059#STR0059#ALL#2=Produto/Aditivo
+0060#STR0060#ALL#3=Ambos
+0061#STR0061#ALL#Informe a data inicial de abastecimento para impressão do relatório.
+0062#STR0062#ALL#Informe a data final de abastecimento para impressão do relatório.
+0063#STR0063#ALL#Informe de qual família de bens pretende imprimir o relatório
+0064#STR0064#ALL#Informe até qual família de bens pretende imprimir o relatório
+0065#STR0065#ALL#Informe de qual modelo de bens pretende imprimir o relatório
+0066#STR0066#ALL#Informe até qual modelo de bens pretende imprimir o relatório
+0067#STR0067#ALL#Informe de qual Centro de Custo pretende imprimir o relatório
+0068#STR0068#ALL#Informe até qual Centro de Custo pretende imprimir o relatório
+0069#STR0069#ALL#Informe de qual bem pretende imprimir o relatório
+0070#STR0070#ALL#Informe até qual bem pretende imprimir o relatório
+0071#STR0071#ALL#Selecione qual tipo de produto para impressão do relatório, com as opções 1=Combustível; 2=Produto/Aditivo; 3=Ambos.
+0072#STR0072#ALL#   Produt: 

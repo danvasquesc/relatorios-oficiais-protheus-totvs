@@ -1,0 +1,58 @@
+0001#STR0001#ALL#Duracao de Bens por Tipo de Borracha(Recape).
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#De Familia de Bem  ?
+0005#STR0005#ALL#Ate Familia de Bem ?
+0006#STR0006#ALL#De  Modelo de Bem  ?
+0007#STR0007#ALL#Ate Modelo de Bem   ?
+0008#STR0008#ALL#De  Tipo Borracha  ?
+0009#STR0009#ALL#Ate Tipo Borracha  ?
+0010#STR0010#ALL#De Bem             ?
+0011#STR0011#ALL#Ate Bem            ?
+0012#STR0012#ALL#De Data            ?
+0013#STR0013#ALL#Ate Data           ?
+0014#STR0014#ALL#Considera Inativo  ?
+0015#STR0015#ALL#Nao
+0016#STR0016#ALL#Sim
+0017#STR0017#ALL#Bem               Evento      Descrição                            Data Ini.   Data Fim     Cont.Inic.     Cont.Fim           Custo  Vida Útil
+0018#STR0018#ALL#CANCELADO PELO OPERADOR
+0019#STR0019#ALL#Familia  -
+0020#STR0020#ALL#Produto  -
+0021#STR0021#ALL#Total do Bem -
+0022#STR0022#ALL#Compra
+0023#STR0023#ALL#Rodizio
+0024#STR0024#ALL#Preventiva
+0025#STR0025#ALL#Corretiva
+0026#STR0026#ALL#Producao
+0027#STR0027#ALL#Inativo
+0028#STR0028#ALL#Processando Arquivo...
+0029#STR0029#ALL#Selecionando Registros...
+0030#STR0030#ALL#Analise de duracao por tipo de borracha(RECAPE).
+0031#STR0031#ALL#Informe se deve considerar Transferências: Não; Sim.
+0032#STR0032#ALL#Informe Tipo de Custo: Medio; Standard.
+0033#STR0033#ALL#Família
+0034#STR0034#ALL#Cód. Família
+0035#STR0035#ALL#Descrição
+0036#STR0036#ALL#Cód. Produto
+0037#STR0037#ALL#Descrição
+0038#STR0038#ALL#Bem
+0039#STR0039#ALL#Cód. Bem
+0040#STR0040#ALL#Compra
+0041#STR0041#ALL#Dt. Compra
+0042#STR0042#ALL#Custo
+0043#STR0043#ALL#Eventos
+0044#STR0044#ALL#Evento
+0045#STR0045#ALL#Descrição
+0046#STR0046#ALL#Data Ini.
+0047#STR0047#ALL#Data Fim
+0048#STR0048#ALL#Cont.Inic.
+0049#STR0049#ALL#Cont.Fim
+0050#STR0050#ALL#Vida Util
+0051#STR0051#ALL#Inativo
+0052#STR0052#ALL#Transfer.
+0053#STR0053#ALL#da Filial 
+0054#STR0054#ALL#para Filial 
+0055#STR0055#ALL#Producao
+0056#STR0056#ALL#para Empresa/Filial 
+0057#STR0057#ALL#da Empresa/Filial 
+0058#STR0058#ALL#Não existem dados para montar o relatório.

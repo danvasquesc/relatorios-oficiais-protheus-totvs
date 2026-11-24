@@ -1,0 +1,29 @@
+0001#STR0001#ALL#MTBF e MTTR
+0002#STR0002#ALL#O usuario pode selecionar quais os campos que deverao ser mostrados,
+0003#STR0003#ALL#bem como informar parametros de selecao para a impressao.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Centro Custo          Descrição                   C.Trabalho Descrição
+0007#STR0007#ALL#Família Descrição                Bem              Descrição                                 MTBF                MTTR
+0008#STR0008#ALL#Processando Arquivo...
+0009#STR0009#ALL#Normal
+0010#STR0012#ALL#C. Custo
+0011#STR0013#ALL#Descrição
+0012#STR0014#ALL#C. Trabalho
+0013#STR0015#ALL#Família
+0014#STR0016#ALL#Bem
+0015#STR0018#ALL#MTBF
+0016#STR0019#ALL#MTTR
+0017#STR0020#ALL#Familias
+0018#STR0022#ALL#Bem               Descrição                 Centro Custo         Descrição             Família Descrição                        MTBF               MTTR
+0019#STR0023#ALL#Média Geral:
+0020#STR0024#ALL#Atenção
+0021#STR0025#ALL#Não há dados para a impressão!
+0022#STR0040#ALL#Observação: Nos casos onde o bem possuir uma ou menos falhas no período consultado, impedindo a realização do cálculo, será apresentando uma traço ( - ) em seu respectivo indicador.
+0023#STR0041#ALL#Horas                  Dias
+0024#STR0042#ALL#--------------Horas--------------
+0025#STR0043#ALL#--------------Dias--------------
+0026#STR0044#ALL#MTBF/Hrs
+0027#STR0045#ALL#MTTR/Hrs
+0028#STR0046#ALL#MTBF/Dias
+0029#STR0047#ALL#MTTR/Dias

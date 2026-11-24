@@ -1,0 +1,43 @@
+0001#STR0001#ALL#De  Bem ?
+0002#STR0002#ALL#Ate Bem ?
+0003#STR0003#ALL#De  Data ?
+0004#STR0004#ALL#Ate Data ?
+0005#STR0005#ALL#Listar OS ?
+0006#STR0006#ALL#Abertas
+0007#STR0007#ALL#Finalizadas
+0008#STR0008#ALL#Ambas
+0009#STR0009#ALL#Bens enviados para Terceiros
+0010#STR0010#ALL#Destina-se a imprimir as ocorrências dos Bens enviados para Terceiros 
+0011#STR0011#ALL#nas Ordem de Serviço.
+0012#STR0012#ALL#Bem
+0013#STR0013#ALL#Descrição
+0014#STR0014#ALL#C.Custo
+0015#STR0015#ALL#Em Terceiro?
+0016#STR0016#ALL#Ordem de Servico
+0017#STR0017#ALL#Ordem
+0018#STR0018#ALL#Dt.Origi.
+0019#STR0019#ALL#Plano
+0020#STR0020#ALL#Seq.
+0021#STR0021#ALL#Servic
+0022#STR0022#ALL#Descricao do Servico
+0023#STR0023#ALL#Dt.Man.Ini
+0024#STR0024#ALL#Dt.Man.Fim
+0025#STR0025#ALL#Situacao
+0026#STR0026#ALL#Termino
+0027#STR0027#ALL#Processando Arquivo...
+0028#STR0028#ALL#de
+0029#STR0029#ALL#ate
+0030#STR0030#ALL#Selecionando Registros...
+0031#STR0031#ALL#Cancelada
+0032#STR0032#ALL#Liberada
+0033#STR0033#ALL#Pendente
+0034#STR0034#ALL#Sim
+0035#STR0035#ALL#Nao
+0036#STR0036#ALL#Destina-se a imprimir as ocorrencias de Bens enviados para terceiros
+0037#STR0037#ALL#Zebrado
+0038#STR0038#ALL#Administracao
+0039#STR0039#ALL#Bem               Descricao                                C.Custo          Descricao                           Em Terceiro?
+0040#STR0040#ALL#     Ordem  Dt.Origi.  Plano  Seq.   Servic Descricao do Servico           Dt.Man.Ini Dt.Man.Fim Situacao  Termino
+0041#STR0041#ALL#Data final não pode ser inferior à data inicial!
+0042#STR0042#ALL#Não existem dados para montar o relatório!
+0043#STR0043#ALL#ATENÇÂO

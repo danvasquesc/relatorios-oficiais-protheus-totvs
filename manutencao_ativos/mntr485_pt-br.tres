@@ -1,0 +1,36 @@
+0001#STR0001#ALL#Relatorio de Consumo de Combustivel Por Obra e Tipo de Servico.
+0002#STR0002#ALL#E permitido selecionar tipo de informacao a ser
+0003#STR0003#ALL#apresentada, atraves dos parametros do relatorio.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatorio Consumo Combustivel Por Obra e Tipo de Servico
+0007#STR0007#ALL#Arquivo De Movimentacao de Bens 
+0008#STR0008#ALL# Nao Foi Aberto.
+0009#STR0009#ALL#Verificar se o Arquivo 
+0010#STR0010#ALL# Esta no MNU, Dicionario de Dados
+0011#STR0011#ALL#e na Base de Dados...
+0012#STR0012#ALL#NAO CONFORMIDADE
+0013#STR0013#ALL#De C.Custo Obra ?
+0014#STR0014#ALL#Ate C.Custo Obra?
+0015#STR0015#ALL#De Tipo Servico ?
+0016#STR0016#ALL#Ate Tipo Servico?
+0017#STR0017#ALL#De Grupo        ?
+0018#STR0018#ALL#Ate Grupo       ?
+0019#STR0019#ALL#De Produto      ?
+0020#STR0020#ALL#Ate Produto     ?
+0021#STR0021#ALL#De Data Inicio  ?
+0022#STR0022#ALL#Ate Data Fim    ?
+0023#STR0023#ALL#De Familia      ?
+0024#STR0024#ALL#Ate Familia     ?
+0025#STR0025#ALL#De Bem          ?
+0026#STR0026#ALL#Ate Bem         ?
+0027#STR0027#ALL#QTD. Caract.Obra?
+0028#STR0028#ALL#         Produto          
+0029#STR0029#ALL#Obra..: 
+0030#STR0030#ALL#Tipo Servico..: 
+0031#STR0031#ALL#Nao Foi Informada a Quantidade de Caracter Que Compoe o Codigo da Obra Nas Perguntas ( Parametros )...
+0032#STR0032#ALL#Devido a alteracao no dicionario e necessario reinicializar o sistema
+0033#STR0033#ALL#ATENCAO
+0034#STR0034#ALL#Reinicialize o sistema
+0035#STR0035#ALL#Selecionando Registros...
+0036#STR0036#ALL#Nome Do Produto                             Quantidade  Unidade

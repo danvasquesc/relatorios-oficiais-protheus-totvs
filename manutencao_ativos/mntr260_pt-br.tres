@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Custo de Manutencao. Este relatorio
+0002#STR0002#ALL#Este programa seleciona por default OS finalizadas e as
+0003#STR0003#ALL#em aberto conforme parametro selecionado.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Custo de Manutencao.
+0007#STR0007#ALL#Centro de Custo..:
+0008#STR0008#ALL#C.Custo              Descrição                                         Terceiros             Mão de Obra                Produtos                   Total
+0009#STR0009#ALL#CANCELADO PELO OPERADOR
+0010#STR0010#ALL#TOTAL DO CENTRO DE CUSTO.:
+0011#STR0011#ALL#TOTAL GERAL.:
+0012#STR0012#ALL#         Bem              Descrição                                    Terceiros             Mão de Obra                Produtos                   Total
+0013#STR0013#ALL#TOTAL DA FAMILIA.:
+0014#STR0014#ALL#TOTAL DO CENTRO DE TRABALHO.:
+0015#STR0015#ALL#Centro de Trabalho..:
+0016#STR0016#ALL#Familia..:
+0017#STR0017#ALL#Selecionando Registros...
+0018#STR0018#ALL#Considera OS  ?
+0019#STR0019#ALL#Liberada
+0020#STR0020#ALL#Pendente
+0021#STR0021#ALL#Ambas
+0022#STR0022#ALL#Nenhuma
+0023#STR0023#ALL#Considera Data  ?
+0024#STR0024#ALL#Da O.S.
+0025#STR0025#ALL#Do Insumo
+0026#STR0026#ALL#Localização:
+0027#STR0027#ALL#Imprimir Localização ?
+0028#STR0028#ALL#Sim
+0029#STR0029#ALL#Não
+0030#STR0030#ALL#Informe se deve imprimir a localização:
+0031#STR0031#ALL#1-Sim
+0032#STR0032#ALL#2-Não
+0033#STR0033#ALL#Não existem dados para montar a tela de relatório de custos de manutenções.
+0034#STR0034#ALL#ATENÇÃO
+0035#STR0035#ALL#Informe a partir de qual Filial devem ser impressos os bens no relatório. Pressione a tecla [F3] para selecionar uma Filial, ou deixe em branco para selecionar a partir da primeira disponivel.
+0036#STR0036#ALL#Informe até qual Filial devem ser impressos os bens. Pressione a tecla [F3] para selecionar uma Filial, ou Replique Z neste campo para considerar até a ultima filial.
+0037#STR0037#ALL#Aguarde, processando...

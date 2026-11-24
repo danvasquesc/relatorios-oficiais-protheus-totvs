@@ -1,0 +1,68 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Relatório de Resultados dos Recursos
+0004#STR0004#ALL#O relatório apresentará informações das multas que foram
+0005#STR0005#ALL#recorridas pela empresa. Apresenta os valores restituídos
+0006#STR0006#ALL#como também estes por motivo de recurso.
+0007#STR0007#ALL#De  Data ?
+0008#STR0008#ALL#Ate Data ?
+0009#STR0009#ALL#Tipo Infração ?
+0010#STR0010#ALL#Ambas
+0011#STR0011#ALL#Transito
+0012#STR0012#ALL#Prod.Perigoso
+0013#STR0013#ALL#Situação Recurso ?
+0014#STR0014#ALL#Todos
+0015#STR0015#ALL#Pendente
+0016#STR0016#ALL#Deferido
+0017#STR0017#ALL#Indeferido
+0018#STR0018#ALL#Destino ?
+0019#STR0019#ALL#Para Empresa
+0020#STR0020#ALL#Para Motorista
+0021#STR0021#ALL#Aguarde...
+0022#STR0022#ALL#Processando Registros...
+0023#STR0023#ALL#Processando Arquivo...
+0024#STR0024#ALL#Selecionando Registros...
+0025#STR0025#ALL#Filial/Grupo de Filiais
+0026#STR0026#ALL#Multa
+0027#STR0027#ALL#Dt.Recebimento
+0028#STR0028#ALL#Dt.Infra.
+0029#STR0029#ALL#Hr.Inf.
+0030#STR0030#ALL#AIT
+0031#STR0031#ALL#CI Recurso
+0032#STR0032#ALL#Motivo
+0033#STR0033#ALL#Sit.Rec.
+0034#STR0034#ALL#Dt.Pagto.
+0035#STR0035#ALL#Vl.Boleto
+0036#STR0036#ALL#%Desc.
+0037#STR0037#ALL#Vl.Pago.
+0038#STR0038#ALL#Art.Infracao
+0039#STR0039#ALL#Placa
+0040#STR0040#ALL#Motorista
+0041#STR0041#ALL#Resp.
+0042#STR0042#ALL#Valor R$
+0043#STR0043#ALL#Status
+0044#STR0044#ALL#Tot.Restit.
+0045#STR0045#ALL#Empresa
+0046#STR0046#ALL#Motoris
+0047#STR0047#ALL#NPossui
+0048#STR0048#ALL#Empr
+0049#STR0049#ALL#Mot
+0050#STR0050#ALL#Registrado
+0051#STR0051#ALL#Andamento
+0052#STR0052#ALL#Concluido
+0053#STR0053#ALL#Total da Restituicao
+0054#STR0054#ALL#Motivos de Restituicao por Valor Restituido
+0055#STR0055#ALL#Motivos Restituicao
+0056#STR0056#ALL#Valor Restituido
+0057#STR0057#ALL#Total
+0058#STR0058#ALL#Data final não pode ser inferior à data inicial!
+0059#STR0059#ALL#Não existem dados para montar o relatório!
+0060#STR0060#ALL#ATENÇÃO
+0061#STR0061#ALL#Filial   ?
+0062#STR0062#ALL#Hub      ?
+0063#STR0063#ALL#Penden.
+0064#STR0064#ALL#Defer.
+0065#STR0065#ALL#Indef.
+0066#STR0066#ALL#Data inicio não pode ser maior que data final.
+0067#STR0067#ALL#A data é inválida.
+0068#STR0068#ALL#Grupo de Filiais

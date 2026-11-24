@@ -1,0 +1,109 @@
+0001#STR0001#ALL#Relatorio de Custos do Centro de Custos.
+0002#STR0002#ALL#Este programa seleciona por default OS finalizadas e as
+0003#STR0003#ALL#em aberto conforme parametro selecionado.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Custos Por Centro de Custos
+0007#STR0007#ALL#De  Centro Custo   ?
+0008#STR0008#ALL#Ate Centro Custo   ?
+0009#STR0009#ALL#Tipo de Insumo     ?
+0010#STR0010#ALL#Todos
+0011#STR0011#ALL#Produto
+0012#STR0012#ALL#Funcion.
+0013#STR0013#ALL#Ferram.
+0014#STR0014#ALL#Terceiros
+0015#STR0015#ALL#Solicitacao        ?
+0016#STR0016#ALL#Manut.& Histor.
+0017#STR0017#ALL#Manutencao
+0018#STR0018#ALL#Historico
+0019#STR0019#ALL#De  Data Manutencao?
+0020#STR0020#ALL#Ate Data Manutencao?
+0021#STR0021#ALL#De  Bem            ?
+0022#STR0022#ALL#Ate Bem            ?
+0023#STR0023#ALL#Considerar Relatorio?
+0024#STR0024#ALL#Detalhado
+0025#STR0025#ALL#Resumido
+0026#STR0026#ALL#Considerar Custo   ?
+0027#STR0027#ALL#BEM.:
+0028#STR0028#ALL#Estrutura
+0029#STR0029#ALL#Tipo de Custo      ?
+0030#STR0030#ALL#Medio
+0031#STR0031#ALL#Standard
+0032#STR0032#ALL#Custo Maq. Parada  ?
+0033#STR0033#ALL#Sim
+0034#STR0034#ALL#Nao
+0035#STR0035#ALL#Aglutina M.D.O     ?
+0036#STR0036#ALL#CANCELADO PELO OPERADOR
+0037#STR0037#ALL#BEM.:
+0038#STR0038#ALL#O.S.:
+0039#STR0039#ALL#PLANO.:
+0040#STR0040#ALL#SERVICO.:
+0041#STR0041#ALL#DATA....:
+0042#STR0042#ALL#Descricao da OS.: 
+0043#STR0043#ALL#Custo Hora Parada do Bem 
+0044#STR0044#ALL#TOTAL DA O.S.
+0045#STR0045#ALL#TOTAL DO BEM 
+0046#STR0046#ALL#TOTAL DO CENTRO CUSTO
+0047#STR0047#ALL#TOTAL GERAL   
+0048#STR0048#ALL#Centro Custo.:
+0049#STR0049#ALL#Tipo Código Insumo   Nome Insumo
+0050#STR0050#ALL#.............Previsto.............           ............Realizado............
+0051#STR0051#ALL#Quantidade    Unidade        Custo           Quantidade   Unidade        Custo      Diferença        Var.  %
+0052#STR0052#ALL#BEM PAI.: 
+0053#STR0053#ALL#BEM FILHO.: 
+0054#STR0054#ALL#TOTAL DO PAI
+0055#STR0055#ALL#TOTAL DO FILHO
+0056#STR0056#ALL#TOTAL GERAL DO PAI
+0057#STR0057#ALL#BEM PAI......:
+0058#STR0058#ALL#BENS FILHOS..:
+0059#STR0059#ALL#Bem              Descricao                                 Custo Previsto   Custo Realizado         Diferenca            Var. %
+0060#STR0060#ALL#O Parâmetro de De/Até Família deve ser igual para quando considerar custo da estrutura
+0061#STR0061#ALL#Selecionando Registros...
+0062#STR0062#ALL#Considera OS   ?
+0063#STR0063#ALL#Liberada
+0064#STR0064#ALL#Pendente
+0065#STR0065#ALL#Ambas
+0066#STR0066#ALL#Nenhuma
+0067#STR0067#ALL#Considera Data ?
+0068#STR0068#ALL#Considera Data ?
+0069#STR0069#ALL#Do Insumo
+0070#STR0070#ALL#Localização.: 
+0071#STR0071#ALL#Não está relacionado a uma Estrutura.
+0072#STR0072#ALL#Imprimir Localização ?
+0073#STR0073#ALL#Sim
+0074#STR0074#ALL#Não
+0075#STR0075#ALL#Informe se deve imprimir a localização:
+0076#STR0076#ALL#1-Sim
+0077#STR0077#ALL#2-Não
+0078#STR0078#ALL#Moeda
+0079#STR0079#ALL#Selecione em qual moeda o relatório deve ser emitido.
+0080#STR0080#ALL#Tipo Codigo Insumo
+0081#STR0081#ALL#Nome Insumo
+0082#STR0082#ALL#Espe
+0083#STR0083#ALL#Ferr
+0084#STR0084#ALL#Prod
+0085#STR0085#ALL#Terc
+0086#STR0086#ALL#MDO.
+0087#STR0087#ALL#FUN.
+0088#STR0088#ALL#ESP.
+0089#STR0089#ALL#PRO.
+0090#STR0090#ALL#TER.
+0091#STR0091#ALL#FER.
+0092#STR0092#ALL#Confirmar
+0093#STR0093#ALL#Selecione a moeda em que o relatório será impresso:
+0094#STR0094#ALL#Selecione a moeda em que o relatório será impresso:
+0095#STR0095#ALL#*** Subtotal da O.S
+0096#STR0096#ALL#Total O.S.
+0097#STR0097#ALL#*** Subtotal do Bem
+0098#STR0098#ALL#Total do Bem
+0099#STR0099#ALL#*** Subtotal do Centro de Custo
+0100#STR0100#ALL#Total do Centro de Custo
+0101#STR0101#ALL#Total Geral
+0102#STR0102#ALL#*** Subtotal Geral
+0103#STR0103#ALL#Considera Devolução?
+0104#STR0104#ALL#Devolução
+0105#STR0105#ALL#*** Subtotal do Pai
+0106#STR0106#ALL#Total do Pai
+0107#STR0107#ALL#Deseja considerar devolução?
+0108#STR0108#ALL#Informe a partir de qual Filial devem ser impressos os bens no relatório. Pressione a tecla [F3] para selecionar uma Filial, ou deixe em branco para selecionar a partir da primeira disponivel.
+0109#STR0109#ALL#Informe até qual Filial devem ser impressos os bens. Pressione a tecla [F3] para selecionar uma Filial, ou Replique Z neste campo para considerar até a ultima filial.

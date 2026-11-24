@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Relatorio de Deslocamento de Equipamentos Por Obra.
+0002#STR0002#ALL#E permitido selecionar tipo de informacao a ser
+0003#STR0003#ALL#apresentada, atraves dos parametros do relatorio.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#Relatorio de Deslocamento de Equipamentos Por Obra
+0007#STR0007#ALL#Arquivo De Movimentacao de Bens 
+0008#STR0008#ALL# Nao Foi Aberto.
+0009#STR0009#ALL#Verificar se o Arquivo 
+0010#STR0010#ALL# Esta no MNU, Dicionario de Dados
+0011#STR0011#ALL#e na Base de Dados...
+0012#STR0012#ALL#NAO CONFORMIDADE
+0013#STR0013#ALL#De C.Custo Obra ?
+0014#STR0014#ALL#Ate C.Custo Obra?
+0015#STR0015#ALL#De Data Inicio  ?
+0016#STR0016#ALL#Ate Data Fim    ?
+0017#STR0017#ALL#De Familia      ?
+0018#STR0018#ALL#Ate Familia     ?
+0019#STR0019#ALL#De Bem          ?
+0020#STR0020#ALL#Ate Bem         ?
+0021#STR0021#ALL#QTD. Caract.Obra?
+0022#STR0022#ALL#Bem..: 
+0023#STR0023#ALL#Utilizado
+0024#STR0024#ALL#Parado
+0025#STR0025#ALL# Obra      C.Custo              Nome C. Custo          Situacao  Dt.Inic.   H.In. Dt. Fim    H.Fim  Contador 1  Contador 2
+0026#STR0026#ALL#Nao Foi Informada a Quantidade de Caracter Que Compoe o Codigo da Obra Nas Perguntas ( Parametros )...
+0027#STR0027#ALL#Selecionando Registros...
+0028#STR0028#ALL#Bem
+0029#STR0029#ALL#Descrição
+0030#STR0030#ALL#Obra
+0031#STR0031#ALL#C.Custo
+0032#STR0032#ALL#Nome C.Custo
+0033#STR0033#ALL#Situação
+0034#STR0034#ALL#Dt.Inic.
+0035#STR0035#ALL#H.In.
+0036#STR0036#ALL#Dt.Fim
+0037#STR0037#ALL#H.Fim
+0038#STR0038#ALL#Contador 1
+0039#STR0039#ALL#Contador 2
+0040#STR0040#ALL#Obras

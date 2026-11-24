@@ -1,0 +1,40 @@
+0001#STR0001#ALL#Ordens de Serviço por Localização
+0002#STR0002#ALL#De Localização ?
+0003#STR0003#ALL#Ate Localização ?
+0004#STR0004#ALL#De Servico ?
+0005#STR0005#ALL#Ate Servico ?
+0006#STR0006#ALL#De Data ?
+0007#STR0007#ALL#Ate Data ?
+0008#STR0008#ALL#OS Liberada ?
+0009#STR0009#ALL#Sim
+0010#STR0010#ALL#Não
+0011#STR0011#ALL#OS Terminada ?
+0012#STR0012#ALL#OS Pendente ?
+0013#STR0013#ALL#OS Cancelada ?
+0014#STR0014#ALL#Localização
+0015#STR0015#ALL#Descrição
+0016#STR0016#ALL#Ordens de Servico
+0017#STR0017#ALL#Ordem
+0018#STR0018#ALL#Plano
+0019#STR0019#ALL#Serviço
+0020#STR0020#ALL#Seq.
+0021#STR0021#ALL#Dt.Original
+0022#STR0022#ALL#Dt.M.Prev.In.
+0023#STR0023#ALL#Status
+0024#STR0024#ALL#Relatório de ordens de serviço por localização.
+0025#STR0025#ALL#Permite listar OS terminadas, abertas ou todas de acordo
+0026#STR0026#ALL#com o parâmetro selecionado.
+0027#STR0027#ALL#Zebrado
+0028#STR0028#ALL#Administracao
+0029#STR0029#ALL#Localização Descrição
+0030#STR0030#ALL# Ordem   Plano   Serviço  Descrição                                Seq.  Dt.Original  Dt.M.Prev.In.  Status     Centro Custo
+0031#STR0031#ALL#Processando as Ordens de Servico...
+0032#STR0032#ALL#Terminada
+0033#STR0033#ALL#Liberada
+0034#STR0034#ALL#Pendente
+0035#STR0035#ALL#Cancelada
+0036#STR0036#ALL#De Centro Custo ?
+0037#STR0037#ALL#Até Centro Custo ?
+0038#STR0038#ALL#Informe a partir de qual Centro de Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar um Centro de Custo.
+0039#STR0039#ALL#Informe até qual Centro Custo deve constar no relatório. Pressione as teclas [Enter]+[F3] para selecionar o Centro de Custo desejado ou digite ZZZZZZZZZ neste campo e o acima em branco para considerar todos os Centros de Custos.
+0040#STR0040#ALL#Centro Custo

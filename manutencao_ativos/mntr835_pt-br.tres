@@ -1,0 +1,41 @@
+0001#STR0001#ALL#De  Centro de Custo ?
+0002#STR0002#ALL#Ate Centro de Custo ?
+0003#STR0003#ALL#De  Centro de Trab. ?
+0004#STR0004#ALL#Ate Centro de Trab. ?
+0005#STR0005#ALL#De  Familia de Bens ?
+0006#STR0006#ALL#Ate Familia de Bens ?
+0007#STR0007#ALL#De  Bem ?
+0008#STR0008#ALL#Ate Bem ?
+0009#STR0009#ALL#De  Servico ?
+0010#STR0010#ALL#Ate Servico ?
+0011#STR0011#ALL#De Dt.Man.Pr.I. ?
+0012#STR0012#ALL#Ate Dt.Man.Pr.F. ?
+0013#STR0013#ALL#OS Liberadas em Aberto
+0014#STR0014#ALL#Destina-se a imprimir as OS Liberadas e em Aberto no sistema.
+0015#STR0015#ALL#Centro de Custo/Área
+0016#STR0016#ALL#Centro Custo
+0017#STR0017#ALL#Descrição
+0018#STR0018#ALL#Codigo Área
+0019#STR0019#ALL#Ordem de Servico
+0020#STR0020#ALL#Ordem
+0021#STR0021#ALL#Data da OS.
+0022#STR0022#ALL#Plano
+0023#STR0023#ALL#Seq.
+0024#STR0024#ALL#Serviço
+0025#STR0025#ALL#Descricao do Servico
+0026#STR0026#ALL#Data Inicio
+0027#STR0027#ALL#Data Fim
+0028#STR0028#ALL#Bem
+0029#STR0029#ALL#Familia
+0030#STR0030#ALL#Processando Arquivo...
+0031#STR0031#ALL#de
+0032#STR0032#ALL#ate
+0033#STR0033#ALL#Selecionando Registros...
+0034#STR0034#ALL#Cancelada
+0035#STR0035#ALL#Liberada
+0036#STR0036#ALL#Pendente
+0037#STR0037#ALL#Zebrado
+0038#STR0038#ALL#Administracao
+0039#STR0039#ALL#Centro Custo      Descricao                                Area             Descricao
+0040#STR0040#ALL#   Ordem  Data da OS.  Plano   Seq.    Serviço Descricao            Data Inicio Data Fim   Nome do Bem           Familia do Bem
+0041#STR0041#ALL#Data final não pode ser inferior à data inicial!

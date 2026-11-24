@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Relatório de manutenções a vencer dentro do período selecionado
+0002#STR0002#ALL#nos parâmetros.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administração
+0005#STR0005#ALL#Manutenções a Vencer no Período
+0006#STR0006#ALL#De Bem ?
+0007#STR0007#ALL#Ate Bem ?
+0008#STR0008#ALL#De Servico ?
+0009#STR0009#ALL#Ate Servico ?
+0010#STR0010#ALL#De Data ?
+0011#STR0011#ALL#Ate Data ?
+0012#STR0012#ALL#Considerar ?
+0013#STR0013#ALL#Todas
+0014#STR0014#ALL#Somente sem OS
+0015#STR0015#ALL#Manutenções a Vencer no Período de 
+0016#STR0016#ALL# á 
+0017#STR0017#ALL#Bem              Descrição                      Serviço Descrição                      Seq. Dt.Ult.Manut. Dt.Próx.Manut. Ordem Serv.
+0018#STR0018#ALL#ATENÇÃO
+0019#STR0019#ALL#Não existem dados para montar o relatório.

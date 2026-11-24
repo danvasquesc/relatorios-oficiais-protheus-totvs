@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Relatorio de Infrações no Ano
+0004#STR0004#ALL#O relatório de infrações no Ano apresentará a quantidade 
+0005#STR0005#ALL#de infrações recebidas e sofridas no ano (tabulando por mês).
+0006#STR0006#ALL#De  Ano ?
+0007#STR0007#ALL#AtÉ Ano ?
+0008#STR0008#ALL#Tipo de Multa ?
+0009#STR0009#ALL#Ambas
+0010#STR0010#ALL#Transito
+0011#STR0011#ALL#Prod. Perigoso
+0012#STR0012#ALL#Aguarde...
+0013#STR0013#ALL#Processando Registros...
+0014#STR0014#ALL#Processando Arquivo...
+0015#STR0015#ALL#MULTAS RECEB.   VALOR INFRAÇÃO   INFRA COMETID.   VALOR INFRAÇÃO
+0016#STR0016#ALL#INFR.SOF.
+0017#STR0017#ALL#JANEIRO
+0018#STR0018#ALL#FEVEREIRO
+0019#STR0019#ALL#MARCO
+0020#STR0020#ALL#ABRIL
+0021#STR0021#ALL#MAIO
+0022#STR0022#ALL#JUNHO
+0023#STR0023#ALL#JULHO
+0024#STR0024#ALL#AGOSTO
+0025#STR0025#ALL#SETEMBRO
+0026#STR0026#ALL#OUTUBRO
+0027#STR0027#ALL#NOVEMBRO
+0028#STR0028#ALL#DEZEMBRO
+0029#STR0029#ALL#TOTAL
+0030#STR0030#ALL#Intervalo de consulta não pode ser superior a 2 anos!
+0031#STR0031#ALL#Atenção
+0032#STR0032#ALL#VALOR INFRAÇÃO
+0033#STR0033#ALL#Não existem dados para montar o relatório.
+0034#STR0034#ALL#MES       
+0035#STR0035#ALL#Até Ano não pode ser menor que o parâmetro De Ano!
+0036#STR0036#ALL#Ano informado não poderá ser maior que 
+0037#STR0037#ALL#O Ano informado deverá conter 4 dígitos!

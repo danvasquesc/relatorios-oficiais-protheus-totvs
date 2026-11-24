@@ -1,0 +1,37 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Relatório de Bens Penhorados
+0004#STR0004#ALL#O relatório classificará e totalizará o valor da penhora por filial, 
+0005#STR0005#ALL#familia, modelo e data da indicação do bem. 
+0006#STR0006#ALL#De  Data ?
+0007#STR0007#ALL#Ate Data ?
+0008#STR0008#ALL#De  Filial ?
+0009#STR0009#ALL#Ate Filial ?
+0010#STR0010#ALL#De  Familia ?
+0011#STR0011#ALL#Ate Familia ?
+0012#STR0012#ALL#De  Modelo ?
+0013#STR0013#ALL#Ate Modelo ?
+0014#STR0014#ALL#Tipo da Ação ?
+0015#STR0015#ALL#Civil
+0016#STR0016#ALL#Trabalhista
+0017#STR0017#ALL#Tributaria
+0018#STR0018#ALL#Todas
+0019#STR0019#ALL#Aguarde...
+0020#STR0020#ALL#Processando Registros...
+0021#STR0021#ALL#Processando Arquivo...
+0022#STR0022#ALL#Filial
+0023#STR0023#ALL#Bem
+0024#STR0024#ALL#Descricao do Bem
+0025#STR0025#ALL#Placa
+0026#STR0026#ALL#Dt.Indi.
+0027#STR0027#ALL#Dt.Acao
+0028#STR0028#ALL#Reclamante
+0029#STR0029#ALL#Advogado
+0030#STR0030#ALL#Processo
+0031#STR0031#ALL#Valor Bem
+0032#STR0032#ALL#Total......:
+0033#STR0033#ALL#Data final não pode ser inferior à data inicial!
+0034#STR0034#ALL#Não existem dados para montar o relatório!
+0035#STR0035#ALL#ATENÇÃO
+0036#STR0036#ALL#Rec. Credito
+0037#STR0037#ALL#Valor Ação

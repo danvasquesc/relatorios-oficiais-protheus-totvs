@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Relatorio de Postos de combustiveis, com informacoes dos abastecimentos
+0002#STR0002#ALL#realizados em um determinado periodo informado.                        
+0003#STR0003#ALL#Relatorio de notas fiscais por posto
+0004#STR0004#ALL#Posto              ?
+0005#STR0005#ALL#Loja               ?
+0006#STR0006#ALL#De Data Emissao    ?
+0007#STR0007#ALL#Ate Data Emissao   ?
+0008#STR0008#ALL#De Nota Fiscal     ?
+0009#STR0009#ALL#Ate Nota Fiscal    ?
+0010#STR0010#ALL#Nota         Dt.Emissao  Placa     Frota             Dt.Abast.   Hora         Qtde  Valor Total(R$)   Hodometro  Motorista
+0011#STR0011#ALL#Aguarde...
+0012#STR0012#ALL#Processando Registros...
+0013#STR0013#ALL#Posto
+0014#STR0014#ALL#CNPJ
+0015#STR0015#ALL#Total da Nota Fiscal
+0016#STR0016#ALL#Loja
+0017#STR0017#ALL#Nome
+0018#STR0018#ALL#Nota
+0019#STR0019#ALL#Dt. Emissão
+0020#STR0020#ALL#Placa
+0021#STR0021#ALL#Frota
+0022#STR0022#ALL#Dt. Abastecimento
+0023#STR0023#ALL#Hora
+0024#STR0024#ALL#Qtde.
+0025#STR0025#ALL#Valor Total
+0026#STR0026#ALL#Hodometro
+0027#STR0027#ALL#Motorista
+0028#STR0028#ALL#Total da Nota Fiscal

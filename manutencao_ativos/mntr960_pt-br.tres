@@ -1,0 +1,28 @@
+0001#STR0001#ALL#Visualizar
+0002#STR0002#ALL#Parametros
+0003#STR0003#ALL#Imprimir
+0004#STR0004#ALL#Relatorio mensal de resumo de KM
+0005#STR0005#ALL#De Filial          ?
+0006#STR0006#ALL#Ate Filial         ?
+0007#STR0007#ALL#Data (MM/AAAA)     ?
+0008#STR0008#ALL#NMFL
+0009#STR0009#ALL#CODFL
+0010#STR0010#ALL#KMANT
+0011#STR0011#ALL#KMAT
+0012#STR0012#ALL#PERC
+0013#STR0013#ALL#Processando Registros...
+0014#STR0014#ALL#Filial
+0015#STR0015#ALL#Anterior
+0016#STR0016#ALL#Atual
+0017#STR0017#ALL#%Rodado
+0018#STR0018#ALL#Processando Registros
+0019#STR0019#ALL# percorrido por filial nas respectivas operações.
+0020#STR0020#ALL#Administracao
+0021#STR0021#ALL#Zebrado
+0022#STR0022#ALL#Operação
+0023#STR0023#ALL#Aguarde...
+0024#STR0024#ALL#Nao exite dados para imprimir o relatório.
+0025#STR0025#ALL#ATENÇÃO
+0026#STR0026#ALL#Mês de Referência: 
+0027#STR0027#ALL#Descrição        Cod.Filial
+0028#STR0028#ALL#        %Rodado em rel. ao mes anterior

@@ -1,0 +1,42 @@
+0001#STR0001#ALL#Mapa de Manutenção
+0002#STR0002#ALL#Aguarde... Processando..
+0003#STR0003#ALL#Bem..:
+0004#STR0004#ALL#Servico..:
+0005#STR0005#ALL#Sequência..:
+0006#STR0006#ALL#Verificando as Ordens cadastradas..
+0007#STR0007#ALL#Calculando data da manutenção..
+0008#STR0008#ALL#Programando as ordens de serviço..
+0009#STR0009#ALL#a
+0010#STR0010#ALL#Emissão..:
+0011#STR0011#ALL#Hora..:
+0012#STR0012#ALL#DOM
+0013#STR0013#ALL#SEG
+0014#STR0014#ALL#TER
+0015#STR0015#ALL#QUA
+0016#STR0016#ALL#QUI
+0017#STR0017#ALL#SEX
+0018#STR0018#ALL#SAB
+0019#STR0019#ALL#Sema.
+0020#STR0020#ALL#Semana
+0021#STR0021#ALL#LEGENDA
+0022#STR0022#ALL#Vencidas
+0023#STR0023#ALL#Para o Dia
+0024#STR0024#ALL#A Vencer
+0025#STR0025#ALL#Para a Semana
+0026#STR0026#ALL#De Centro de Custo   ?
+0027#STR0027#ALL#Até Centro de Custo  ?
+0028#STR0028#ALL#Informe a partir de qual Centro de Custo deseja visualizar as manutenções. Pressione a tecla [F3] para selecionar um Centro de Custo.
+0029#STR0029#ALL#Informe até qual o Centro de Custo deseja visualizar as manutenções. Pressione a tecla [F3] para selecionar um Centro de Custo.
+0030#STR0030#ALL#De Centro de Trabalho  ?
+0031#STR0031#ALL#Até Centro de Trabalho ?
+0032#STR0032#ALL#Informe a partir de qual Cntro de Trabalho deseja visualizar as manutenções. Pressione a tecla [F3] para selecionar uma Centro de Trabalho.
+0033#STR0033#ALL#Informe até qual Centro de Trabalho deseja visualizar as manutenções. Pressione a tecla [F3] para selecionar um Centro de Trabalho.
+0034#STR0034#ALL#Mês Inválido.
+0035#STR0035#ALL#De data         ?
+0036#STR0036#ALL#Até data        ?
+0037#STR0037#ALL#Mostrar a Partir de  ?
+0038#STR0038#ALL#Tipo do Reletório     ?
+0039#STR0039#ALL#Todo Intervalo
+0040#STR0040#ALL#1° Ref. c/ Dados
+0041#STR0041#ALL#Diário
+0042#STR0042#ALL#Semana Ano

@@ -1,0 +1,16 @@
+0001#STR0001#ALL#O relatório apresentará um resumo das 
+0002#STR0002#ALL#divergências acertadas com a inspeção.
+0003#STR0003#ALL#Zebrado
+0004#STR0004#ALL#Administracao
+0005#STR0005#ALL#Resumo Divergências Acertadas com a Inspeção de Pneus
+0006#STR0006#ALL#De Filial
+0007#STR0007#ALL#Até Filial
+0008#STR0008#ALL#Data Inicio Inspeção
+0009#STR0009#ALL#Tipo
+0010#STR0010#ALL#Resumo
+0011#STR0011#ALL#Detalhado
+0012#STR0012#ALL#Aguarde...
+0013#STR0013#ALL#Processando Registros...
+0014#STR0014#ALL#Filial                             Total de Pneus      Total acertados     %Informações
+0015#STR0015#ALL#                                                        com a inspeção       Acertadas
+0016#STR0016#ALL#Filial                   N.Fogo         Frota Sistema        Frota Inspeção       Posição Sistema     Posição Inspeção

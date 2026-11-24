@@ -1,0 +1,33 @@
+0001#STR0001#ALL#Relatório de Bens da Manutenção
+0002#STR0002#ALL#É permitido selecionar o tipo de informação a ser
+0003#STR0003#ALL#apresentada, através dos parâmetros do relatório.
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administração
+0006#STR0006#ALL#Bens da Manutenção
+0007#STR0007#ALL#CANCELADO PELO OPERADOR
+0008#STR0008#ALL#Serviço - 
+0009#STR0009#ALL#Sequência - 
+0010#STR0010#ALL#Bem              Nome                      Pai              C.Custo              C.Trab.   O.S.   Data        Contador 1  Contador 2
+0011#STR0011#ALL#Selecionando Registros...
+0012#STR0012#ALL#Serviço
+0013#STR0013#ALL#Descrição
+0014#STR0014#ALL#Sequência
+0015#STR0015#ALL#Bem
+0016#STR0016#ALL#Nome
+0017#STR0017#ALL#Pai
+0018#STR0018#ALL#C.Custo 
+0019#STR0019#ALL#C.Trab.
+0020#STR0020#ALL#O.S.
+0021#STR0021#ALL#Data
+0022#STR0022#ALL#Contador 1
+0023#STR0023#ALL#Contador 2
+0024#STR0024#ALL#Manutenção
+0025#STR0025#ALL#Bens
+0026#STR0026#ALL#Localização.: 
+0027#STR0027#ALL#Não está relacionado a uma Estrutura.
+0028#STR0028#ALL#Imprimir Localização ?
+0029#STR0029#ALL#Sim
+0030#STR0030#ALL#Não
+0031#STR0031#ALL#Informe se deve imprimir a localização:
+0032#STR0032#ALL#1-Sim
+0033#STR0033#ALL#2-Não

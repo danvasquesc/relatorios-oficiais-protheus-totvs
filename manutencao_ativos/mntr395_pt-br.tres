@@ -1,0 +1,32 @@
+0001#STR0001#ALL#O relatório apresentará a quantidade de infrações no ano, e a percentagem da participação 
+0002#STR0002#ALL#de cada tipo no total
+0003#STR0003#ALL#Tipos de Infrações de Trânsito
+0004#STR0004#ALL#Zebrado
+0005#STR0005#ALL#Administracao
+0006#STR0006#ALL#De Ano             ?
+0007#STR0007#ALL#Ate Ano            ?
+0008#STR0008#ALL#De Infração        ?
+0009#STR0009#ALL#Até Infração       ?
+0010#STR0010#ALL#Grupo de Filial    ?
+0011#STR0011#ALL#Processando Registros...
+0012#STR0012#ALL#Selecionando Registros...
+0013#STR0013#ALL#Processando Arquivo...
+0014#STR0014#ALL#Aguarde
+0015#STR0015#ALL#Tipos de Infrações de Trânsito                                  Qtde.      Valor Infração          Valor Pago       %        %Ac.
+0016#STR0016#ALL#Total
+0017#STR0017#ALL#Não existem dados para montar o relatório!
+0018#STR0018#ALL#ATENÇÃO
+0019#STR0019#ALL#Filial             ?
+0020#STR0020#ALL#Motorista
+0021#STR0021#ALL#Empresa
+0022#STR0022#ALL#Pessoa Fisica
+0023#STR0023#ALL#Pessoa Juridica e fisica
+0024#STR0024#ALL#Seguradora
+0025#STR0025#ALL#Transportador
+0026#STR0026#ALL#Expedidor
+0027#STR0027#ALL#De Motorista       ?
+0028#STR0028#ALL#Até Motorista      ?
+0029#STR0029#ALL#Total da Filial
+0030#STR0030#ALL#Ano informado não poderá ser maior que 
+0031#STR0031#ALL#O Ano informado deverá conter 4 dígitos!
+0032#STR0032#ALL#Valor Pago

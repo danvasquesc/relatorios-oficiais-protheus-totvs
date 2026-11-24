@@ -1,0 +1,23 @@
+0001#STR0001#ALL#Zebrado
+0002#STR0002#ALL#Administracao
+0003#STR0003#ALL#Relatório de Indice de Pneus Recusados por Recapadora
+0004#STR0004#ALL#O relatório apresentará índices de pneus
+0005#STR0005#ALL#recusados pelas recapadoras.
+0006#STR0006#ALL#De Filial        ?
+0007#STR0007#ALL#Até Filial       ?
+0008#STR0008#ALL#De  Data         ?
+0009#STR0009#ALL#Até Data         ?
+0010#STR0010#ALL#De Fornecedor    ?
+0011#STR0011#ALL#De Loja          ?
+0012#STR0012#ALL#Até Fornecedor   ?
+0013#STR0013#ALL#Até Loja         ?
+0014#STR0014#ALL#Aguarde...
+0015#STR0015#ALL#Processando Registros...
+0016#STR0016#ALL#Recapadora   Loja   Nome                                       Qtde Enviada   Qtde Recusada   % Recusado
+0017#STR0017#ALL#Não existem dados para montar o relatório!
+0018#STR0018#ALL#ATENÇÃO
+0019#STR0019#ALL#Até Data não pode ser inferior à De Data!
+0020#STR0020#ALL#De Fornecedor deverá ser menor que Até Fornecedor
+0021#STR0021#ALL#Informe o Codigo do Fornecedor
+0022#STR0022#ALL#Informe o Codigo da Loja
+0023#STR0023#ALL#TOTAL

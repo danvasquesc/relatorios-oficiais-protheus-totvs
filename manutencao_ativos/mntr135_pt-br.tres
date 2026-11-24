@@ -1,0 +1,22 @@
+0001#STR0001#ALL#Relatório de Estimativa de Km a Rodar por Tipo de Modelo
+0002#STR0002#ALL#Zebrado
+0003#STR0003#ALL#Administracao
+0004#STR0004#ALL#De Filial              ?
+0005#STR0005#ALL#Ate Filial             ?
+0006#STR0006#ALL#De Modelo              ?
+0007#STR0007#ALL#Ate Modelo             ?
+0008#STR0008#ALL#Qtd. Dias p/ Estimativa?
+0009#STR0009#ALL#Aguarde...
+0010#STR0010#ALL#Processando Registros...
+0011#STR0011#ALL#Tipo Modelo  Desc.Modelo            Fabricante            Centro de Custo       Variação Dia Média  Km´s a Rodar próximos 
+0012#STR0012#ALL# Dias
+0013#STR0013#ALL#Não existem dados para montar o relatório.
+0014#STR0014#ALL#ATENÇÃO
+0015#STR0015#ALL#Filial
+0016#STR0016#ALL#e por Centro de Custos, quebrando por filial.
+0017#STR0017#ALL#Categoria do Bem?
+0018#STR0018#ALL#1=Bem
+0019#STR0019#ALL#2=Integ. TMS
+0020#STR0020#ALL#3=Integ. a Pneu
+0021#STR0021#ALL#4=De Passeio
+0022#STR0022#ALL#5=Todos c/Cont.

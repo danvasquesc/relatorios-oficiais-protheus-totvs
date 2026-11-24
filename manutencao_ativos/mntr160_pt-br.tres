@@ -1,0 +1,19 @@
+0001#STR0001#ALL#De Fabricante.:         ?
+0002#STR0002#ALL#Até Fabricante.:        ?
+0003#STR0003#ALL#De Medida.:             ?
+0004#STR0004#ALL#Até Medida.:            ?
+0005#STR0005#ALL#N.Fogo     Medida  Dt.Compra  Dt.Sulcat.  Banda  Sulco(mm)       KMOR       KMR1       KMR2       KMR3       KMR4       Total Km
+0006#STR0006#ALL#Aguarde...
+0007#STR0007#ALL#Processando Registros...
+0008#STR0008#ALL#Relatorio de Pneus Sucateados por Fabricante
+0009#STR0009#ALL#Zebrado
+0010#STR0010#ALL#Administracao
+0011#STR0011#ALL#N.Fogo     Medida  Descricao            Dt.Compra   Dt.Sulcat.  Banda Sulco(mm)      KMOR       KMR1       KMR2       KMR3       KMR4       Total Km
+0012#STR0012#ALL#Não existem dados para montar o relatório.
+0013#STR0013#ALL#ATENÇÃO
+0014#STR0014#ALL#Fabricante: 
+0015#STR0015#ALL#OR
+0016#STR0016#ALL#R1
+0017#STR0017#ALL#R2
+0018#STR0018#ALL#R3
+0019#STR0019#ALL#R4

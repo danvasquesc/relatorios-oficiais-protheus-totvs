@@ -1,0 +1,19 @@
+0001#STR0001#ALL#Emissao de relatorio de apresentacao do historico dos retornos de contador de um determinado Bem. 
+0002#STR0002#ALL#Historico do Contador
+0003#STR0003#ALL#Codigo do Bem      ?
+0004#STR0004#ALL#Data Inicio        ?
+0005#STR0005#ALL#Data Fim           ?
+0006#STR0006#ALL#Bem..:
+0007#STR0007#ALL#Data       Contador  Var.Dia  Viradas  Tipo Lancamento        Data       Contador  Var.Dia  Viradas  Tipo Lancamento
+0008#STR0008#ALL#Contador: 1
+0009#STR0009#ALL#Contador: 2
+0010#STR0010#ALL#Selecionando Registros...
+0011#STR0011#ALL#Inclusão
+0012#STR0012#ALL#Contador
+0013#STR0013#ALL#Produção
+0014#STR0014#ALL#Abastecimento
+0015#STR0015#ALL#Virada
+0016#STR0016#ALL#Movimentação
+0017#STR0017#ALL#Quebra
+0018#STR0018#ALL#Atenção
+0019#STR0019#ALL#Não existem dados para montar o relatório.
