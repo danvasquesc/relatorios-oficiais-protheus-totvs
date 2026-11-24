@@ -1,0 +1,29 @@
+# Configuracoes locais do VS Code e TDS
+/.vscode/
+/.github/instructions/
+
+# Arquivos temporarios
+*.tmp
+*.temp
+*.bak
+*.swp
+*.old
+*~
+
+# Logs
+*.log
+
+# Arquivos compilados
+*.rpo
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos do Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos do macOS
+.DS_Store
